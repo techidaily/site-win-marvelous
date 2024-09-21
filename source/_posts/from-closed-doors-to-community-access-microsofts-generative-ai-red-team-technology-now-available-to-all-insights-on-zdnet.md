@@ -1,7 +1,7 @@
 ---
 title: "From Closed Doors to Community Access: Microsoft's Generative AI Red Team Technology Now Available to All – Insights on ZDNet"
-date: 2024-09-19 13:39:14
-updated: 2024-09-20 10:31:46
+date: 2024-09-15T21:26:08.146Z
+updated: 2024-09-21T08:53:39.394Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,35 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-leveraging-adobe-connect-for-exceptional-video-capture-and-editing/"><u>[New] Leveraging Adobe Connect for Exceptional Video Capture & Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-twitters-visual-capacity-to-fhd-level/"><u>[Updated] Enhancing Twitter's Visual Capacity to FHD Level</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-easy-conversion-transform-xej-files-into-mp4-format-using-expression-encoder/"><u>1. Easy Conversion: Transform XEJ Files Into MP4 Format Using Expression Encoder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-seamlessly-integrate-your-mts-files-with-the-top-ranked-merger-tools-a-comprehensive-guide/"><u>1. Seamlessly Integrate Your MTS Files with the Top-Ranked Merger Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-troubleshooting-xavc-s-footage-a-guide-to-successful-import-into-davinci-resolve/"><u>1. Troubleshooting XAVC-S Footage: A Guide to Successful Import Into Davinci Resolve</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-5-essential-steps-to-create-viral-titles-online/"><u>2024 Approved 5 Essential Steps to Create Viral Titles Online</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-media-playerdvd/"><u>確実に解決 Windows Media PlayerでDVD再生エラーをどう克服しますか?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1726026684301-dvdmp4/"><u>効果的な方法：DVDファイルをMP4形式でコンパクト化</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-innovative-methods-for-time-loop-illusions/"><u>In 2024, Innovative Methods for Time Loop Illusions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sow-seeds-of-smile-inducing-images/"><u>In 2024, Sow Seeds of Smile-Inducing Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-asus-rog-phone-8-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Asus ROG Phone 8 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-skype-video-issues-on-windows-11/"><u>Quick Solutions: Resolving Skype Video Issues on Windows 11</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-to-downloading-youtube-audio-without-charge-best-android-apps/"><u>Ultimate Guide to Downloading YouTube Audio Without Charge - Best Android Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-software-on-canon-mg2900-easy-driver-download-guide/"><u>Update Software on Canon MG2900 | Easy Driver Download Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
