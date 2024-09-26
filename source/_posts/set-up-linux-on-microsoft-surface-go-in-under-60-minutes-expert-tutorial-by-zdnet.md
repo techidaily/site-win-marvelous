@@ -1,7 +1,7 @@
 ---
 title: Set Up Linux on Microsoft Surface Go in Under 60 Minutes – Expert Tutorial by ZDnet
-date: 2024-09-14T05:07:51.577Z
-updated: 2024-09-21T09:07:24.433Z
+date: 2024-09-23T00:39:27.399Z
+updated: 2024-09-26T00:13:26.591Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -138,6 +151,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +200,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-the-artisans-handbook-to-photomontage-creation-for-2024/"><u>[New] The Artisan's Handbook to PhotoMontage Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedited-files-scanning-on-windows-os/"><u>[Updated] Expedited Files Scanning on Windows OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-online-oasis-viewer-for-2024/"><u>[Updated] Online Oasis Viewer for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streaming-success-starts-here-8-tips-for-beginners-for-2024/"><u>[Updated] Streaming Success Starts Here - 8 Tips for Beginners for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nokia-c02-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nokia C02</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/essential-tips-for-crafting-effective-scenes-in-flip-programs-understanding-capabilities-and-boundaries/"><u>Essential Tips for Crafting Effective Scenes in Flip Programs: Understanding Capabilities and Boundaries</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-does-flipbuilder-utilize-folder-files-page-and-large-files-management-for-optimized-functionality/"><u>How Does FlipBuilder Utilize Folder, Files Page, and Large Files Management for Optimized Functionality?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-create-bilingual-button-labels-in-flipbuilder-mixing-portuguese-and-english/"><u>How to Create Bilingual Button Labels in FlipBuilder: Mixing Portuguese and English</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-use-flipbuilders-image-cropping-tool-on-your-project/"><u>How to Use FlipBuilder's Image Cropping Tool on Your Project</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-digital-flipping-your-guide-to-using-flipbooks-on-iphones-and-ipads/"><u>Mastering the Art of Digital Flipping: Your Guide to Using FlipBooks on iPhones and iPads</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-top-10-free-mkv-cutter-tools-you-should-try/"><u>Updated 2024 Approved The Top 10 Free MKV Cutter Tools You Should Try</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-online-audiophiles-mp3-decomposer-and-assembler/"><u>Updated Online Audiophiles MP3 Decomposer & Assembler</u></a></li>
+</ul></div>
 

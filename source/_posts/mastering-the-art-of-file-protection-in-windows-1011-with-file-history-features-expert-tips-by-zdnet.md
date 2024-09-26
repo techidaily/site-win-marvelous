@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of File Protection in Windows 10/11 with File History Features | Expert Tips by ZDNET
-date: 2024-09-20T05:47:51.453Z
-updated: 2024-09-20T16:36:48.249Z
+date: 2024-09-22T21:54:07.944Z
+updated: 2024-09-25T22:13:06.666Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -134,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -180,5 +194,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-mobvoi-ticwatch-pro-3-the-power-behind-gps-precision-and-extended-battery-via-dual-displays/"><u>Exploring the Features of the Mobvoi TicWatch Pro 3 - The Power Behind GPS Precision and Extended Battery via Dual Displays</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-the-missing-mscorwksdll-message-on-your-pc-step-by-step-instructions/"><u>Fix the 'Missing mscorwks.dll' Message on Your PC – Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/gomovies-premium-downloads-high-quality-mp4-mov-and-more-for-your-collection/"><u>GoMovies Premium Downloads: High-Quality MP4, MOV & More for Your Collection</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-safely-acquire-and-convert-the-movie-dangal-into-various-hd-quality-formats-for-streaming-or-offline-viewing/"><u>How to Safely Acquire and Convert the Movie 'Dangal' Into Various HD Quality Formats for Streaming or Offline Viewing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-save-red-bull-tv-content-as-mp4-or-avi-files-a-step-by-step-guide/"><u>How to Save Red Bull TV Content as MP4 or AVI Files - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-essential-watchlist-15-must-see-stop-motion-classics/"><u>In 2024, Essential Watchlist 15 Must-See Stop-Motion Classics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shortcuts-to-excellent-iphone-time-lapse-videos/"><u>In 2024, Shortcuts to Excellent iPhone Time Lapse Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists-for-2024/"><u>Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-converting-and-saving-udemy-lectures-download-options-for-mp4-mp3-mov-avi-audiovideo-formats/"><u>Mastering the Art of Converting and Saving Udemy Lectures: Download Options for MP4, MP3, MOV, AVI Audio/Video Formats</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-process-extracting-videos-from-sharptrades-platform/"><u>Mastering the Process: Extracting Videos From SharpTrades Platform</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-mp4-video-trimming-software-top-picks-for-2024/"><u>New Free MP4 Video Trimming Software Top Picks for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/offline-spotify-streaming-on-your-apple-watch-no-iphone-required/"><u>Offline Spotify Streaming on Your Apple Watch: No iPhone Required</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-methods-for-increased-srt-on-macoswindows-for-2024/"><u>Pioneering Methods for Increased SRT on macOS/Windows for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/save-and-enjoy-ctv-news-videos-anywhere-easy-download-method-for-windowsmac-users/"><u>Save and Enjoy CTV News Videos Anywhere: Easy Download Method for Windows/Mac Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-update-guide-how-to-change-your-standard-sata-ahci-controller-drivers/"><u>Simple Update Guide: How to Change Your Standard SATA AHCI Controller Drivers</u></a></li>
+</ul></div>
 

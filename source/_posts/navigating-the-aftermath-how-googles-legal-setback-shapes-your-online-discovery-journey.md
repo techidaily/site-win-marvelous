@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Aftermath: How Google's Legal Setback Shapes Your Online Discovery Journey"
-date: 2024-09-15T17:38:17.342Z
-updated: 2024-09-21T04:07:39.809Z
+date: 2024-09-19T21:38:54.854Z
+updated: 2024-09-25T20:15:07.323Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -134,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -180,5 +194,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>[New] Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[Updated] 2024 Approved Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-simple-win-11-recorders/"><u>[Updated] Cutting-Edge Simple Win 11 Recorders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-palettes-power-in-film-editing-techniques/"><u>[Updated] The Palette's Power in Film Editing Techniques</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-media-playerdvd/"><u>確実に解決 Windows Media PlayerでDVD再生エラーをどう克服しますか?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/adjusting-the-position-of-toolbars-in-floating-templates-using-flipbooks-builder-a-step-by-step-guide/"><u>Adjusting the Position of Toolbars in Floating Templates Using FlipBook's Builder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/create-interactive-digital-magaznies-from-pdfs-using-our-no-cost-pdf-flipsheet-maker/"><u>Create Interactive Digital Magaznies From PDFs Using Our No-Cost PDF Flipsheet Maker</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-unique-content-in-our-customizable-flipbooks-at-flipbuildercom/"><u>Discover Unique Content in Our Customizable Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-8-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 8</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-resolve-delayed-video-posts-in-facebook-messenger-for-iosandroid-users/"><u>How to Resolve Delayed Video Posts in Facebook Messenger for iOS/Android Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-chromebooks-premium-free-video-capture-extensions/"><u>In 2024, Chromebook's Premium Free Video Capture Extensions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-through-the-top-10-historical-content-hubs-for-2024/"><u>Navigating Through the Top 10 Historical Content Hubs for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-c53-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme C53 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-to-downloading-youtube-audio-without-charge-best-android-apps/"><u>Ultimate Guide to Downloading YouTube Audio Without Charge - Best Android Apps</u></a></li>
+</ul></div>
 

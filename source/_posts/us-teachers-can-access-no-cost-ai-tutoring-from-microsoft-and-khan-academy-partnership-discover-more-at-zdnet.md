@@ -1,7 +1,7 @@
 ---
 title: U.S. Teachers Can Access No-Cost AI Tutoring From Microsoft & Khan Academy Partnership | Discover More at ZDNet
-date: 2024-09-18T05:56:28.730Z
-updated: 2024-09-21T09:40:42.293Z
+date: 2024-09-19T22:33:20.369Z
+updated: 2024-09-25T16:27:30.247Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success/"><u>[New] In 2024, Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/101plus-nifty-french-phrases-for-savvy-travelers-in-france/"><u>101+ Nifty French Phrases for Savvy Travelers in France</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/converting-text-into-engaging-flipbooks-using-sequential-ordering-techniques-in-flipbuilder/"><u>Converting Text Into Engaging Flipbooks Using Sequential Ordering Techniques in FlipBuilder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-creation-and-publishing-of-ibooks-for-ipad-using-flippdf-builder-on-mac/"><u>Effortless Creation & Publishing of iBooks for iPad Using FlipPDF Builder on Mac</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/essential-tips-for-crafting-effective-scenes-in-flip-programs-understanding-capabilities-and-boundaries/"><u>Essential Tips for Crafting Effective Scenes in Flip Programs: Understanding Capabilities and Boundaries</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-does-flipbuilder-utilize-folder-files-page-and-large-files-management-for-optimized-functionality/"><u>How Does FlipBuilder Utilize Folder, Files Page, and Large Files Management for Optimized Functionality?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-create-bilingual-button-labels-in-flipbuilder-mixing-portuguese-and-english/"><u>How to Create Bilingual Button Labels in FlipBuilder: Mixing Portuguese and English</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-use-flipbuilders-image-cropping-tool-on-your-project/"><u>How to Use FlipBuilder's Image Cropping Tool on Your Project</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-10-virtual-photo-backdrop-modifiers/"><u>Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ctly-positioned-cards-youtube-embedding-techniques-for-2024/"><u>Perfectly Positioned Cards YouTube Embedding Techniques for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x9b-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X9b Phones</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-post-update-blue-screen-issues-on-windows-11/"><u>Troubleshooting Post-Update Blue Screen Issues on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-tips-and-tricks-for-forcing-an-unresponsive-app-to-quit/"><u>Ultimate Guide: Tips and Tricks for Forcing an Unresponsive App to Quit</u></a></li>
+</ul></div>
 

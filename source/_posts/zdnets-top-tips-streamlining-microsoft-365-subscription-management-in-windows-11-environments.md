@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Top Tips: Streamlining Microsoft 365 Subscription Management in Windows 11 Environments"
-date: 2024-09-20T02:15:31.985Z
-updated: 2024-09-21T02:20:48.383Z
+date: 2024-09-20T20:59:09.847Z
+updated: 2024-09-25T17:22:39.155Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -116,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -128,21 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -186,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-crescendo-to-connectivity-linking-song-lists-across-platforms/"><u>[Updated] Crescendo to Connectivity Linking Song Lists Across Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-wave-goodbye-to-breakups-keep-your-streak-going-for-2024/"><u>[Updated] Wave Goodbye to Breakups Keep Your Streak Going for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-scanner-setup-made-simple-how-to-acquire-and-install-necessary-drivers/"><u>Epson Scanner Setup Made Simple: How to Acquire and Install Necessary Drivers</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expanding-your-surface-pro-storage-space-for-less-follow-these-simple-steps-to-boost-capacity-and-cut-costs/"><u>Expanding Your Surface Pro Storage Space for Less: Follow These Simple Steps to Boost Capacity and Cut Costs!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-secure-and-intuitive-arlo-smart-home-surveillance/"><u>Experience the Secure and Intuitive Arlo Smart Home Surveillance</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expert-advice-eliminating-bloatware-in-your-windows-10-system-insights-by-zdnets-it-gurus/"><u>Expert Advice: Eliminating Bloatware in Your Windows 10 System | Insights by ZDNet's IT Gurus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-ott-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .ott file Document</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-factors-in-selecting-an-hmd-vr-headset/"><u>Key Factors in Selecting an HMD (VR) Headset</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-microsoft-excel-with-chatgpt-a-guide-to-automating-formula-creation/"><u>Mastering Microsoft Excel with ChatGPT: A Guide to Automating Formula Creation</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/microsoft-shifts-strategy-to-charge-for-windows-10-updates-from-next-year-learn-the-cost-details-zdnet/"><u>Microsoft Shifts Strategy to Charge for Windows 지엠티 10 Updates From Next Year; Learn the Cost Details | ZDNET</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/office-upheaval-stemming-from-microsoft-teams-usage-gone-awry-a-managerial-meltdown-unveiled-zdnet/"><u>Office Upheaval Stemming From Microsoft Teams Usage Gone Awry – A Managerial Meltdown Unveiled | ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/propelling-a-greener-future-how-microsofts-half-a-billion-dollar-bet-on-lanzajet-is-changing-data-center-sustainability/"><u>Propelling a Greener Future: How Microsoft's Half-a-Billion Dollar Bet on LanzaJet Is Changing Data Center Sustainability</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protect-privacy-a-users-manual-for-total-iphone-data-wipe-via-stellar-tool/"><u>Protect Privacy: A User's Manual for Total iPhone Data Wipe via Stellar Tool</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revive-your-aging-pc-with-these-5-time-tested-tricks-for-windows-10-users-many-options-completely-gratis-zdnet-guide/"><u>Revive Your Aging PC with These 5 Time-Tested Tricks for Windows 10 Users - Many Options Completely Gratis! [ZDNet Guide]</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-accounts-with-multi-layered-defense-enabling-2fa-simplified-insights-by-zdnet/"><u>Secure Your Accounts with Multi-Layered Defense: Enabling 2FA Simplified | Insights by ZDNET</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-3-android-office-alternatives-that-outshine-google-docs-a-comprehensive-review-by-a-seasoned-tech-expert/"><u>Top 3 Android Office Alternatives That Outshine Google Docs: A Comprehensive Review by a Seasoned Tech Expert</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/voice-log-export-and-critique-for-2024/"><u>Voice Log Export & Critique for 2024</u></a></li>
+</ul></div>
 

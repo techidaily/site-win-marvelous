@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Microsoft Surface Laptop N: A Balanced Take on Its Shortcomings - Insights From ZDNet"
-date: 2024-09-18T00:51:53.881Z
-updated: 2024-09-20T19:30:35.920Z
+date: 2024-09-20T21:27:50.503Z
+updated: 2024-09-25T18:10:58.685Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-mastery-how-to-add-structure-and-subdivisions-for-enhanced-content/"><u>[Updated] YouTube Mastery How to Add Structure and Subdivisions for Enhanced Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-warzone-directx-error-a-step-by-step-tutorial-for-seamless-gameplay/"><u>Banish the 'Warzone DirectX Error': A Step-by-Step Tutorial for Seamless Gameplay</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/becoming-a-windows-insider-your-guide-to-enrollment-in-the-microsoft-community-and-its-benefits-zdnet/"><u>Becoming a Windows Insider: Your Guide to Enrollment in the Microsoft Community and Its Benefits - ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-microsofts-vision-windows-as-a-catalyst-for-hybrid-working-environments/"><u>Discover Microsoft's Vision: Windows as a Catalyst for Hybrid Working Environments</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/enhance-your-online-safety-top-5-microsoft-edge-tweaks-that-outshine-chromes-security-features/"><u>Enhance Your Online Safety: Top 5 Microsoft Edge Tweaks That Outshine Chrome's Security Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/get-the-best-audio-quality-for-your-music-with-zingmp3-downloads-now-available-as-mp3-flac-wav-aac-and-m4a/"><u>Get the Best Audio Quality for Your Music with ZingMP3 Downloads Now Available as MP3, FLAC, WAV, AAC, and M4A</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-microsoft-identifies-the-secret-formula-of-11-techniques-for-successful-ai-habit-formation-zdnet-exclusive/"><u>How Microsoft Identifies The Secret Formula of 11 Techniques for Successful AI Habit Formation | ZDNET Exclusive</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-m6-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco M6 5G Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-htc-u23-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on HTC U23 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v30-lite-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V30 Lite 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715859771485-in-2024-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>In 2024, How to Minimize Stress in iPad Screen Recordings? Here's a Way!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-file-protection-in-windows-1011-with-file-history-features-expert-tips-by-zdnet/"><u>Mastering the Art of File Protection in Windows 10/11 with File History Features | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc-dvdwindowsmac/"><u>PCへ移行! DVD画像を簡単に取り込み方「Windows・Macオペレーティングシステム用」</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-v29-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo V29</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-photoshop-scratch-disk-capacity-issue/"><u>Resolving the Photoshop Scratch Disk Capacity Issue</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/the-end-of-windows-control-panel-microsoft-announces-major-shift-are-we-witnessing-the-future-yet-gadgetguru/"><u>The End of Windows Control Panel?: Microsoft Announces Major Shift - Are We Witnessing the Future Yet? | GadgetGuru</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/transforming-the-future-of-user-assistance-microsoft-evolves-windows-copilot-into-an-application-for-enhanced-usability-zdnet/"><u>Transforming the Future of User Assistance: Microsoft Evolves Windows Copilot Into an Application for Enhanced Usability | ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-savings-made-simple-expert-tips-for-choosing-gift-cards-during-black-friday-sales/"><u>Unlock Savings Made Simple: Expert Tips for Choosing Gift Cards During Black Friday Sales!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/zdnets-top-tips-streamlining-microsoft-365-subscription-management-in-windows-11-environments/"><u>ZDNet's Top Tips: Streamlining Microsoft 365 Subscription Management in Windows 11 Environments</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Controversial Release: Is Windows 11 Already Facing Backlash? Insights From ZDNet"
-date: 2024-09-18T02:47:28.733Z
-updated: 2024-09-21T04:50:38.989Z
+date: 2024-09-19T01:30:01.866Z
+updated: 2024-09-25T23:05:25.211Z
 tags:
   - windows
 categories:
@@ -33,11 +33,25 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -49,10 +63,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -84,13 +98,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -98,10 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -147,5 +154,16 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[Updated] In 2024, How to Fix the Green Screen on YouTube on Mac?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-s18e-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo S18e Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-use-flipbuilders-image-cropping-tool-on-your-project/"><u>How to Use FlipBuilder's Image Cropping Tool on Your Project</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hp-laptop-woes-discover-why-its-running-slow-and-fix-it-now/"><u>HP Laptop Woes? Discover Why It's Running Slow and Fix It Now!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-sharing-guide-for-tiktok-content/"><u>In 2024, Twitter Sharing Guide for TikTok Content</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-digital-flipping-your-guide-to-using-flipbooks-on-iphones-and-ipads/"><u>Mastering the Art of Digital Flipping: Your Guide to Using FlipBooks on iPhones and iPads</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revamp-your-ebook-layouts-master-changing-background-in-flipbuildercom/"><u>Revamp Your eBook Layouts: Master Changing Background in FlipBuilder.com</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reversing-reading-direction-how-to-adjust-book-page-orientation-from-right-to-left-using-flipbuilder/"><u>Reversing Reading Direction: How To Adjust Book Page Orientation From Right-to-Left Using FlipBuilder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-videos-audio-from-3gp-to-crystal-clear-mp3-for-free-with-movavis-online-tool/"><u>Transform Your Video's Audio From 3GP to Crystal Clear MP3 for Free with Movavi’s Online Tool</u></a></li>
+</ul></div>
 

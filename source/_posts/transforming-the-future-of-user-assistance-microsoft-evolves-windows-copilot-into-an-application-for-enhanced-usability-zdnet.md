@@ -1,7 +1,7 @@
 ---
 title: "Transforming the Future of User Assistance: Microsoft Evolves Windows Copilot Into an Application for Enhanced Usability | ZDNet"
-date: 2024-09-13T16:07:58.272Z
-updated: 2024-09-21T03:51:10.022Z
+date: 2024-09-20T00:19:50.790Z
+updated: 2024-09-25T19:16:32.019Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-text-tactics-top-10-best-practices/"><u>[New] Text Tactics Top 10 Best Practices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-the-right-gimbal-dslr-vs-mirrorless-edition/"><u>Choosing the Right Gimbal DSLR vs Mirrorless Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-compelling-combinations-a-guide-to-creating-your-own-youtube-playlists/"><u>Crafting Compelling Combinations A Guide to Creating Your Own YouTube Playlists</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-troubleshoot-and-repair-hp-screen-drivers-on-win-1087/"><u>How To Troubleshoot and Repair HP Screen Drivers on Win 10/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hush-the-whirring-effective-remedies-to-address-your-speakers-noise-problems/"><u>Hush the Whirring: Effective Remedies to Address Your Speakers' Noise Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solve-your-video-playback-problems-on-youtube-easily/"><u>Solve Your Video Playback Problems on YouTube Easily</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-downloading-shutterstock-footage-from-pc-or-mac/"><u>Step-by-Step Guide: Downloading Shutterstock Footage From PC or Mac</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-access-and-use-spotify-on-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Access and Use Spotify on an iPhone or iPad</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-alternatives-to-flvto-enhance-your-video-conversions/"><u>Top Alternatives to FLVTO: Enhance Your Video Conversions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-torrent-sites-for-mac-and-windows-unlimited-free-downloads/"><u>Top Torrent Sites for Mac & Windows: Unlimited Free Downloads!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-downloading-your-favorite-tracks-from-rdio/"><u>Ultimate Guide: Downloading Your Favorite Tracks From Rdio</u></a></li>
+</ul></div>
 

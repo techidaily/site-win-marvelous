@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel with ChatGPT: A Guide to Automating Formula Creation"
-date: 2024-09-17T09:34:52.149Z
-updated: 2024-09-20T17:30:21.989Z
+date: 2024-09-18T17:05:49.231Z
+updated: 2024-09-25T17:57:49.097Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,28 +129,34 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,5 +200,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-iphone-camera-roll-synergy-with-snapchat-sharing/"><u>[New] 2024 Approved IPhone Camera Roll Synergy with Snapchat Sharing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-mealtime-magic-the-most-entertaining-food-moments/"><u>[New] Mealtime Magic The Most Entertaining Food Moments</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-quick-guide-how-to-save-your-favorite-blip-tv-episodes-on-mac-and-pc/"><u>1. Quick Guide: How to Save Your Favorite Blip TV Episodes on Mac & PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>2024 Approved Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/converting-your-domestika-course-downloads-into-various-formats-mp4-avi-and-more/"><u>Converting Your Domestika Course Downloads Into Various Formats (MP4, AVI, & More)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-selection-of-10-a-list-camera-lenses/"><u>Elite Selection of 10 A-List Camera Lenses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-online-amv-converter-para-mp4-guia-completo-pelo-movavi/"><u>Gratis Online AMV Converter Para MP4 - Guia Completo Pelo Movavi</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-download-music-from-facebook-videos-and-save-as-mp3s-step-by-step-instructions/"><u>How To Download Music From Facebook Videos and Save as MP3s: Step-by-Step Instructions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-13-mini-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 13 mini in the Best Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-unfreezing-process-effective-ways-to-revive-your-windows-10-taskbar/"><u>Mastering the Unfreezing Process: Effective Ways to Revive Your Windows 10 Taskbar</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/quickdramasizer-save-and-convert-dramafire-episodes-for-offline-viewing-in-mp4/"><u>QuickDramasizer: Save and Convert DramaFire Episodes for Offline Viewing in MP4</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-search-service-not-available-on-windows/"><u>Tackling Search Service Not Available on Windows</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-solving-the-sky-on-demand-download-problem-with-6-key-strategies/"><u>Ultimate Guide: Solving the Sky On Demand Download Problem with 6 Key Strategies</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-techniques-to-save-and-transfer-videos-from-acorntv-for-desktop-users/"><u>Ultimate Techniques to Save and Transfer Videos From AcornTV for Desktop Users</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-access-to-thousands-of-videos-and-lectures-streamline-your-data-collection-with-allavsoft-for-music-video-courses-and-beyond/"><u>Unlock Access to Thousands of Videos and Lectures - Streamline Your Data Collection with Allavsoft for Music, Video, Courses & Beyond!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows & Office Lifecycle Alert: Predicting when Microsoft Will End Product Succession"
-date: 2024-09-17T17:47:53.980Z
-updated: 2024-09-21T06:36:19.194Z
+date: 2024-09-23T17:28:28.131Z
+updated: 2024-09-25T19:38:33.827Z
 tags:
   - windows
 categories:
@@ -39,13 +39,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -55,24 +48,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -97,6 +84,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -104,10 +98,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -115,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -153,5 +154,20 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys-for-2024/"><u>[New] Enhance Productivity Mac Screen Capture Made Simple Using Shortcut Keys for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-data-visualization-for-effective-communication/"><u>[Updated] Mastering the Art of Data Visualization for Effective Communication</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>2024 Approved Unveiling Prime HDR Cameras A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieving-virality-on-youtube-essential-steps-demystified/"><u>Achieving Virality on YouTube Essential Steps Demystified</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/becoming-a-windows-insider-your-guide-to-enrollment-in-the-microsoft-community-and-its-benefits-zdnet/"><u>Becoming a Windows Insider: Your Guide to Enrollment in the Microsoft Community and Its Benefits - ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/historical-imagery-unleashed-from-copyrights-for-2024/"><u>Historical Imagery Unleashed From Copyrights for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-microsoft-identifies-the-secret-formula-of-11-techniques-for-successful-ai-habit-formation-zdnet-exclusive/"><u>How Microsoft Identifies The Secret Formula of 11 Techniques for Successful AI Habit Formation | ZDNET Exclusive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-deformation-masterclass-essentials/"><u>In 2024, Photo Deformation Masterclass Essentials</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/im-your-view-2-ways-to-access-deleted-youtube/"><u>Reclaim Your View 2 Ways to Access Deleted YouTube</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/set-up-linux-on-microsoft-surface-go-in-under-60-minutes-expert-tutorial-by-zdnet/"><u>Set Up Linux on Microsoft Surface Go in Under 60 Minutes – Expert Tutorial by ZDnet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-when-your-wii-cant-read-discs-a-comprehensive-guide/"><u>Solutions for When Your Wii Can't Read Discs: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/transforming-the-future-of-user-assistance-microsoft-evolves-windows-copilot-into-an-application-for-enhanced-usability-zdnet/"><u>Transforming the Future of User Assistance: Microsoft Evolves Windows Copilot Into an Application for Enhanced Usability | ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-savings-made-simple-expert-tips-for-choosing-gift-cards-during-black-friday-sales/"><u>Unlock Savings Made Simple: Expert Tips for Choosing Gift Cards During Black Friday Sales!</u></a></li>
+</ul></div>
 
