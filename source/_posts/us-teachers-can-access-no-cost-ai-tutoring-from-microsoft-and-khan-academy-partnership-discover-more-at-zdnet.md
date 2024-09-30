@@ -1,7 +1,7 @@
 ---
 title: U.S. Teachers Can Access No-Cost AI Tutoring From Microsoft & Khan Academy Partnership | Discover More at ZDNet
-date: 2024-09-19T22:33:20.369Z
-updated: 2024-09-25T16:27:30.247Z
+date: 2024-09-23T16:03:31.454Z
+updated: 2024-09-30T16:02:32.913Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success/"><u>[New] In 2024, Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/101plus-nifty-french-phrases-for-savvy-travelers-in-france/"><u>101+ Nifty French Phrases for Savvy Travelers in France</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/converting-text-into-engaging-flipbooks-using-sequential-ordering-techniques-in-flipbuilder/"><u>Converting Text Into Engaging Flipbooks Using Sequential Ordering Techniques in FlipBuilder</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-creation-and-publishing-of-ibooks-for-ipad-using-flippdf-builder-on-mac/"><u>Effortless Creation & Publishing of iBooks for iPad Using FlipPDF Builder on Mac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/essential-tips-for-crafting-effective-scenes-in-flip-programs-understanding-capabilities-and-boundaries/"><u>Essential Tips for Crafting Effective Scenes in Flip Programs: Understanding Capabilities and Boundaries</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-does-flipbuilder-utilize-folder-files-page-and-large-files-management-for-optimized-functionality/"><u>How Does FlipBuilder Utilize Folder, Files Page, and Large Files Management for Optimized Functionality?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-create-bilingual-button-labels-in-flipbuilder-mixing-portuguese-and-english/"><u>How to Create Bilingual Button Labels in FlipBuilder: Mixing Portuguese and English</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-use-flipbuilders-image-cropping-tool-on-your-project/"><u>How to Use FlipBuilder's Image Cropping Tool on Your Project</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-10-virtual-photo-backdrop-modifiers/"><u>Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ctly-positioned-cards-youtube-embedding-techniques-for-2024/"><u>Perfectly Positioned Cards YouTube Embedding Techniques for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x9b-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X9b Phones</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-post-update-blue-screen-issues-on-windows-11/"><u>Troubleshooting Post-Update Blue Screen Issues on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-tips-and-tricks-for-forcing-an-unresponsive-app-to-quit/"><u>Ultimate Guide: Tips and Tricks for Forcing an Unresponsive App to Quit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-understanding-how-youtube-processes-videos-after-they-are-uploaded/"><u>[New] Understanding How YouTube Processes Videos After They Are Uploaded</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-passive-to-profitable-8-beginners-revenue-hacks-for-youtube-for-2024/"><u>[Updated] From Passive to Profitable 8 Beginner's Revenue Hacks for YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-achieving-precision-with-obs-implementing-timer-functionality/"><u>[Updated] In 2024, Achieving Precision with OBS Implementing Timer Functionality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-ultimate-powerdirector-mastery-a-comprehensive-guide/"><u>[Updated] In 2024, Ultimate PowerDirector Mastery A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/2024-gifgif/"><u>2024年に人気! GIF制作ツールガイドとシンプルなGIF作成手順</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/55s76z2i44ks5zcm5pmc44gr6yyy55s744o76yyy6zplusz44gz44kl5yq55p6c55qe5oml5rov/"><u>画面を同時に録画・録音する効果的手法</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-zero-cost-software-for-transforming-social-media-sounds-into-pure-mp3-files-ad-free-seamless-conversion-guaranteed/"><u>Best Zero-Cost Software for Transforming Social Media Sounds Into Pure MP3 Files: Ad-Free, Seamless Conversion Guaranteed!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/convert-mpg-and-mp3-to-m4v-format-free-online-easy-guide/"><u>Convert MPG & MP3 to M4V Format FREE Online - Easy Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-the-top-5-successors-of-imgburn-ultimate-burning-software-rankings/"><u>Discover the Top 5 Successors of ImgBurn: Ultimate Burning Software Rankings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-play-the-zephyrus-g14-by-asus-redefines-laptop-aesthetics-with-a-colorful-adaptive-e-paper-screen/"><u>Elevate Your Play: The Zephyrus G1^4 by Asus Redefines Laptop Aesthetics With a Colorful, Adaptive E-Paper Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-a1x-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo A1x 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlining-roblox-games-on-mac-for-recording/"><u>In 2024, Streamlining Roblox Games on Mac for Recording</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-8-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 8 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-rapidamente-i-tuoi-grandi-file-vob-in-mp4-gratuitamente-sia-versioni-con-protezione-che-senza/"><u>Trasforma Rapidamente I Tuoi Grandi File VOB in MP4 Gratuitamente, Sia Versioni Con Protezione Che Senza!</u></a></li>
 </ul></div>
 

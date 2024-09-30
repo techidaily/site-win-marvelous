@@ -1,7 +1,7 @@
 ---
 title: "Securing the Web: How Adjusting These 5 Microsoft Edge Settings Surpasses Google Chrome in Protection"
-date: 2024-09-20T16:21:52.293Z
-updated: 2024-09-25T17:00:11.081Z
+date: 2024-09-26T16:00:33.370Z
+updated: 2024-09-30T16:02:12.382Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,28 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>[New] 2024 Approved PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-picks-free-download-sites-for-custom-skype-tones/"><u>[Updated] 2024 Approved Top Picks Free Download Sites for Custom Skype Tones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-video-enhancement-through-strategic-illumination-methods/"><u>[Updated] YouTube Video Enhancement Through Strategic Illumination Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-picks-best-selling-oculus-rift-games/"><u>2024 Approved Premier Picks Best-Selling Oculus Rift Games</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-art-of-curating-credible-outro-vibes/"><u>2024 Approved The Art of Curating Credible Outro Vibes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-10-solved/"><u>How To Restore Vanished Desktop Icons In Windows 10 (Solved!)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel P55 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/in-depth-guide-wonderfox-dvd-ripping-software-features/"><u>In-Depth Guide: WonderFox DVD Ripping Software Features</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/iphoneandroidmp4/"><u>IPhone・AndroidのスマホでMP4ファイルをメッセージ受信音に設定する手順</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/is-using-zamzar-secure-insights-into-the-trustworthiness-of-online-file-conversion-services/"><u>Is Using Zamzar Secure? Insights Into the Trustworthiness of Online File Conversion Services</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/no-cost-solutions-for-adding-mp3-audio-to-your-youtube-channel/"><u>No Cost Solutions for Adding MP3 Audio to Your YouTube Channel</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-media-conversion-the-ultimate-guide-for-mp4-to-mpeg-4-upgrading/"><u>Seamless Media Conversion: The Ultimate Guide for MP4 to MPEG-4 Upgrading</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-capturing-voice-chat-audio-from-teamspeak-in-windows-and-macos/"><u>Step-by-Step Guide: Capturing Voice Chat Audio From TeamSpeak in Windows and macOS</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-downloading-the-epson-xp-400-drivers-complete-guide/"><u>Step-by-Step Instructions for Downloading the Epson XP 400 Drivers - Complete Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-for-converting-premium-mpeg-videos-into-smooth-animation-gifs/"><u>Step-by-Step Tutorial for Converting Premium MPEG Videos Into Smooth Animation GIFs</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/successful-techniques-for-combining-multiple-mp4-videos-using-vlc-media-player/"><u>Successful Techniques for Combining Multiple MP4 Videos Using VLC Media Player</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-revolutionize-your-content-creation-the-mi-11s-screen-record-capabilities/"><u>[New] 2024 Approved Revolutionize Your Content Creation The Mi 11'S Screen Record Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-secrets-to-mass-downloading-videos-from-tiktok/"><u>[New] 2024 Approved Secrets to Mass Downloading Videos From TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-settle-down-with-our-best-10-chill-titles/"><u>[New] 2024 Approved Settle Down with Our Best 10 Chill Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-tech-for-speedy-video-frame-snapping-for-2024/"><u>[New] Top Tech for Speedy Video Frame Snapping for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-solution-for-twitter-videos-not-playing-in-chrome-for-2024/"><u>[Updated] Solution for Twitter Videos Not Playing in Chrome for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/evaluating-the-microsoft-surface-laptop-n-a-balanced-take-on-its-shortcomings-insights-from-zdnet/"><u>Evaluating the Microsoft Surface Laptop N: A Balanced Take on Its Shortcomings - Insights From ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expert-advice-eliminating-bloatware-in-your-windows-10-system-insights-by-zdnets-it-gurus/"><u>Expert Advice: Eliminating Bloatware in Your Windows 10 System | Insights by ZDNet's IT Gurus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-note-13-proplus-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi Note 13 Pro+ 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/microsoft-shifts-strategy-to-charge-for-windows-10-updates-from-next-year-learn-the-cost-details-zdnet/"><u>Microsoft Shifts Strategy to Charge for Windows 지엠티 10 Updates From Next Year; Learn the Cost Details | ZDNET</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/office-upheaval-stemming-from-microsoft-teams-usage-gone-awry-a-managerial-meltdown-unveiled-zdnet/"><u>Office Upheaval Stemming From Microsoft Teams Usage Gone Awry – A Managerial Meltdown Unveiled | ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/propelling-a-greener-future-how-microsofts-half-a-billion-dollar-bet-on-lanzajet-is-changing-data-center-sustainability/"><u>Propelling a Greener Future: How Microsoft's Half-a-Billion Dollar Bet on LanzaJet Is Changing Data Center Sustainability</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revive-your-aging-pc-with-these-5-time-tested-tricks-for-windows-10-users-many-options-completely-gratis-zdnet-guide/"><u>Revive Your Aging PC with These 5 Time-Tested Tricks for Windows 10 Users - Many Options Completely Gratis! [ZDNet Guide]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-smart-8-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Smart 8 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/us-teachers-can-access-no-cost-ai-tutoring-from-microsoft-and-khan-academy-partnership-discover-more-at-zdnet/"><u>U.S. Teachers Can Access No-Cost AI Tutoring From Microsoft & Khan Academy Partnership | Discover More at ZDNet</u></a></li>
 </ul></div>
 

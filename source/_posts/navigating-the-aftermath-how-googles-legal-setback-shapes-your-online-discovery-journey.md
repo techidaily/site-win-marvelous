@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Aftermath: How Google's Legal Setback Shapes Your Online Discovery Journey"
-date: 2024-09-19T21:38:54.854Z
-updated: 2024-09-25T20:15:07.323Z
+date: 2024-09-25T16:01:23.543Z
+updated: 2024-09-30T16:01:28.384Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +135,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>[New] Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[Updated] 2024 Approved Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-simple-win-11-recorders/"><u>[Updated] Cutting-Edge Simple Win 11 Recorders</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-palettes-power-in-film-editing-techniques/"><u>[Updated] The Palette's Power in Film Editing Techniques</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-media-playerdvd/"><u>確実に解決 Windows Media PlayerでDVD再生エラーをどう克服しますか?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/adjusting-the-position-of-toolbars-in-floating-templates-using-flipbooks-builder-a-step-by-step-guide/"><u>Adjusting the Position of Toolbars in Floating Templates Using FlipBook's Builder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/create-interactive-digital-magaznies-from-pdfs-using-our-no-cost-pdf-flipsheet-maker/"><u>Create Interactive Digital Magaznies From PDFs Using Our No-Cost PDF Flipsheet Maker</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-unique-content-in-our-customizable-flipbooks-at-flipbuildercom/"><u>Discover Unique Content in Our Customizable Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-8-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 8</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-resolve-delayed-video-posts-in-facebook-messenger-for-iosandroid-users/"><u>How to Resolve Delayed Video Posts in Facebook Messenger for iOS/Android Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-chromebooks-premium-free-video-capture-extensions/"><u>In 2024, Chromebook's Premium Free Video Capture Extensions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-through-the-top-10-historical-content-hubs-for-2024/"><u>Navigating Through the Top 10 Historical Content Hubs for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-c53-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme C53 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-to-downloading-youtube-audio-without-charge-best-android-apps/"><u>Ultimate Guide to Downloading YouTube Audio Without Charge - Best Android Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-writes-gaming-history-air-versus-spark-in-the-spotlight/"><u>[New] In 2024, DJI’ Writes Gaming History Air Versus Spark in the Spotlight</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-master-iphone-cams-with-these-hacks/"><u>[Updated] 2024 Approved Master iPhone Cams with These Hacks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-synopsis-top-trending-twitvideos/"><u>[Updated] Social Media Synopsis Top Trending TwitVideos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-guide-perfecting-pics-with-facetune-for-2024/"><u>[Updated] Ultimate Guide Perfecting Pics with Facetune for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-easy-conversion-transform-xej-files-into-mp4-format-using-expression-encoder/"><u>1. Easy Conversion: Transform XEJ Files Into MP4 Format Using Expression Encoder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-breaking-ground-video-capture-breakdown/"><u>2024 Approved Breaking Ground Video Capture Breakdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-four-exceptional-techniques-for-easily-downloading-your-bandcamp-tunes-as-high-quality-mp3-or-more-free-guide-inside/"><u>Discover Four Exceptional Techniques for Easily Downloading Your Bandcamp Tunes as High-Quality MP3 or More - Free Guide Inside!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone XS Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-6s-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 6s?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-to-stop-frequent-automatic-restarting-on-windows-10/"><u>Master the Solution to Stop Frequent Automatic Restarting on Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-the-art-of-high-quality-video-production-in-obs-for-2024/"><u>Mastering the Art of High-Quality Video Production in OBS for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-a-professional-powerhouse/"><u>Step-by-Step Guide: Transforming Your Windows Home Into a Professional Powerhouse</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-11-hacks-to-unlock-ultimate-control-over-your-windows-touchpad-enhancing-speed-and-intelligence-in-workflows-digitaltrends/"><u>Top 11 Hacks to Unlock Ultimate Control over Your Windows Touchpad, Enhancing Speed and Intelligence in Workflows | DigitalTrends</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlocking-full-control-a-step-by-step-guide-to-activating-god-mode-in-windows-11-reasons-to-empower-your-pc/"><u>Unlocking Full Control: A Step-by-Step Guide to Activating God Mode in Windows 11 - Reasons to Empower Your PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-plans-beginning-next-year-learn-the-estimated-prices/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Plans Beginning Next Year – Learn the Estimated Prices</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/why-are-engineers-falling-for-windows-11-unpacking-the-appeal-with-exclusive-microsoft-perspective-at-zdnet/"><u>Why Are Engineers Falling for Windows 11? Unpacking the Appeal with Exclusive Microsoft Perspective at ZDNET</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-and-office-lifecycle-alert-predicting-when-microsoft-will-end-product-succession/"><u>Windows & Office Lifecycle Alert: Predicting when Microsoft Will End Product Succession</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-10-crisis-looms-for-microsoft-only-a-single-year-remains-to-fix-the-issues-techinsight/"><u>Windows 10 Crisis Looms for Microsoft - Only a Single Year Remains to Fix the Issues | TechInsight</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-11-microsofts-most-polarizing-operating-system-yet-is-the-hate-justified-zdnet-insights/"><u>Windows 11: Microsoft's Most Polarizing Operating System Yet - Is the Hate Justified? | ZDNET Insights</u></a></li>
 </ul></div>
 

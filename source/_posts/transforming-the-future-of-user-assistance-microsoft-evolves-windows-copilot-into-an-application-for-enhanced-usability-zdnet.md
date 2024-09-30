@@ -1,7 +1,7 @@
 ---
 title: "Transforming the Future of User Assistance: Microsoft Evolves Windows Copilot Into an Application for Enhanced Usability | ZDNet"
-date: 2024-09-20T00:19:50.790Z
-updated: 2024-09-25T19:16:32.019Z
+date: 2024-09-24T16:00:44.507Z
+updated: 2024-09-30T16:02:48.292Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,22 +148,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +208,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-text-tactics-top-10-best-practices/"><u>[New] Text Tactics Top 10 Best Practices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-the-right-gimbal-dslr-vs-mirrorless-edition/"><u>Choosing the Right Gimbal DSLR vs Mirrorless Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-compelling-combinations-a-guide-to-creating-your-own-youtube-playlists/"><u>Crafting Compelling Combinations A Guide to Creating Your Own YouTube Playlists</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-troubleshoot-and-repair-hp-screen-drivers-on-win-1087/"><u>How To Troubleshoot and Repair HP Screen Drivers on Win 10/8/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hush-the-whirring-effective-remedies-to-address-your-speakers-noise-problems/"><u>Hush the Whirring: Effective Remedies to Address Your Speakers' Noise Problems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solve-your-video-playback-problems-on-youtube-easily/"><u>Solve Your Video Playback Problems on YouTube Easily</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-downloading-shutterstock-footage-from-pc-or-mac/"><u>Step-by-Step Guide: Downloading Shutterstock Footage From PC or Mac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-access-and-use-spotify-on-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Access and Use Spotify on an iPhone or iPad</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-alternatives-to-flvto-enhance-your-video-conversions/"><u>Top Alternatives to FLVTO: Enhance Your Video Conversions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-torrent-sites-for-mac-and-windows-unlimited-free-downloads/"><u>Top Torrent Sites for Mac & Windows: Unlimited Free Downloads!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-downloading-your-favorite-tracks-from-rdio/"><u>Ultimate Guide: Downloading Your Favorite Tracks From Rdio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-tracking-essentials-choosing-the-best-data-visualization-apps/"><u>[New] 2024 Approved Instagram Tracking Essentials Choosing the Best Data Visualization Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevating-social-media-interaction-via-fb-story-links-for-2024/"><u>[New] Elevating Social Media Interaction via FB Story Links for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigate-the-best-practices-for-efficient-hp-notebook-screen-recording-for-2024/"><u>[New] Navigate the Best Practices for Efficient HP Notebook Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-in-digital-image-creation-for-youtube/"><u>[Updated] In 2024, Best Practices in Digital Image Creation for YouTube</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/show/"><u>「ビデオ解像度調整テクニック集：パワフル編集のコツ見つけまSHOW!」</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-media-playerdvd/"><u>確実に解決 Windows Media PlayerでDVD再生エラーをどう克服しますか?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/adjusting-the-position-of-toolbars-in-floating-templates-using-flipbooks-builder-a-step-by-step-guide/"><u>Adjusting the Position of Toolbars in Floating Templates Using FlipBook's Builder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/create-interactive-digital-magaznies-from-pdfs-using-our-no-cost-pdf-flipsheet-maker/"><u>Create Interactive Digital Magaznies From PDFs Using Our No-Cost PDF Flipsheet Maker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-assessment-the-pros-cons-and-performance-of-apple-books/"><u>Detailed Assessment: The Pros, Cons, and Performance of Apple Books</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-ultimate-10-pc-based-software-solutions-similar-to-screenflow-for-seamless-video-production/"><u>Discover the Ultimate 10 PC-Based Software Solutions Similar to ScreenFlow for Seamless Video Production</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-unique-content-in-our-customizable-flipbooks-at-flipbuildercom/"><u>Discover Unique Content in Our Customizable Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-ideas-to-slide-decks-creating-stellar-presentations-with-chatgpt/"><u>From Ideas to Slide Decks: Creating Stellar Presentations with ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-digital-engagement-across-leading-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Mastering Digital Engagement Across Leading Sites: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-ranking-flac-cue-splitting-tools-effortlessly-divide-your-flac-files-into-separate-audio-tracks/"><u>Top-Ranking FLAC CUE Splitting Tools: Effortlessly Divide Your FLAC Files Into Separate Audio Tracks</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/try-out-the-enhanced-psp-video-transcoder-factory-version-for-free-and-easy-checkout/"><u>Try Out the Enhanced PSP Video Transcoder Factory Version for Free and Easy Checkout</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-to-downloading-youtube-audio-without-charge-best-android-apps/"><u>Ultimate Guide to Downloading YouTube Audio Without Charge - Best Android Apps</u></a></li>
 </ul></div>
 

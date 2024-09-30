@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Microsoft's Most Polarizing Operating System Yet - Is the Hate Justified? | ZDNET Insights"
-date: 2024-09-22T18:57:49.820Z
-updated: 2024-09-25T19:26:50.460Z
+date: 2024-09-29T16:01:55.720Z
+updated: 2024-09-30T16:00:28.440Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +193,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-instagram-highlight-covers/"><u>[New] How to Make Instagram Highlight Covers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-prime-picture-selections-captivating-live-viewing/"><u>[Updated] 2024 Approved Prime Picture Selections Captivating Live Viewing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-microsofts-vision-windows-as-a-catalyst-for-hybrid-working-environments/"><u>Discover Microsoft's Vision: Windows as a Catalyst for Hybrid Working Environments</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/enhance-your-online-safety-top-5-microsoft-edge-tweaks-that-outshine-chromes-security-features/"><u>Enhance Your Online Safety: Top 5 Microsoft Edge Tweaks That Outshine Chrome's Security Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/googles-latest-innovation-the-pixel-tablet-specs-unveiled-and-release-date-revealed/"><u>Google's Latest Innovation: The Pixel Tablet Specs Unveiled and Release Date Revealed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-on-demand-video-text-transformers-prime-selections/"><u>In 2024, On-Demand Video-Text Transformers Prime Selections</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-microsoft-excel-with-chatgpt-a-guide-to-automating-formula-creation/"><u>Mastering Microsoft Excel with ChatGPT: A Guide to Automating Formula Creation</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-file-protection-in-windows-1011-with-file-history-features-expert-tips-by-zdnet/"><u>Mastering the Art of File Protection in Windows 10/11 with File History Features | Expert Tips by ZDNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-13-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 Pro Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks-for-2024/"><u>Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/the-end-of-windows-control-panel-microsoft-announces-major-shift-are-we-witnessing-the-future-yet-gadgetguru/"><u>The End of Windows Control Panel?: Microsoft Announces Major Shift - Are We Witnessing the Future Yet? | GadgetGuru</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-vanishing-printmanagement-in-windows/"><u>Unraveling the Mystery of Vanishing 'Printmanagement' In Windows</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/zdnets-top-tips-streamlining-microsoft-365-subscription-management-in-windows-11-environments/"><u>ZDNet's Top Tips: Streamlining Microsoft 365 Subscription Management in Windows 11 Environments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-minecraft-shaping-mastery-crafting-circles-and-spheres/"><u>[New] 2024 Approved Minecraft Shaping Mastery Crafting Circles & Spheres</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-farm-like-royalty-unveiling-the-best-7-stardew-upgrades/"><u>[Updated] 2024 Approved Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-value-in-streaming-in-depth-analysis-of-the-roku-express-edition/"><u>Best Value in Streaming: In-Depth Analysis of the Roku Express Edition</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-create-bilingual-button-labels-in-flipbuilder-mixing-portuguese-and-english/"><u>How to Create Bilingual Button Labels in FlipBuilder: Mixing Portuguese and English</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-use-flipbuilders-image-cropping-tool-on-your-project/"><u>How to Use FlipBuilder's Image Cropping Tool on Your Project</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-narzo-60-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Narzo 60 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-streamline-media-management-with-top-10plus-free-instagram-to-mp4-converters/"><u>In 2024, Streamline Media Management with Top 10+ Free Instagram-to-MP4 Converters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/master-the-transition-incorporating-effective-jump-cuts-for-2024/"><u>Master the Transition Incorporating Effective Jump Cuts for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-digital-flipping-your-guide-to-using-flipbooks-on-iphones-and-ipads/"><u>Mastering the Art of Digital Flipping: Your Guide to Using FlipBooks on iPhones and iPads</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximizing-your-online-presence-on-major-networks-a-closer-look-at-facebook-twitter-instagram-and-youtube/"><u>Maximizing Your Online Presence on Major Networks: A Closer Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-fortnite-issue-tips-to-overcome-the-cannot-join-party-error-code-84/"><u>Resolving Fortnite Issue: Tips to Overcome the 'Cannot Join Party' Error (Code 84)</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revamp-your-ebook-layouts-master-changing-background-in-flipbuildercom/"><u>Revamp Your eBook Layouts: Master Changing Background in FlipBuilder.com</u></a></li>
 </ul></div>
 

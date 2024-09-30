@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Eliminating Bloatware in Your Windows 10 System | Insights by ZDNet's IT Gurus"
-date: 2024-09-21T17:20:39.222Z
-updated: 2024-09-25T21:18:12.534Z
+date: 2024-09-24T16:00:50.329Z
+updated: 2024-09-30T16:03:02.722Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-complete-breakdown-of-freelens-cam-software/"><u>[New] 2024 Approved A Complete Breakdown of Freelens Cam Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-building-a-strong-foundation-for-advertising-deals-using-famebit-methods-for-2024/"><u>[New] Building a Strong Foundation for Advertising Deals Using FameBit Methods for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-cheerful-account-creation-handbook/"><u>[Updated] Cheerful Account Creation Handbook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfect-pick-kids-preferred-drones/"><u>2024 Approved Perfect Pick Kids' Preferred Drones</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ace-your-admin-role-learn-to-automate-with-windows-powershell-at-a-bargain-16-price-tips-for-tech-by-zdnet/"><u>Ace Your Admin Role: Learn to Automate with Windows PowerShell at a Bargain $16 Price - Tips for Tech by ZDNet</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comprehensive-hands-on-test-of-the-new-surface-duo-2-pen-cover-extra-protection-and-no-cords-for-charging/"><u>Comprehensive Hands-On Test of the New Surface Duo 2 Pen Cover - Extra Protection and No Cords for Charging!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/continual-shifts-in-microsofts-consumer-strategy-tactics-highlighted-on-zdnet/"><u>Continual Shifts in Microsoft's Consumer Strategy Tactics Highlighted on ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convertir-videos-a-formato-avi-gratuitamente-en-linea-usando-el-servicio-movavi-un-metodo-rapido-y-facil/"><u>Convertir Vídeos a Formato AVI Gratuitamente en Línea Usando El Servicio MOVAVI: Un Método Rápido Y Fácil</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/critical-deadline-looms-microsoft-races-against-time-to-fix-major-windows-10-issues-insights-from-zdnet/"><u>Critical Deadline Looms: Microsoft Races Against Time to Fix Major Windows 10 Issues - Insights From ZDNet</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/efficiently-manage-your-microsoft-office-files-on-the-go-using-the-microsoft-365-mobile-app/"><u>Efficiently Manage Your Microsoft Office Files On-the-Go Using the Microsoft 365 Mobile App</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/give-your-windows-10-machine-a-second-wind-free-solutions-to-prolong-your-old-pcs-lifespan-zdnet-tips/"><u>Give Your Windows 10 Machine a Second Wind: Free Solutions to Prolong Your Old PC's Lifespan | ZDNET Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-best-ideas-on-using-green-screen-with-filmora/"><u>New Best Ideas on Using Green Screen with Filmora</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-system-rtx-2080-super-driver-update-guide-and-download-for-windows-10-and-11-users/"><u>Optimize Your System: RTX 2080 Super Driver Update Guide & Download for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/securing-the-web-how-adjusting-these-5-microsoft-edge-settings-surpasses-google-chrome-in-protection/"><u>Securing the Web: How Adjusting These 5 Microsoft Edge Settings Surpasses Google Chrome in Protection</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/set-up-linux-on-microsoft-surface-go-in-under-60-minutes-expert-tutorial-by-zdnet/"><u>Set Up Linux on Microsoft Surface Go in Under 60 Minutes – Expert Tutorial by ZDnet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/speaking-for-characters-the-screenwriters-challenge-for-2024/"><u>Speaking for Characters The Screenwriter's Challenge for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-pcmobile-mkv-viewer-for-2024/"><u>Ultimate PC/Mobile MKV Viewer for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/unveiling-microsofts-copilot-an-innovative-ai-assistant-with-prominent-sales-features-insights-from-zdnet/"><u>Unveiling Microsoft's Copilot: An Innovative AI Assistant with Prominent Sales Features – Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-slow-motion-cameras-ranked/"><u>[New] Best Slow-Motion Cameras Ranked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-10-best-free-online-screen-recorders/"><u>[Updated] In 2024, Top 10 Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-principles-to-write-captivating-vlog-dialogues/"><u>2024 Approved Key Principles to Write Captivating Vlog Dialogues</u></a></li>
+<li><a href="https://facebook.techidaily.com/best-practices-in-digital-employment-advertising/"><u>Best Practices in Digital Employment Advertising</u></a></li>
+<li><a href="https://win11.techidaily.com/delaying-windows-11-shutdown-techniques-for-active-processestasks/"><u>Delaying Windows 11 Shutdown: Techniques for Active Processes/Tasks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-entire-lineup-of-released-titles-for-playstation-vr2/"><u>Discover the Entire Lineup of Released Titles for PlayStation VR2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/diy-iphone-collages-tips-and-techniques-for-beginners/"><u>DIY iPhone Collages Tips and Techniques for Beginners</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/get-premium-naughty-machinima-series-downloaded-as-mp4movaviflvwmv-files/"><u>Get Premium Naughty Machinima Series Downloaded as MP4/MOV/AVI/FLV/WMV Files</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/gomovies-premium-downloads-high-quality-mp4-mov-and-more-for-your-collection/"><u>GoMovies Premium Downloads: High-Quality MP4, MOV & More for Your Collection</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-safely-acquire-and-convert-the-movie-dangal-into-various-hd-quality-formats-for-streaming-or-offline-viewing/"><u>How to Safely Acquire and Convert the Movie 'Dangal' Into Various HD Quality Formats for Streaming or Offline Viewing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-save-red-bull-tv-content-as-mp4-or-avi-files-a-step-by-step-guide/"><u>How to Save Red Bull TV Content as MP4 or AVI Files - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-11-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 11 to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pioneering-practices-in-the-realm-of-iptv-recording/"><u>In 2024, Pioneering Practices in the Realm of IPTV Recording</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-converting-and-saving-udemy-lectures-download-options-for-mp4-mp3-mov-avi-audiovideo-formats/"><u>Mastering the Art of Converting and Saving Udemy Lectures: Download Options for MP4, MP3, MOV, AVI Audio/Video Formats</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-process-extracting-videos-from-sharptrades-platform/"><u>Mastering the Process: Extracting Videos From SharpTrades Platform</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/offline-spotify-streaming-on-your-apple-watch-no-iphone-required/"><u>Offline Spotify Streaming on Your Apple Watch: No iPhone Required</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/save-and-enjoy-ctv-news-videos-anywhere-easy-download-method-for-windowsmac-users/"><u>Save and Enjoy CTV News Videos Anywhere: Easy Download Method for Windows/Mac Users</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solve-your-video-playback-problems-on-youtube-easily/"><u>Solve Your Video Playback Problems on YouTube Easily</u></a></li>
 </ul></div>
 

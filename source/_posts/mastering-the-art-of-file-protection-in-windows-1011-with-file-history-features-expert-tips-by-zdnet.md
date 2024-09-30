@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of File Protection in Windows 10/11 with File History Features | Expert Tips by ZDNET
-date: 2024-09-22T21:54:07.944Z
-updated: 2024-09-25T22:13:06.666Z
+date: 2024-09-23T16:00:21.378Z
+updated: 2024-09-30T16:01:39.777Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-mobvoi-ticwatch-pro-3-the-power-behind-gps-precision-and-extended-battery-via-dual-displays/"><u>Exploring the Features of the Mobvoi TicWatch Pro 3 - The Power Behind GPS Precision and Extended Battery via Dual Displays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-missing-mscorwksdll-message-on-your-pc-step-by-step-instructions/"><u>Fix the 'Missing mscorwks.dll' Message on Your PC – Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/gomovies-premium-downloads-high-quality-mp4-mov-and-more-for-your-collection/"><u>GoMovies Premium Downloads: High-Quality MP4, MOV & More for Your Collection</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-safely-acquire-and-convert-the-movie-dangal-into-various-hd-quality-formats-for-streaming-or-offline-viewing/"><u>How to Safely Acquire and Convert the Movie 'Dangal' Into Various HD Quality Formats for Streaming or Offline Viewing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-save-red-bull-tv-content-as-mp4-or-avi-files-a-step-by-step-guide/"><u>How to Save Red Bull TV Content as MP4 or AVI Files - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-essential-watchlist-15-must-see-stop-motion-classics/"><u>In 2024, Essential Watchlist 15 Must-See Stop-Motion Classics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-shortcuts-to-excellent-iphone-time-lapse-videos/"><u>In 2024, Shortcuts to Excellent iPhone Time Lapse Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists-for-2024/"><u>Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-converting-and-saving-udemy-lectures-download-options-for-mp4-mp3-mov-avi-audiovideo-formats/"><u>Mastering the Art of Converting and Saving Udemy Lectures: Download Options for MP4, MP3, MOV, AVI Audio/Video Formats</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-process-extracting-videos-from-sharptrades-platform/"><u>Mastering the Process: Extracting Videos From SharpTrades Platform</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-mp4-video-trimming-software-top-picks-for-2024/"><u>New Free MP4 Video Trimming Software Top Picks for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/offline-spotify-streaming-on-your-apple-watch-no-iphone-required/"><u>Offline Spotify Streaming on Your Apple Watch: No iPhone Required</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-methods-for-increased-srt-on-macoswindows-for-2024/"><u>Pioneering Methods for Increased SRT on macOS/Windows for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/save-and-enjoy-ctv-news-videos-anywhere-easy-download-method-for-windowsmac-users/"><u>Save and Enjoy CTV News Videos Anywhere: Easy Download Method for Windows/Mac Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-update-guide-how-to-change-your-standard-sata-ahci-controller-drivers/"><u>Simple Update Guide: How to Change Your Standard SATA AHCI Controller Drivers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-master-online-engagement-with-proficient-use-of-snap-in-teams-for-2024/"><u>[New] Master Online Engagement with Proficient Use of Snap in Teams for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-presence-mastering-ig-video-borders-for-2024/"><u>[Updated] Elevate Your Presence Mastering IG Video Borders for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leading-mp4-to-facebook-video-processor/"><u>[Updated] In 2024, Leading MP4-to-Facebook Video Processor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>2024 Approved From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-no-cost-platforms-for-viewing-and-downloading-micro-bit-size-animation-series/"><u>Best No-Cost Platforms for Viewing & Downloading Micro Bit-Size Animation Series</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/creating-seamless-ps4-streams-using-obs-studio-tools-for-2024/"><u>Creating Seamless PS4 Streams Using OBS Studio Tools for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-the-top-8-photo-software-replacements-by-microsoft-ideal-for-image-viewing-and-video-edits/"><u>Discover the Top 8 Photo Software Replacements by Microsoft - Ideal for Image Viewing & Video Edits!</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726027298321-dvd/"><u>DVDを複写する手段が分からない?その理由と対応方法をご紹介</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-fixes-for-uninterrupted-youtube-viewing-no-cost-solutions/"><u>Effortless Fixes for Uninterrupted YouTube Viewing: No Cost Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-what-does-pfp-mean-in-tiktok-a-complete-guide/"><u>In 2024, What Does PFP Mean in TikTok?[ A Complete Guide]</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reach-out-connect-with-our-support-team/"><u>Reach Out: Connect with Our Support Team</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/shine-above-the-rest-creating-a-distinctive-mark-in-tiktok/"><u>Shine Above the Rest Creating a Distinctive Mark in TikTok</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/successful-techniques-for-combining-multiple-mp4-videos-using-vlc-media-player/"><u>Successful Techniques for Combining Multiple MP4 Videos Using VLC Media Player</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/the-ultimate-guide-three-trustworthy-ways-to-rotate-your-gopro-footage-successfully/"><u>The Ultimate Guide: Three Trustworthy Ways to Rotate Your GoPro Footage Successfully</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-5-free-tools-for-converting-wmv-videos-into-flv-format-online-and-offline-options-unveiled/"><u>Top 5 Free Tools for Converting WMV Videos Into FLV Format: Online and Offline Options Unveiled</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-ranked-no-cost-dvd-ripper-tool-for-windows-11-users-a-complete-guide/"><u>Top Ranked No-Cost DVD Ripper Tool for Windows 11 Users: A Complete Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-choosing-the-optimal-dvd-to-avi-converter-in-202aturally-here-are-two-new-best-seo-titles-suitable-for-google-search-engine-that-convey-simil37/"><u>Ultimate Guide: Choosing the Optimal DVD to AVI Converter in 202Aturally, Here Are Two New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Your Given Title 2024 The Best DVD to AVI Converter for Windows 11/11:</u></a></li>
 </ul></div>
 

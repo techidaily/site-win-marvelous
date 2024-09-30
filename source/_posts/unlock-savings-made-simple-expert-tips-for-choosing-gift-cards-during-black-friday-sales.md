@@ -1,7 +1,7 @@
 ---
 title: "Unlock Savings Made Simple: Expert Tips for Choosing Gift Cards During Black Friday Sales!"
-date: 2024-09-24T19:34:09.378Z
-updated: 2024-09-25T16:12:06.616Z
+date: 2024-09-24T16:01:05.225Z
+updated: 2024-09-30T16:02:28.688Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,19 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,16 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-mystery-of-missing-movies-a6400s-quandary-for-2024/"><u>[New] Mystery of Missing Movies A6400's Quandary for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-affordable-gopro-acquisitions/"><u>[Updated] Secrets to Affordable GoPro Acquisitions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-v27e-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo V27e Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-and-video-transfer-blueprint-from-android-to-apple/"><u>In 2024, Photo & Video Transfer Blueprint From Android to Apple</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-paste-feature-efficacy-in-win-11/"><u>Restoring Paste Feature Efficacy in Win 11</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/revamp-your-ebook-layouts-master-changing-background-in-flipbuildercom/"><u>Revamp Your eBook Layouts: Master Changing Background in FlipBuilder.com</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/reversing-reading-direction-how-to-adjust-book-page-orientation-from-right-to-left-using-flipbuilder/"><u>Reversing Reading Direction: How To Adjust Book Page Orientation From Right-to-Left Using FlipBuilder</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-integration-of-flipbooks-into-your-website-discover-how-with-flipbuilder/"><u>Seamless Integration of Flipbooks Into Your Website: Discover How with FlipBuilder</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamlessly-add-dynamic-flipbooks-to-your-sites-homepage-via-flipbuilder-tutorial/"><u>Seamlessly Add Dynamic Flipbooks to Your Site's Homepage via FlipBuilder Tutorial</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steam-cloud-troubleshooting-solving-sync-failures-easily/"><u>Steam Cloud Troubleshooting: Solving Sync Failures Easily</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-process-for-updating-flipbuilder-icon-sets/"><u>Step-by-Step Process for Updating FlipBuilder Icon Sets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[Updated] In 2024, Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-easy-conversion-transform-xej-files-into-mp4-format-using-expression-encoder/"><u>1. Easy Conversion: Transform XEJ Files Into MP4 Format Using Expression Encoder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-seamlessly-integrate-your-mts-files-with-the-top-ranked-merger-tools-a-comprehensive-guide/"><u>1. Seamlessly Integrate Your MTS Files with the Top-Ranked Merger Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-troubleshooting-xavc-s-footage-a-guide-to-successful-import-into-davinci-resolve/"><u>1. Troubleshooting XAVC-S Footage: A Guide to Successful Import Into Davinci Resolve</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1726026684301-dvdmp4/"><u>効果的な方法：DVDファイルをMP4形式でコンパクト化</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-y100i-power-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo Y100i Power 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 13</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-pc-running-smoothly-essential-guide-to-modifying-motherboard-drivers-on-windows-os/"><u>Keep Your PC Running Smoothly: Essential Guide to Modifying Motherboard Drivers on Windows OS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/leading-360-degree-pro-cams-2023-edition-review/"><u>Leading 360-Degree Pro Cams 2023 Edition Review</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-secure-your-footage-how-to-blur-faces-in-videos/"><u>New In 2024, Secure Your Footage How to Blur Faces in Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-15-web-based-editing-platforms-reviewed-all-free-for-2024/"><u>Prime 15 Web-Based Editing Platforms Reviewed, All FREE for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/torment-the-art-of-worldbuilding-an-in-depth-review-of-the-sci-fi-role-playing-game-tides-of-numenera/"><u>Torment: The Art of Worldbuilding - An In-Depth Review of the Sci-Fi Role-Playing Game, Tides of Numenera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-setting-up-the-superior-sg-wizard-in-kodi-with-top-tier-leia-configurations/"><u>Ultimate Guide: Setting Up the Superior SG Wizard in Kodi with Top-Tier Leia Configurations</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-and-office-lifecycle-alert-predicting-when-microsoft-will-end-product-succession/"><u>Windows & Office Lifecycle Alert: Predicting when Microsoft Will End Product Succession</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-10-crisis-looms-for-microsoft-only-a-single-year-remains-to-fix-the-issues-techinsight/"><u>Windows 10 Crisis Looms for Microsoft - Only a Single Year Remains to Fix the Issues | TechInsight</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-11-microsofts-most-polarizing-operating-system-yet-is-the-hate-justified-zdnet-insights/"><u>Windows 11: Microsoft's Most Polarizing Operating System Yet - Is the Hate Justified? | ZDNET Insights</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1726029152602-dvd/"><u>ダビング可能なDVDを簡単に切り取れる無料アプリ３本記事</u></a></li>
 </ul></div>
 

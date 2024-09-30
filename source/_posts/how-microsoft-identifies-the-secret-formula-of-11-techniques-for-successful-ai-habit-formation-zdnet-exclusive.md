@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Identifies The Secret Formula of 11 Techniques for Successful AI Habit Formation | ZDNET Exclusive
-date: 2024-09-20T17:40:26.805Z
-updated: 2024-09-25T20:38:24.415Z
+date: 2024-09-25T16:03:09.802Z
+updated: 2024-09-30T16:01:19.247Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -143,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -158,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-enhancing-your-social-media-footprint-upload-success-tips-for-stories/"><u>[New] 2024 Approved Enhancing Your Social Media Footprint Upload Success Tips for Stories</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-idea-to-live-stream-a-comprehensive-guide-for-instagram-and-obs-users/"><u>[New] 2024 Approved From Idea to Live Stream A Comprehensive Guide for Instagram & OBS Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-art-of-color-transformation-an-expert-written-by-dr-jane-smith-for-2024/"><u>[New] The Art of Color Transformation An Expert' Written by Dr. Jane Smith for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-threads-through-time-master-looms-screen-capture/"><u>[New] Threads Through Time Master Loom's Screen Capture</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-enhance-editing-unlimited-free-audio-samples/"><u>[Updated] 2024 Approved Enhance Editing Unlimited Free Audio Samples!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-testimonials-on-screen-marketings-best-friend/"><u>[Updated] Testimonials on Screen Marketing's Best Friend</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/are-your-audiovisual-projects-supported-by-flipbuildercom/"><u>Are Your Audiovisual Projects Supported by FlipBuilder.com?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/converting-text-into-engaging-flipbooks-using-sequential-ordering-techniques-in-flipbuilder/"><u>Converting Text Into Engaging Flipbooks Using Sequential Ordering Techniques in FlipBuilder</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-creation-and-publishing-of-ibooks-for-ipad-using-flippdf-builder-on-mac/"><u>Effortless Creation & Publishing of iBooks for iPad Using FlipPDF Builder on Mac</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2016-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2016</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/receiving-your-flipbuilder-licensing-code-timeline-and-process-post-purchase/"><u>Receiving Your FlipBuilder Licensing Code: Timeline & Process Post-Purchase</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/reducing-your-flipbook-projects-total-dimensions-with-ease-a-step-by-step-guide-on-flipbuildercom/"><u>Reducing Your FlipBook Project's Total Dimensions with Ease: A Step-by-Step Guide on [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/reordering-images-with-ease-mastering-flipbuilders-photography-tool/"><u>Reordering Images with Ease: Mastering FlipBuilder's Photography Tool</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/tips-to-transform-your-videos-into-social-media-stars/"><u>Tips to Transform Your Videos Into Social Media Stars</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-top-11-list-best-audio-tech-showcase/"><u>[Updated] 2024 Approved Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>[Updated] In 2024, Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transform-yourfb-watchlist-with-easy-youtube-video-autoplay-configuration/"><u>[Updated] Transform YourFB Watchlist with Easy Youtube Video Autoplay Configuration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-conscious-aerial-assistants-top-5-drones/"><u>Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-amplified-10-must-know-canva-techniques-for-2024/"><u>Expertise Amplified 10 Must-Know Canva Techniques for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/from-basic-to-advanced-the-benefits-and-how-to-of-upgrading-from-windows-home-to-pro-gizmogeeks/"><u>From Basic to Advanced: The Benefits and How-To of Upgrading From Windows Home to Pro | GizmoGeeks</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-much-will-you-pay-to-stay-updated-with-windows-11-in-the-coming-year-insights-from-zdnet/"><u>How Much Will You Pay to Stay Updated with Windows 11 in the Coming Year? Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>In 2024, Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f34-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F34 5G Phone Network-Ready</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-generative-ai-being-misused-as-a-weapon-of-mass-deception/"><u>Is Generative AI Being Misused as a Weapon of Mass Deception?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/is-windows-12-on-the-horizon-unveiling-exciting-forecasts-and-answers-to-your-most-asked-questions-techinsights/"><u>Is Windows 12 on the Horizon? Unveiling Exciting Forecasts and Answers to Your Most-Asked Questions | TechInsights</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/microsofts-controversial-release-is-windows-11-already-facing-backlash-insights-from-zdnet/"><u>Microsoft's Controversial Release: Is Windows 11 Already Facing Backlash? Insights From ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/recovering-changed-or-lost-documents-using-microsoft-onedrive-a-comprehensive-guide/"><u>Recovering Changed or Lost Documents Using Microsoft OneDrive: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/seamless-pc-synchronization-across-distances-expert-tips-and-solutions/"><u>Seamless PC Synchronization Across Distances - Expert Tips & Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/zombie-apocalypse-on-two-wheels-an-in-depth-review-of-days-gone/"><u>Zombie Apocalypse on Two Wheels: An In-Depth Review of Days Gone</u></a></li>
 </ul></div>
 

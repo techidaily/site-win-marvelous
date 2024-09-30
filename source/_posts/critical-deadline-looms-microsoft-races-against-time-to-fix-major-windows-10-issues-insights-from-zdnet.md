@@ -1,7 +1,7 @@
 ---
 title: "Critical Deadline Looms: Microsoft Races Against Time to Fix Major Windows 10 Issues - Insights From ZDNet"
-date: 2024-09-24T16:19:48.573Z
-updated: 2024-09-25T21:53:47.996Z
+date: 2024-09-29T16:00:43.010Z
+updated: 2024-09-30T16:00:51.126Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,16 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-clearer-zoomed-snapshots-on-snapchat/"><u>[New] Expert Tips for Clearer Zoomed Snapshots on Snapchat</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>2024 Approved The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-crafting-effective-headers-using-microsoft-excel-tools/"><u>Comprehensive Tutorial: Crafting Effective Headers Using Microsoft Excel Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-hide-hashtags-on-instagram-for-2024/"><u>How to Hide Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-guide-to-the-latest-tiktok-screen-art/"><u>In 2024, Guide to the Latest TikTok Screen Art</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-a-professional-powerhouse/"><u>Step-by-Step Guide: Transforming Your Windows Home Into a Professional Powerhouse</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-11-hacks-to-unlock-ultimate-control-over-your-windows-touchpad-enhancing-speed-and-intelligence-in-workflows-digitaltrends/"><u>Top 11 Hacks to Unlock Ultimate Control over Your Windows Touchpad, Enhancing Speed and Intelligence in Workflows | DigitalTrends</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-resolve-emergency-calls-status-on-your-iphone-screen/"><u>Troubleshooting Tips: How to Resolve 'Emergency Calls' Status on Your iPhone Screen</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/unlocking-full-control-a-step-by-step-guide-to-activating-god-mode-in-windows-11-reasons-to-empower-your-pc/"><u>Unlocking Full Control: A Step-by-Step Guide to Activating God Mode in Windows 11 - Reasons to Empower Your PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-plans-beginning-next-year-learn-the-estimated-prices/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Plans Beginning Next Year – Learn the Estimated Prices</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/why-are-engineers-falling-for-windows-11-unpacking-the-appeal-with-exclusive-microsoft-perspective-at-zdnet/"><u>Why Are Engineers Falling for Windows 11? Unpacking the Appeal with Exclusive Microsoft Perspective at ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida/"><u>[New] Unlocking the Full Potential of Video Creation with Vida</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-pc-editing-skills-for-compelling-youtube-videos-for-2024/"><u>[Updated] Essential PC Editing Skills for Compelling YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-bridges-in-a-world-run-by-machine-intelligence/"><u>Building Bridges in a World Run by Machine Intelligence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hdtv-revolution-comparing-the-leading-8k-tv-brands/"><u>HDTV Revolution Comparing the Leading 8K TV Brands</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-quick-vid-overview-top-tips-and-facts-now/"><u>In 2024, Quick Vid Overview Top Tips & Facts Now!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unwanted-no-more-top-7-android-apps-to-eliminate-ads/"><u>In 2024, Unwanted No More! Top 7 Android Apps to Eliminate Ads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-movie-aesthetics-through-color-grading-and-luts/"><u>Mastering Movie Aesthetics Through Color Grading and Luts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-v27e-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo V27e Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-downloading-shutterstock-footage-from-pc-or-mac/"><u>Step-by-Step Guide: Downloading Shutterstock Footage From PC or Mac</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-access-and-use-spotify-on-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Access and Use Spotify on an iPhone or iPad</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-alternatives-to-flvto-enhance-your-video-conversions/"><u>Top Alternatives to FLVTO: Enhance Your Video Conversions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-torrent-sites-for-mac-and-windows-unlimited-free-downloads/"><u>Top Torrent Sites for Mac & Windows: Unlimited Free Downloads!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-downloading-your-favorite-tracks-from-rdio/"><u>Ultimate Guide: Downloading Your Favorite Tracks From Rdio</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-solving-the-sky-on-demand-download-problem-with-6-key-strategies/"><u>Ultimate Guide: Solving the Sky On Demand Download Problem with 6 Key Strategies</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-techniques-to-save-and-transfer-videos-from-acorntv-for-desktop-users/"><u>Ultimate Techniques to Save and Transfer Videos From AcornTV for Desktop Users</u></a></li>
 </ul></div>
 
