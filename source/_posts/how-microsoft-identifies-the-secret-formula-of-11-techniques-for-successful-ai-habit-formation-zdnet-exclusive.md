@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Identifies The Secret Formula of 11 Techniques for Successful AI Habit Formation | ZDNET Exclusive
-date: 2024-09-25T16:03:09.802Z
-updated: 2024-09-30T16:01:19.247Z
+date: 2024-09-30T16:14:40.194Z
+updated: 2024-10-05T18:56:33.479Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-top-11-list-best-audio-tech-showcase/"><u>[Updated] 2024 Approved Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>[Updated] In 2024, Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-transform-yourfb-watchlist-with-easy-youtube-video-autoplay-configuration/"><u>[Updated] Transform YourFB Watchlist with Easy Youtube Video Autoplay Configuration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-conscious-aerial-assistants-top-5-drones/"><u>Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expertise-amplified-10-must-know-canva-techniques-for-2024/"><u>Expertise Amplified 10 Must-Know Canva Techniques for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/from-basic-to-advanced-the-benefits-and-how-to-of-upgrading-from-windows-home-to-pro-gizmogeeks/"><u>From Basic to Advanced: The Benefits and How-To of Upgrading From Windows Home to Pro | GizmoGeeks</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-much-will-you-pay-to-stay-updated-with-windows-11-in-the-coming-year-insights-from-zdnet/"><u>How Much Will You Pay to Stay Updated with Windows 11 in the Coming Year? Insights From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>In 2024, Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f34-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F34 5G Phone Network-Ready</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-generative-ai-being-misused-as-a-weapon-of-mass-deception/"><u>Is Generative AI Being Misused as a Weapon of Mass Deception?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/is-windows-12-on-the-horizon-unveiling-exciting-forecasts-and-answers-to-your-most-asked-questions-techinsights/"><u>Is Windows 12 on the Horizon? Unveiling Exciting Forecasts and Answers to Your Most-Asked Questions | TechInsights</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/microsofts-controversial-release-is-windows-11-already-facing-backlash-insights-from-zdnet/"><u>Microsoft's Controversial Release: Is Windows 11 Already Facing Backlash? Insights From ZDNet</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/recovering-changed-or-lost-documents-using-microsoft-onedrive-a-comprehensive-guide/"><u>Recovering Changed or Lost Documents Using Microsoft OneDrive: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-pc-synchronization-across-distances-expert-tips-and-solutions/"><u>Seamless PC Synchronization Across Distances - Expert Tips & Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/zombie-apocalypse-on-two-wheels-an-in-depth-review-of-days-gone/"><u>Zombie Apocalypse on Two Wheels: An In-Depth Review of Days Gone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-boosting-facebook-ad-revenue-with-strategic-animated-content-design/"><u>[New] In 2024, Boosting Facebook Ad Revenue with Strategic Animated Content Design</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-your-drone-game-with-these-top-mods/"><u>[Updated] 2024 Approved Elevate Your Drone Game with These Top Mods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-and-configuring-nvme-drivers-for-windows-users/"><u>Downloading and Configuring NVMe Drivers for Windows Users</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-creation-and-publishing-of-ibooks-for-ipad-using-flippdf-builder-on-mac/"><u>Effortless Creation & Publishing of iBooks for iPad Using FlipPDF Builder on Mac</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/essential-tips-for-crafting-effective-scenes-in-flip-programs-understanding-capabilities-and-boundaries/"><u>Essential Tips for Crafting Effective Scenes in Flip Programs: Understanding Capabilities and Boundaries</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-does-flipbuilder-utilize-folder-files-page-and-large-files-management-for-optimized-functionality/"><u>How Does FlipBuilder Utilize Folder, Files Page, and Large Files Management for Optimized Functionality?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-create-bilingual-button-labels-in-flipbuilder-mixing-portuguese-and-english/"><u>How to Create Bilingual Button Labels in FlipBuilder: Mixing Portuguese and English</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-use-flipbuilders-image-cropping-tool-on-your-project/"><u>How to Use FlipBuilder's Image Cropping Tool on Your Project</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-image-sharpness-for-ubisofts-new-virtual-island/"><u>Improving Image Sharpness for Ubisoft's New Virtual Island</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c32-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C32 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-digital-flipping-your-guide-to-using-flipbooks-on-iphones-and-ipads/"><u>Mastering the Art of Digital Flipping: Your Guide to Using FlipBooks on iPhones and iPads</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-xs-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone XS Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revamp-your-ebook-layouts-master-changing-background-in-flipbuildercom/"><u>Revamp Your eBook Layouts: Master Changing Background in FlipBuilder.com</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-most-efficient-cable-modemwireless-router-combinations-of-2024/"><u>The Most Efficient Cable Modem/Wireless Router Combinations of 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-significance-of-reducing-camera-shake-with-software-tools-for-2024/"><u>The Significance of Reducing Camera Shake with Software Tools for 2024</u></a></li>
 </ul></div>
 

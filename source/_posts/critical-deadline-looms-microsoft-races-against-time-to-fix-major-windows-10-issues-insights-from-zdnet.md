@@ -1,7 +1,7 @@
 ---
 title: "Critical Deadline Looms: Microsoft Races Against Time to Fix Major Windows 10 Issues - Insights From ZDNet"
-date: 2024-09-29T16:00:43.010Z
-updated: 2024-09-30T16:00:51.126Z
+date: 2024-10-04T22:02:41.242Z
+updated: 2024-10-05T22:47:26.836Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida/"><u>[New] Unlocking the Full Potential of Video Creation with Vida</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-essential-pc-editing-skills-for-compelling-youtube-videos-for-2024/"><u>[Updated] Essential PC Editing Skills for Compelling YouTube Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-bridges-in-a-world-run-by-machine-intelligence/"><u>Building Bridges in a World Run by Machine Intelligence</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hdtv-revolution-comparing-the-leading-8k-tv-brands/"><u>HDTV Revolution Comparing the Leading 8K TV Brands</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-quick-vid-overview-top-tips-and-facts-now/"><u>In 2024, Quick Vid Overview Top Tips & Facts Now!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unwanted-no-more-top-7-android-apps-to-eliminate-ads/"><u>In 2024, Unwanted No More! Top 7 Android Apps to Eliminate Ads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-movie-aesthetics-through-color-grading-and-luts/"><u>Mastering Movie Aesthetics Through Color Grading and Luts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-v27e-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo V27e Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-downloading-shutterstock-footage-from-pc-or-mac/"><u>Step-by-Step Guide: Downloading Shutterstock Footage From PC or Mac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-access-and-use-spotify-on-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Access and Use Spotify on an iPhone or iPad</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-alternatives-to-flvto-enhance-your-video-conversions/"><u>Top Alternatives to FLVTO: Enhance Your Video Conversions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-torrent-sites-for-mac-and-windows-unlimited-free-downloads/"><u>Top Torrent Sites for Mac & Windows: Unlimited Free Downloads!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-downloading-your-favorite-tracks-from-rdio/"><u>Ultimate Guide: Downloading Your Favorite Tracks From Rdio</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-solving-the-sky-on-demand-download-problem-with-6-key-strategies/"><u>Ultimate Guide: Solving the Sky On Demand Download Problem with 6 Key Strategies</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-techniques-to-save-and-transfer-videos-from-acorntv-for-desktop-users/"><u>Ultimate Techniques to Save and Transfer Videos From AcornTV for Desktop Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-flawless-footage-with-best-stabilizer-brands/"><u>[New] Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks/"><u>[Updated] 2024 Approved From Zero to Hero A Step-by-Step Approach to YouTube Backlinks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-find-the-perfect-video-collaboration-app-our-choice-of-10-free-tools/"><u>[Updated] In 2024, Find the Perfect Video Collaboration App Our Choice of 10 Free Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-file-transfer-the-ultimate-windows-and-mac-downloading-path-for-2024/"><u>[Updated] Mastering File Transfer The Ultimate Windows & Mac Downloading Path for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unlock-slides-potential-embedding-video-from-youtube/"><u>2024 Approved Unlock Slides' Potential Embedding Video From YouTube</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/die-top-5-gratiskunstliche-intelligenzprogramme-fur-die-fotorestauration-ein-umfassender-vergleich/"><u>Die Top-5 Gratiskünstliche Intelligenzprogramme Für Die Fotorestauration: Ein Umfassender Vergleich</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effective-methods-how-to-seamlessly-transform-pdf-files-into-epub-books/"><u>Effective Methods: How to Seamlessly Transform PDF Files Into EPUB Books</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-transfer-how-to-convert-mkv-videos-to-play-on-your-android-device/"><u>Effortless Transfer: How to Convert MKV Videos to Play on Your Android Device</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-free-download-and-convert-m4a-audio-tracks-into-mp3-format-the-ultimate-guide/"><u>How to Free Download and Convert M4A Audio Tracks Into MP3 Format - The Ultimate Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-instructions-effortlessly-navigating-zepeto-on-your-computer-screen/"><u>Step-by-Step Instructions: Effortlessly Navigating Zepeto on Your Computer Screen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Set Up Linux on Microsoft Surface Go in Under 60 Minutes – Expert Tutorial by ZDnet
-date: 2024-09-29T16:00:05.195Z
-updated: 2024-09-30T16:02:33.113Z
+date: 2024-10-04T21:11:45.553Z
+updated: 2024-10-05T16:55:57.840Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-selecting-perfect-dimensions-video-aspect-ratios/"><u>[New] Selecting Perfect Dimensions Video Aspect Ratios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-micro-photography-and-film-production/"><u>[Updated] Expert Insights Into Micro Photography and Film Production</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>In 2024, Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-stellaris-gameplay-a-comprehensive-review-for-cosmic-conquerors/"><u>Navigating Stellaris Gameplay: A Comprehensive Review for Cosmic Conquerors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/simplified-cross-platform-file-transfer-between-windows-computers-and-android-phones-via-googles-quick-share-functionality-guide/"><u>Simplified Cross-Platform File Transfer Between Windows Computers and Android Phones via Google's Quick Share Functionality | Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-a-professional-powerhouse/"><u>Step-by-Step Guide: Transforming Your Windows Home Into a Professional Powerhouse</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-photographers-secret-weapon-mastering-selfie-lights-for-stunning-results/"><u>The Photographer's Secret Weapon: Mastering Selfie Lights for Stunning Results</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-11-hacks-to-unlock-ultimate-control-over-your-windows-touchpad-enhancing-speed-and-intelligence-in-workflows-digitaltrends/"><u>Top 11 Hacks to Unlock Ultimate Control over Your Windows Touchpad, Enhancing Speed and Intelligence in Workflows | DigitalTrends</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/unlocking-full-control-a-step-by-step-guide-to-activating-god-mode-in-windows-11-reasons-to-empower-your-pc/"><u>Unlocking Full Control: A Step-by-Step Guide to Activating God Mode in Windows 11 - Reasons to Empower Your PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-plans-beginning-next-year-learn-the-estimated-prices/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Plans Beginning Next Year – Learn the Estimated Prices</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/why-are-engineers-falling-for-windows-11-unpacking-the-appeal-with-exclusive-microsoft-perspective-at-zdnet/"><u>Why Are Engineers Falling for Windows 11? Unpacking the Appeal with Exclusive Microsoft Perspective at ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-macos-sierra-switching-back-to-os-x-el-capitan/"><u>[New] MacOS Sierra Switching Back To OS X El Capitan</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-shooting-in-the-dark-elevating-iphone-photos-with-shadows/"><u>[Updated] 2024 Approved Shooting in the Dark Elevating iPhone Photos with Shadows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-vision-capture-expert-insights-into-video-tech/"><u>[Updated] 2024 Approved Vision Capture Expert Insights Into Video Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-downloading-and-saving-fb-video-files-os-agnostic-guide/"><u>[Updated] Downloading and Saving FB Video Files OS-Agnostic Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences/"><u>[Updated] The Fundamentals of Crafting High-Quality Videos for Instagram Audiences</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/2-step-by-step-guide-downloading-laughter-extracting-giggles-from-leading-humor-websites/"><u>2. Step-by-Step Guide: Downloading Laughter – Extracting Giggles From Leading Humor Websites!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-offline-video-downloader-apps-for-mac-and-windows-pc/"><u>Best Offline Video Downloader Apps for Mac & Windows PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-sources-for-free-online-cooking-tutorials-and-guide-to-downloading-them-for-off-site-viewing/"><u>Best Sources for Free Online Cooking Tutorials & Guide to Downloading Them for Off-Site Viewing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevate-video-views-twitter-to-facebook-transition-for-2024/"><u>Elevate Video Views Twitter to Facebook Transition for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-clear-digital-tv-in-any-room-maximizing-your-internal-antennas-potential-for-optimal-reception/"><u>Master the Art of Clear Digital TV in Any Room: Maximizing Your Internal Antenna's Potential for Optimal Reception.</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reversing-reading-direction-how-to-adjust-book-page-orientation-from-right-to-left-using-flipbuilder/"><u>Reversing Reading Direction: How To Adjust Book Page Orientation From Right-to-Left Using FlipBuilder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/seamless-integration-of-flipbooks-into-your-website-discover-how-with-flipbuilder/"><u>Seamless Integration of Flipbooks Into Your Website: Discover How with FlipBuilder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/seamlessly-add-dynamic-flipbooks-to-your-sites-homepage-via-flipbuilder-tutorial/"><u>Seamlessly Add Dynamic Flipbooks to Your Site's Homepage via FlipBuilder Tutorial</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-process-for-updating-flipbuilder-icon-sets/"><u>Step-by-Step Process for Updating FlipBuilder Icon Sets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-office-efficiency-with-expert-strategies-for-using-slack/"><u>Transform Your Office Efficiency with Expert Strategies for Using Slack</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-call-issues-what-to-do-when-your-samsung-galaxy-watch-wont-ring/"><u>Troubleshooting Call Issues: What to Do When Your Samsung Galaxy Watch Won't Ring</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/understanding-flipper-builders-upload-services-a-comprehensive-guide/"><u>Understanding Flipper Builder's Upload Services: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/upgrading-equipment-with-flipbuilder-what-are-the-guidelines/"><u>Upgrading Equipment with FlipBuilder: What Are the Guidelines?</u></a></li>
 </ul></div>
 

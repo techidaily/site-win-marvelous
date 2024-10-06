@@ -1,7 +1,7 @@
 ---
 title: "Best Ergonomic Chair Picks for a Healthy Back: The Top 5 Selections of 2022 Reviewed by ZDNet's Industry Leaders"
-date: 2024-09-24T16:00:46.003Z
-updated: 2024-09-30T16:00:22.822Z
+date: 2024-09-28T17:39:23.820Z
+updated: 2024-10-05T16:30:36.725Z
 tags:
   - office-furniture
 categories:
@@ -150,6 +150,13 @@ The best ergonomic office chair is the Steelcase Leap Fabric Office Chair. It of
 | Amazon Basics mesh office chair | $75       | 225 pounds       | Mid-back          |
 | Sidiz T50                       | $419      | 275 pounds       | Hips/Lower back   |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which is the right ergonomic office chair for you?
 
 If you need to buy it online and cannot try it out ahead of time, think about your preferences. Do you want a chair with fixed or adjustable back support? A chair with fixed support means the back of the chair might not move as you do. Meanwhile, adjustable back support moves as you do, supporting you in a variety of seating positions. Moreover, tension adjustment, lumbar support, and adjustable armrests are other factors you should consider.
@@ -163,10 +170,16 @@ If you need to buy it online and cannot try it out ahead of time, think about yo
 | Sidiz T50                                 | A chair designed to help with hip and lower back support |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these ergonomic office chairs?
@@ -181,26 +194,26 @@ Further, customer reviews played a critical role. When examining insights, comfo
 
 Lastly, what kind of warranty did the manufacturer provide? If you are spending hundreds on a chair, it should have the backing to protect your investment.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is an ergonomic office chair?
 
 An ergonomic office chair is a piece of furniture that is designed to work with your body in order to alleviate tension and pain that can build up over time. They often have reinforced shoulder, headrest, and lumbar areas for extra support as well as designs that contour with your body for better comfort and range of motion.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best ergonomic office chair for lumbar support?
 
 The Sidiz T50 is our pick for the best ergonomic chair for lumbar support. The S curve of the backrest supports and aligns your back while the forward tilt of the entire chair better distributes your weight to take pressure off of your hips and lower back. It also has 5 different reclining positions for when you need to stretch those sore and tense muscles.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What seat height should I look for if I'm over six feet tall? Or five feet?
@@ -210,13 +223,6 @@ Since heights and body postures vary widely, the best way to determine your chai
 ## How do I adjust an ergonomic office chair?
 
 It depends on the model you selected. Some come with pneumatic controls, while others have a knob. Pressing on the lever allows you to slide the chair up and down until you have a comfortable seating position. The same applies to the knob controls. Although, in these cases, you need to loosen the knob to allow the seat to adjust the height. Once you find the proper position, tighten the knob, and you are good to go.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative ergonomic office chairs worth considering?
 
@@ -254,21 +260,24 @@ There are lots of options out there if you're looking for an ergonomic office ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-gopros-best-underwater-enhancement-filters-for-2024/"><u>[Updated] GoPro's Best Underwater Enhancement Filters for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-short-film-script-example/"><u>[Updated] Short Film Script Example</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-poco-f5-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Poco F5 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-naruto-series-into-high-quality-video-formats-mp4-mov-and-avi-for-pcmac-users/"><u>Convert Naruto Series Into High-Quality Video Formats: MP4, MOV & AVI for PC/Mac Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-sharepoint-videos-to-mp4-and-avi-formats-download-guide-for-pc-and-mac/"><u>Convert SharePoint Videos to MP4 & AVI Formats - Download Guide for PC & Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-unilateral-audio-issue-on-win-os-headphones/"><u>Correcting Unilateral Audio Issue on WIN OS Headphones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722987892550-cyberpunk-eusure-installation-woes-heres-how-to-streamline-your-steam-download-process/"><u>Cyberpunk Eusure Installation Woes? Here's How to Streamline Your Steam Download Process!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-movies-and-videos-from-daumnet-with-the-easy-to-use-dawndownloader/"><u>Download Movies & Videos From Daum.net with the Easy-to-Use DawnDownloader</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-your-favorite-funimation-episodes-and-movies-in-high-quality-mp4-format/"><u>Download Your Favorite Funimation Episodes and Movies in High-Quality MP4 Format</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/erito-movie-downloads-available-in-various-file-types-mp4-mov-avi-flv-watch-and-enjoy/"><u>Erito Movie Downloads Available in Various File Types (MP4, MOV, AVI, FLV) - Watch & Enjoy</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/fixing-cannot-download-https-videos-effective-strategies-and-tips-for-smooth-playback/"><u>Fixing 'Cannot Download HTTPS Videos': Effective Strategies and Tips for Smooth Playback</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/fixing-linuxacademy-downloads-on-mac-and-windows-step-by-step-troubleshooting-guide/"><u>Fixing Linuxacademy Downloads on Mac & Windows: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone XS Max without Password?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-y36-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo Y36 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-chats-beyond-facebook/"><u>Secure Chats Beyond Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-deepening-dive-close-up-in-minecraft-worlds/"><u>[Updated] 2024 Approved Deepening Dive Close-Up in Minecraft Worlds</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-guide-overcoming-youtube-short-hurdles/"><u>[Updated] Quick Guide Overcoming YouTube Short Hurdles</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-speedy-methods-for-moving-files-from-your-android-device-to-windows-computer/"><u>1. Speedy Methods for Moving Files From Your Android Device to Windows Computer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-way-to-update-old-photos-and-videos-with-ig-filters/"><u>2024 Approved The Ultimate Way to Update Old Photos and Videos with IG Filters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-techniques-and-software-for-saving-episodes-from-hbo-go-using-screen-recorder-applications/"><u>Best Techniques and Software for Saving Episodes From HBO GO Using Screen Recorder Applications</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effective-methods-how-to-seamlessly-transform-pdf-files-into-epub-books/"><u>Effective Methods: How to Seamlessly Transform PDF Files Into EPUB Books</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-recording-methods-for-skype-calls-using-obs-for-2024/"><u>Efficient Recording Methods for Skype Calls Using OBS for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-transfer-how-to-convert-mkv-videos-to-play-on-your-android-device/"><u>Effortless Transfer: How to Convert MKV Videos to Play on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-iphone-utility-the-impact-of-integrating-googles-gemini-into-ios-insights/"><u>Enhancing iPhone Utility: The Impact of Integrating Google's Gemini Into iOS - Insights</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-free-download-and-convert-m4a-audio-tracks-into-mp3-format-the-ultimate-guide/"><u>How to Free Download and Convert M4A Audio Tracks Into MP3 Format - The Ultimate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blades-and-boards-olympians-on-ice/"><u>In 2024, Blades & Boards Olympians on Ice</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-apples-insufficient-ram-warning-roblox/"><u>Solutions to Apple's Insufficient RAM Warning (Roblox)</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-showing-your-iphones-display-on-a-windows-or-mac-computer/"><u>Step-by-Step Guide: Showing Your iPhone's Display on a Windows or Mac Computer</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-instructions-effortlessly-navigating-zepeto-on-your-computer-screen/"><u>Step-by-Step Instructions: Effortlessly Navigating Zepeto on Your Computer Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-wave-in-innovation-preview-of-google-pixel-fold-2-estimated-specs-pricing-and-release-window/"><u>The Next Wave in Innovation: Preview of Google Pixel Fold 2 – Estimated Specs, Pricing & Release Window</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-12-mini-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 12 mini Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-strategies-for-sharpening-images-a-comprehensive-guide/"><u>Top Strategies for Sharpening Images : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-ranked-pdf-cleaner-effortless-deletion-and-removal-of-documents/"><u>Top-Ranked PDF Cleaner: Effortless Deletion & Removal of Documents</u></a></li>
 </ul></div>
 

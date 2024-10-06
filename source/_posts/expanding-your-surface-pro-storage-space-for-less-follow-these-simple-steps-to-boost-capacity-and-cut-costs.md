@@ -1,7 +1,7 @@
 ---
 title: "Expanding Your Surface Pro Storage Space for Less: Follow These Simple Steps to Boost Capacity and Cut Costs!"
-date: 2024-09-24T16:02:30.832Z
-updated: 2024-09-30T16:02:39.942Z
+date: 2024-10-02T17:55:34.091Z
+updated: 2024-10-05T21:25:29.703Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-non-retweet-strategies-for-mobile-video-shares-for-2024/"><u>[New] Non-Retweet Strategies for Mobile Video Shares for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-master-your-mobile-communications-skype-and-zoom-on-android/"><u>[Updated] In 2024, Master Your Mobile Communications Skype & Zoom on Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-bodystream-glitch-explained-discover-these-seven-techniques-for-troubleshooting-and-fixing/"><u>ChatGPT's Bodystream Glitch Explained - Discover These Seven Techniques for Troubleshooting & Fixing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-stability-problems-in-total-war-rome-remastered-expert-advice/"><u>How to Resolve Stability Problems in Total War: Rome Remastered - Expert Advice</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-digital-flipping-your-guide-to-using-flipbooks-on-iphones-and-ipads/"><u>Mastering the Art of Digital Flipping: Your Guide to Using FlipBooks on iPhones and iPads</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/revamp-your-ebook-layouts-master-changing-background-in-flipbuildercom/"><u>Revamp Your eBook Layouts: Master Changing Background in FlipBuilder.com</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/reversing-reading-direction-how-to-adjust-book-page-orientation-from-right-to-left-using-flipbuilder/"><u>Reversing Reading Direction: How To Adjust Book Page Orientation From Right-to-Left Using FlipBuilder</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-audio-experience-the-ultimate-tutorial-on-linking-up-with-a-bose-soundlink-device/"><u>Seamless Audio Experience: The Ultimate Tutorial on Linking Up With a Bose Soundlink Device</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-integration-of-flipbooks-into-your-website-discover-how-with-flipbuilder/"><u>Seamless Integration of Flipbooks Into Your Website: Discover How with FlipBuilder</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamlessly-add-dynamic-flipbooks-to-your-sites-homepage-via-flipbuilder-tutorial/"><u>Seamlessly Add Dynamic Flipbooks to Your Site's Homepage via FlipBuilder Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-audio-interface-for-your-podcaster-for-2024/"><u>The Essential Audio Interface for Your Podcaster for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-maximize-creativity-with-these-10-androidpc-video-tools/"><u>[New] Maximize Creativity with These 10 Android/PC Video Tools</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/becoming-a-windows-insider-your-guide-to-enrollment-in-the-microsoft-community-and-its-benefits-zdnet/"><u>Becoming a Windows Insider: Your Guide to Enrollment in the Microsoft Community and Its Benefits - ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/enhance-your-online-safety-top-5-microsoft-edge-tweaks-that-outshine-chromes-security-features/"><u>Enhance Your Online Safety: Top 5 Microsoft Edge Tweaks That Outshine Chrome's Security Features</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-microsoft-identifies-the-secret-formula-of-11-techniques-for-successful-ai-habit-formation-zdnet-exclusive/"><u>How Microsoft Identifies The Secret Formula of 11 Techniques for Successful AI Habit Formation | ZDNET Exclusive</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-12-mini-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 12 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info/"><u>In 2024, Finding Peace in Patience Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-camera-to-community-shared-videos-on-twtplustumble/"><u>In 2024, From Camera to Community Shared Videos on Twt+Tumble</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-a34-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A34 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-file-protection-in-windows-1011-with-file-history-features-expert-tips-by-zdnet/"><u>Mastering the Art of File Protection in Windows 10/11 with File History Features | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a24-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A24</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/set-up-linux-on-microsoft-surface-go-in-under-60-minutes-expert-tutorial-by-zdnet/"><u>Set Up Linux on Microsoft Surface Go in Under 60 Minutes – Expert Tutorial by ZDnet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/the-end-of-windows-control-panel-microsoft-announces-major-shift-are-we-witnessing-the-future-yet-gadgetguru/"><u>The End of Windows Control Panel?: Microsoft Announces Major Shift - Are We Witnessing the Future Yet? | GadgetGuru</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/transforming-the-future-of-user-assistance-microsoft-evolves-windows-copilot-into-an-application-for-enhanced-usability-zdnet/"><u>Transforming the Future of User Assistance: Microsoft Evolves Windows Copilot Into an Application for Enhanced Usability | ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-savings-made-simple-expert-tips-for-choosing-gift-cards-during-black-friday-sales/"><u>Unlock Savings Made Simple: Expert Tips for Choosing Gift Cards During Black Friday Sales!</u></a></li>
 </ul></div>
 

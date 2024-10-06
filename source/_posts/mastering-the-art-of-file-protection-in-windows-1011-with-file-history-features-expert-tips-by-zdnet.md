@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of File Protection in Windows 10/11 with File History Features | Expert Tips by ZDNET
-date: 2024-09-23T16:00:21.378Z
-updated: 2024-09-30T16:01:39.777Z
+date: 2024-10-04T17:13:32.278Z
+updated: 2024-10-05T21:49:51.180Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-master-online-engagement-with-proficient-use-of-snap-in-teams-for-2024/"><u>[New] Master Online Engagement with Proficient Use of Snap in Teams for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-presence-mastering-ig-video-borders-for-2024/"><u>[Updated] Elevate Your Presence Mastering IG Video Borders for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leading-mp4-to-facebook-video-processor/"><u>[Updated] In 2024, Leading MP4-to-Facebook Video Processor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>2024 Approved From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/best-no-cost-platforms-for-viewing-and-downloading-micro-bit-size-animation-series/"><u>Best No-Cost Platforms for Viewing & Downloading Micro Bit-Size Animation Series</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/creating-seamless-ps4-streams-using-obs-studio-tools-for-2024/"><u>Creating Seamless PS4 Streams Using OBS Studio Tools for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-the-top-8-photo-software-replacements-by-microsoft-ideal-for-image-viewing-and-video-edits/"><u>Discover the Top 8 Photo Software Replacements by Microsoft - Ideal for Image Viewing & Video Edits!</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726027298321-dvd/"><u>DVDを複写する手段が分からない?その理由と対応方法をご紹介</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-fixes-for-uninterrupted-youtube-viewing-no-cost-solutions/"><u>Effortless Fixes for Uninterrupted YouTube Viewing: No Cost Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-what-does-pfp-mean-in-tiktok-a-complete-guide/"><u>In 2024, What Does PFP Mean in TikTok?[ A Complete Guide]</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/reach-out-connect-with-our-support-team/"><u>Reach Out: Connect with Our Support Team</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/shine-above-the-rest-creating-a-distinctive-mark-in-tiktok/"><u>Shine Above the Rest Creating a Distinctive Mark in TikTok</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/successful-techniques-for-combining-multiple-mp4-videos-using-vlc-media-player/"><u>Successful Techniques for Combining Multiple MP4 Videos Using VLC Media Player</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/the-ultimate-guide-three-trustworthy-ways-to-rotate-your-gopro-footage-successfully/"><u>The Ultimate Guide: Three Trustworthy Ways to Rotate Your GoPro Footage Successfully</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-5-free-tools-for-converting-wmv-videos-into-flv-format-online-and-offline-options-unveiled/"><u>Top 5 Free Tools for Converting WMV Videos Into FLV Format: Online and Offline Options Unveiled</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-ranked-no-cost-dvd-ripper-tool-for-windows-11-users-a-complete-guide/"><u>Top Ranked No-Cost DVD Ripper Tool for Windows 11 Users: A Complete Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-choosing-the-optimal-dvd-to-avi-converter-in-202aturally-here-are-two-new-best-seo-titles-suitable-for-google-search-engine-that-convey-simil37/"><u>Ultimate Guide: Choosing the Optimal DVD to AVI Converter in 202Aturally, Here Are Two New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Your Given Title 2024 The Best DVD to AVI Converter for Windows 11/11:</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-7-first-person-shooters-of-the-year/"><u>[New] 2024 Approved Best 7 First-Person Shooters of the Year</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-oral-outputs-the-ultimate-list-for-offline-transcription-apps/"><u>[Updated] Oral Outputs The Ultimate List for Offline Transcription Apps</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-quick-guide-how-to-save-your-favorite-blip-tv-episodes-on-mac-and-pc/"><u>1. Quick Guide: How to Save Your Favorite Blip TV Episodes on Mac & PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/converting-your-domestika-course-downloads-into-various-formats-mp4-avi-and-more/"><u>Converting Your Domestika Course Downloads Into Various Formats (MP4, AVI, & More)</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-download-music-from-facebook-videos-and-save-as-mp3s-step-by-step-instructions/"><u>How To Download Music From Facebook Videos and Save as MP3s: Step-by-Step Instructions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-11-pro-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 11 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-6-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 6 and Browser | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-sony-xperia-10-v-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Sony Xperia 10 V Device</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/interactive-ui-essentials-comprehensive-action-based-training-modules/"><u>Interactive UI Essentials - Comprehensive Action-Based Training Modules</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/quickdramasizer-save-and-convert-dramafire-episodes-for-offline-viewing-in-mp4/"><u>QuickDramasizer: Save and Convert DramaFire Episodes for Offline Viewing in MP4</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-favorite-patreon-shows-with-a-reliable-downloader-get-high-quality-videos-in-multiple-formats/"><u>Secure Your Favorite Patreon Shows with a Reliable Downloader - Get High-Quality Videos in Multiple Formats!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solve-instant-problems-in-live-chatgpt-transmissions/"><u>Solve Instant Problems in Live ChatGPT Transmissions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/struggling-with-downloading-ifilm-movies-learn-the-ultimate-guide-to-securely-saving-your-favorite-films/"><u>Struggling with Downloading iFilm Movies? Learn the Ultimate Guide to Securely Saving Your Favorite Films</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-techniques-for-repairing-non-functional-speakers-on-toshiba-notebooks/"><u>Top Techniques for Repairing Non-Functional Speakers on Toshiba Notebooks</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-techniques-to-save-and-transfer-videos-from-acorntv-for-desktop-users/"><u>Ultimate Techniques to Save and Transfer Videos From AcornTV for Desktop Users</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-access-to-thousands-of-videos-and-lectures-streamline-your-data-collection-with-allavsoft-for-music-video-courses-and-beyond/"><u>Unlock Access to Thousands of Videos and Lectures - Streamline Your Data Collection with Allavsoft for Music, Video, Courses & Beyond!</u></a></li>
 </ul></div>
 

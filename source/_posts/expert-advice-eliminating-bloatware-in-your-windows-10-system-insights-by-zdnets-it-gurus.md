@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Eliminating Bloatware in Your Windows 10 System | Insights by ZDNet's IT Gurus"
-date: 2024-09-24T16:00:50.329Z
-updated: 2024-09-30T16:03:02.722Z
+date: 2024-09-30T23:48:54.980Z
+updated: 2024-10-05T22:46:30.140Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-slow-motion-cameras-ranked/"><u>[New] Best Slow-Motion Cameras Ranked</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-10-best-free-online-screen-recorders/"><u>[Updated] In 2024, Top 10 Best Free Online Screen Recorders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-principles-to-write-captivating-vlog-dialogues/"><u>2024 Approved Key Principles to Write Captivating Vlog Dialogues</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-practices-in-digital-employment-advertising/"><u>Best Practices in Digital Employment Advertising</u></a></li>
-<li><a href="https://win11.techidaily.com/delaying-windows-11-shutdown-techniques-for-active-processestasks/"><u>Delaying Windows 11 Shutdown: Techniques for Active Processes/Tasks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-entire-lineup-of-released-titles-for-playstation-vr2/"><u>Discover the Entire Lineup of Released Titles for PlayStation VR2</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/diy-iphone-collages-tips-and-techniques-for-beginners/"><u>DIY iPhone Collages Tips and Techniques for Beginners</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/get-premium-naughty-machinima-series-downloaded-as-mp4movaviflvwmv-files/"><u>Get Premium Naughty Machinima Series Downloaded as MP4/MOV/AVI/FLV/WMV Files</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/gomovies-premium-downloads-high-quality-mp4-mov-and-more-for-your-collection/"><u>GoMovies Premium Downloads: High-Quality MP4, MOV & More for Your Collection</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-safely-acquire-and-convert-the-movie-dangal-into-various-hd-quality-formats-for-streaming-or-offline-viewing/"><u>How to Safely Acquire and Convert the Movie 'Dangal' Into Various HD Quality Formats for Streaming or Offline Viewing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-save-red-bull-tv-content-as-mp4-or-avi-files-a-step-by-step-guide/"><u>How to Save Red Bull TV Content as MP4 or AVI Files - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-11-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 11 to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-pioneering-practices-in-the-realm-of-iptv-recording/"><u>In 2024, Pioneering Practices in the Realm of IPTV Recording</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-converting-and-saving-udemy-lectures-download-options-for-mp4-mp3-mov-avi-audiovideo-formats/"><u>Mastering the Art of Converting and Saving Udemy Lectures: Download Options for MP4, MP3, MOV, AVI Audio/Video Formats</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-process-extracting-videos-from-sharptrades-platform/"><u>Mastering the Process: Extracting Videos From SharpTrades Platform</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/offline-spotify-streaming-on-your-apple-watch-no-iphone-required/"><u>Offline Spotify Streaming on Your Apple Watch: No iPhone Required</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/save-and-enjoy-ctv-news-videos-anywhere-easy-download-method-for-windowsmac-users/"><u>Save and Enjoy CTV News Videos Anywhere: Easy Download Method for Windows/Mac Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solve-your-video-playback-problems-on-youtube-easily/"><u>Solve Your Video Playback Problems on YouTube Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aster-the-art-of-immutable-image-creation/"><u>[New] Master the Art of Immutable Image Creation</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/boost-your-pcs-performance-utilize-windows-11-feature-to-quickly-terminate-sluggish-programs-revealed-by-tech-guru/"><u>Boost Your PC's Performance: Utilize Windows 11 Feature to Quickly Terminate Sluggish Programs, Revealed by Tech Guru</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-every-word-in-high-fidelity-with-discord/"><u>Capture Every Word in High Fidelity with Discord</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-installation-of-windows-11-even-without-a-microsoft-id-learn-the-secrets-like-elon-musk/"><u>Effortless Installation of Windows 11 Even Without a Microsoft ID - Learn the Secrets Like Elon Musk!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/essential-guide-how-this-compact-pc-outperforms-apples-mac-mini-for-windows-enthusiasts-techadvisor/"><u>Essential Guide: How This Compact PC Outperforms Apple's Mac Mini for Windows Enthusiasts | TechAdvisor</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exclusive-release-how-oems-are-revolutionizing-classrooms-with-new-windows-eb-se-devices-for-education-covered-by-zdnet/"><u>Exclusive Release: How OEMs Are Revolutionizing Classrooms with New Windows Eb SE Devices for Education Covered by ZDNET</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exploring-duolingo-cost-free-engaging-lessons-for-mastering-languages-digitallearningreviews/"><u>Exploring Duolingo: Cost-Free, Engaging Lessons for Mastering Languages | DigitalLearningReviews</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-pdf-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Add Your Digital Signature to a PDF Document</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-13t-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi 13T Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-psd-pattern-overlays/"><u>Master PSD Pattern Overlays</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-wfh-lifestyle-top-tech-strategies-and-advice-from-zdnet/"><u>Mastering the WFH Lifestyle: Top Tech, Strategies and Advice From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-device-id-extraction-techniques-for-windows-users/"><u>Mastery of Device ID Extraction Techniques for Windows Users</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revolutionize-your-workspace-exploring-the-best-bicycling-desks-of-2023-according-to-zdnet/"><u>Revolutionize Your Workspace: Exploring the Best Bicycling Desks of 2023 According to ZDNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/step-by-step-process-for-integrating-music-in-facebook-videos-for-2024/"><u>Step-by-Step Process for Integrating Music in Facebook Videos for 2024</u></a></li>
 </ul></div>
 

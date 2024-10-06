@@ -1,7 +1,7 @@
 ---
 title: Microsoft Faces Imminent Challenge with Windows 10 Bugs; Just One Year Left for Resolution | IT Innovator
-date: 2024-09-23T16:01:28.903Z
-updated: 2024-09-30T16:01:54.585Z
+date: 2024-09-28T16:27:27.954Z
+updated: 2024-10-05T16:39:57.809Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-decoding-facebooks-algorithm-the-way-to-access-vids/"><u>[New] 2024 Approved Decoding Facebook's Algorithm The Way to Access Vids</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-top-10-discord-dating-communities-unveiled/"><u>[New] In 2024, Top 10 Discord Dating Communities Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-malleability-the-art-of-photographic-warping/"><u>[Updated] Image Malleability The Art of Photographic Warping</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-precious-playtimes-kids-fun-and-games-anthology/"><u>2024 Approved Precious Playtimes Kids' Fun & Games Anthology</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-3-examined-the-ion-airs-game-changing-video-innovation/"><u>2024 Approved Pro 3 Examined The ION Air's Game-Changing Video Innovation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/animatedapp-full-guide-and-review-24-overview-for-2024/"><u>AnimatedApp Full Guide & Review '24 Overview for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exclusive-release-how-oems-are-revolutionizing-classrooms-with-new-windows-eb-se-devices-for-education-covered-by-zdnet/"><u>Exclusive Release: How OEMs Are Revolutionizing Classrooms with New Windows Eb SE Devices for Education Covered by ZDNET</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exploring-duolingo-cost-free-engaging-lessons-for-mastering-languages-digitallearningreviews/"><u>Exploring Duolingo: Cost-Free, Engaging Lessons for Mastering Languages | DigitalLearningReviews</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/from-basic-to-advanced-the-benefits-and-how-to-of-upgrading-from-windows-home-to-pro-gizmogeeks/"><u>From Basic to Advanced: The Benefits and How-To of Upgrading From Windows Home to Pro | GizmoGeeks</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-much-will-you-pay-to-stay-updated-with-windows-11-in-the-coming-year-insights-from-zdnet/"><u>How Much Will You Pay to Stay Updated with Windows 11 in the Coming Year? Insights From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-narzo-60-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme Narzo 60 Pro 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles/"><u>In 2024, Unveiling Modernity Discover These Top 10 Digital Realms for Artistic Font Styles</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/is-windows-12-on-the-horizon-unveiling-exciting-forecasts-and-answers-to-your-most-asked-questions-techinsights/"><u>Is Windows 12 on the Horizon? Unveiling Exciting Forecasts and Answers to Your Most-Asked Questions | TechInsights</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/microsofts-controversial-release-is-windows-11-already-facing-backlash-insights-from-zdnet/"><u>Microsoft's Controversial Release: Is Windows 11 Already Facing Backlash? Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-best-of-the-best-top-hd-video-editing-software-for-2024/"><u>New Best of the Best Top HD Video Editing Software for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/recovering-changed-or-lost-documents-using-microsoft-onedrive-a-comprehensive-guide/"><u>Recovering Changed or Lost Documents Using Microsoft OneDrive: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-pc-synchronization-across-distances-expert-tips-and-solutions/"><u>Seamless PC Synchronization Across Distances - Expert Tips & Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/simplified-cross-platform-file-transfer-between-windows-computers-and-android-phones-via-googles-quick-share-functionality-guide/"><u>Simplified Cross-Platform File Transfer Between Windows Computers and Android Phones via Google's Quick Share Functionality | Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-breezing-through-igtv-acquisition-on-smartphones-and-tablets/"><u>[New] 2024 Approved Breezing Through IGTV Acquisition on Smartphones and Tablets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-camera-review-the-ultimate-guide-to-best-videographics-for-2024/"><u>[New] Camera Review - The Ultimate Guide to Best Videographics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-superior-choice-the-premier-portable-dvd-picks/"><u>[New] In 2024, Superior Choice The Premier Portable DVD Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-visibility-with-youtube-branding-techniques/"><u>[Updated] 2024 Approved Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/55s76z2i44ks5zcm5pmc44gr6yyy55s744o76yyy6zplusz44gz44kl5yq55p6c55qe5oml5rov/"><u>画面を同時に録画・録音する効果的手法</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-zero-cost-software-for-transforming-social-media-sounds-into-pure-mp3-files-ad-free-seamless-conversion-guaranteed/"><u>Best Zero-Cost Software for Transforming Social Media Sounds Into Pure MP3 Files: Ad-Free, Seamless Conversion Guaranteed!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/captivating-costless-visual-collaboration-games/"><u>Captivating Costless Visual Collaboration Games</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/convert-mpg-and-mp3-to-m4v-format-free-online-easy-guide/"><u>Convert MPG & MP3 to M4V Format FREE Online - Easy Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-dissection-gpt-vs-bingbots-10-key-dichotomies/"><u>Dialogue Dissection: GPT Vs. BingBot's 10 Key Dichotomies</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-the-top-5-successors-of-imgburn-ultimate-burning-software-rankings/"><u>Discover the Top 5 Successors of ImgBurn: Ultimate Burning Software Rankings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-11-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 11 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/in-depth-guide-wonderfox-dvd-ripping-software-features/"><u>In-Depth Guide: WonderFox DVD Ripping Software Features</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/iphoneandroidmp4/"><u>IPhone・AndroidのスマホでMP4ファイルをメッセージ受信音に設定する手順</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/is-using-zamzar-secure-insights-into-the-trustworthiness-of-online-file-conversion-services/"><u>Is Using Zamzar Secure? Insights Into the Trustworthiness of Online File Conversion Services</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/no-cost-solutions-for-adding-mp3-audio-to-your-youtube-channel/"><u>No Cost Solutions for Adding MP3 Audio to Your YouTube Channel</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/reclaiming-missing-contact-information-post-ios-12-update-expert-tips-and-tricks/"><u>Reclaiming Missing Contact Information Post-iOS 12 Update – Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/seamless-media-conversion-the-ultimate-guide-for-mp4-to-mpeg-4-upgrading/"><u>Seamless Media Conversion: The Ultimate Guide for MP4 to MPEG-4 Upgrading</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-fixing-graphics-stall-error-0x887a0006-on-windows/"><u>Swiftly Fixing Graphics Stall (Error 0X887A0006) on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/time-lapse-magic-a-samsung-photo-guide/"><u>Time-Lapse Magic A Samsung Photo Guide</u></a></li>
 </ul></div>
 

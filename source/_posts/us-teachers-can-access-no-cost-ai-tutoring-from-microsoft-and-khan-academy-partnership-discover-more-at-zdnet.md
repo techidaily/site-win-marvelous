@@ -1,7 +1,7 @@
 ---
 title: U.S. Teachers Can Access No-Cost AI Tutoring From Microsoft & Khan Academy Partnership | Discover More at ZDNet
-date: 2024-09-23T16:03:31.454Z
-updated: 2024-09-30T16:02:32.913Z
+date: 2024-09-29T00:11:29.110Z
+updated: 2024-10-06T00:53:06.468Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,29 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-understanding-how-youtube-processes-videos-after-they-are-uploaded/"><u>[New] Understanding How YouTube Processes Videos After They Are Uploaded</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-from-passive-to-profitable-8-beginners-revenue-hacks-for-youtube-for-2024/"><u>[Updated] From Passive to Profitable 8 Beginner's Revenue Hacks for YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-achieving-precision-with-obs-implementing-timer-functionality/"><u>[Updated] In 2024, Achieving Precision with OBS Implementing Timer Functionality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-ultimate-powerdirector-mastery-a-comprehensive-guide/"><u>[Updated] In 2024, Ultimate PowerDirector Mastery A Comprehensive Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/2024-gifgif/"><u>2024年に人気! GIF制作ツールガイドとシンプルなGIF作成手順</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/55s76z2i44ks5zcm5pmc44gr6yyy55s744o76yyy6zplusz44gz44kl5yq55p6c55qe5oml5rov/"><u>画面を同時に録画・録音する効果的手法</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/best-zero-cost-software-for-transforming-social-media-sounds-into-pure-mp3-files-ad-free-seamless-conversion-guaranteed/"><u>Best Zero-Cost Software for Transforming Social Media Sounds Into Pure MP3 Files: Ad-Free, Seamless Conversion Guaranteed!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-mpg-and-mp3-to-m4v-format-free-online-easy-guide/"><u>Convert MPG & MP3 to M4V Format FREE Online - Easy Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-the-top-5-successors-of-imgburn-ultimate-burning-software-rankings/"><u>Discover the Top 5 Successors of ImgBurn: Ultimate Burning Software Rankings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-play-the-zephyrus-g14-by-asus-redefines-laptop-aesthetics-with-a-colorful-adaptive-e-paper-screen/"><u>Elevate Your Play: The Zephyrus G1^4 by Asus Redefines Laptop Aesthetics With a Colorful, Adaptive E-Paper Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-a1x-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo A1x 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlining-roblox-games-on-mac-for-recording/"><u>In 2024, Streamlining Roblox Games on Mac for Recording</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-8-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 8 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trasforma-rapidamente-i-tuoi-grandi-file-vob-in-mp4-gratuitamente-sia-versioni-con-protezione-che-senza/"><u>Trasforma Rapidamente I Tuoi Grandi File VOB in MP4 Gratuitamente, Sia Versioni Con Protezione Che Senza!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-9-powerful-applications-for-saving-youtube-content-on-android/"><u>[New] In 2024, 9 Powerful Applications for Saving YouTube Content on Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-become-a-pro-downloading-and-setting-up-vrecord/"><u>[New] In 2024, Become a Pro Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-the-secret-to-massive-engagement-3-top-tips-for-making-powerful-two-pov-reaction-videos-on-youtube/"><u>[Updated] 2024 Approved Unlock the Secret to Massive Engagement 3 Top Tips for Making Powerful Two-POV Reaction Videos on YouTube</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/adjusting-the-position-of-toolbars-in-floating-templates-using-flipbooks-builder-a-step-by-step-guide/"><u>Adjusting the Position of Toolbars in Floating Templates Using FlipBook's Builder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-the-gap-reactivate-and-recover-from-printer-disconnect/"><u>Bridge the Gap: Reactivate and Recover From Printer Disconnect</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/create-engaging-page-turning-ebooks-from-multiple-powerpoints-using-flipbuilder-tips-and-techniques/"><u>Create Engaging Page-Turning eBooks From Multiple PowerPoints Using FlipBuilder - Tips & Techniques</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/create-interactive-digital-magaznies-from-pdfs-using-our-no-cost-pdf-flipsheet-maker/"><u>Create Interactive Digital Magaznies From PDFs Using Our No-Cost PDF Flipsheet Maker</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-unique-content-in-our-customizable-flipbooks-at-flipbuildercom/"><u>Discover Unique Content in Our Customizable Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/easy-steps-to-create-interactive-pdfs-with-page-turning-features-on-flipbuilder/"><u>Easy Steps to Create Interactive PDFs with Page-Turning Features on FlipBuilder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/get-crystal-clear-flipbook-views-on-flipbuildercom-discover-easy-tips-to-browse-better/"><u>Get Crystal-Clear Flipbook Views on FlipBuilder.com - Discover Easy Tips to Browse Better</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-steam-cannot-update-cloud-data-issue/"><u>Resolving the 'Steam Cannot Update Cloud Data' Issue</u></a></li>
 </ul></div>
 

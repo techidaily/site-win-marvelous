@@ -1,7 +1,7 @@
 ---
 title: Tech Review Alert! The Ultimate Showdown with Microsoft Surface Laptop Studio Leaves Rivals in Its Wake | ZDNET
-date: 2024-09-23T16:02:38.967Z
-updated: 2024-09-30T16:00:54.470Z
+date: 2024-09-30T18:53:29.847Z
+updated: 2024-10-06T00:07:17.309Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-building-a-studio-quality-setup-at-home/"><u>[New] 2024 Approved Building a Studio-Quality Setup at Home</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-decoding-digital-dollars-an-effective-triple-step-process-to-determine-your-subscriber-profits/"><u>[New] 2024 Approved Decoding Digital Dollars An Effective Triple Step Process to Determine Your Subscriber Profits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-bypassing-blockbusters-2023-indie-favorites-for-2024/"><u>[New] Bypassing Blockbusters 2023 Indie Favorites for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-vsr-video-vaulter-reviews-comprehensive-guide/"><u>[Updated] 2024 Approved VSR Video Vaulter Reviews Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-perfecting-your-video-content-for-instagram-feed/"><u>[Updated] Perfecting Your Video Content for Instagram Feed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlined-converting-top-six-free-ios-apps-for-youtube-to-mp3/"><u>[Updated] Streamlined Converting Top Six Free iOS Apps for YouTube-to-MP3</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-seamlessly-integrate-your-mts-files-with-the-top-ranked-merger-tools-a-comprehensive-guide/"><u>1. Seamlessly Integrate Your MTS Files with the Top-Ranked Merger Tools: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-troubleshooting-xavc-s-footage-a-guide-to-successful-import-into-davinci-resolve/"><u>1. Troubleshooting XAVC-S Footage: A Guide to Successful Import Into Davinci Resolve</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/2-quick-tips-mastering-the-art-of-video-sending-via-snapchat/"><u>2. Quick Tips: Mastering the Art of Video Sending via Snapchat</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1726026684301-dvdmp4/"><u>効果的な方法：DVDファイルをMP4形式でコンパクト化</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-motion-monitoring-made-easy-best-apps-for-android-and-ios/"><u>In 2024, Motion Monitoring Made Easy Best Apps for Android and iOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlining-video-content-with-effective-xml-ttml-and-srt-solutions/"><u>Streamlining Video Content with Effective XML, TTML & SRT Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1726029152602-dvd/"><u>ダビング可能なDVDを簡単に切り取れる無料アプリ３本記事</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-tracing-view-count-to-cash-flow-on-youtube-platform/"><u>[New] 2024 Approved Tracing View Count to Cash Flow on YouTube Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-no-cost-screen-record-the-ultimate-win11-tools-1-5-listing/"><u>[New] No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/show/"><u>「ビデオ解像度調整テクニック集：パワフル編集のコツ見つけまSHOW!」</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-media-playerdvd/"><u>確実に解決 Windows Media PlayerでDVD再生エラーをどう克服しますか?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-fixes-for-uninterrupted-youtube-viewing-no-cost-solutions/"><u>Effortless Fixes for Uninterrupted YouTube Viewing: No Cost Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ensuring-security-in-converting-youtube-tracks-to-mp3-format/"><u>Ensuring Security in Converting YouTube Tracks to MP3 Format</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-reap-endless-visual-resources-via-four-prime-youtube-sites/"><u>In 2024, Reap Endless Visual Resources via Four Prime YouTube Sites</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-illumination-best-covered-ig-highlights-on-the-move/"><u>Instagram Illumination Best-Covered IG Highlights on the Move</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-your-pc-space-with-stellar-data-shredder-pro-windows-version/"><u>Maximize Your PC Space with Stellar Data Shredder Pro (Windows Version)</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reach-out-connect-with-our-support-team/"><u>Reach Out: Connect with Our Support Team</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-10-free-video-repeater-tools-for-endless-loops-for-2024/"><u>Top 10 Free Video Repeater Tools for Endless Loops for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-ranking-flac-cue-splitting-tools-effortlessly-divide-your-flac-files-into-separate-audio-tracks/"><u>Top-Ranking FLAC CUE Splitting Tools: Effortlessly Divide Your FLAC Files Into Separate Audio Tracks</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/try-out-the-enhanced-psp-video-transcoder-factory-version-for-free-and-easy-checkout/"><u>Try Out the Enhanced PSP Video Transcoder Factory Version for Free and Easy Checkout</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-to-downloading-youtube-audio-without-charge-best-android-apps/"><u>Ultimate Guide to Downloading YouTube Audio Without Charge - Best Android Apps</u></a></li>
 </ul></div>
 

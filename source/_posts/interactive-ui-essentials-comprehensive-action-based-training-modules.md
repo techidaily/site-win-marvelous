@@ -1,7 +1,7 @@
 ---
 title: Interactive UI Essentials - Comprehensive Action-Based Training Modules
-date: 2024-09-23T16:00:44.584Z
-updated: 2024-09-30T16:01:38.777Z
+date: 2024-10-04T23:00:17.039Z
+updated: 2024-10-06T00:14:13.176Z
 tags:
   - product
 categories:
@@ -46,10 +46,10 @@ Action Tutorials
  All tutorials about Action! user interface. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General user interface tutorials
@@ -57,10 +57,10 @@ Action Tutorials
 [![Action! recorder - HUD](https://mirillis.com/res/old/gfx/tutorials/thumbnail_hud_desktop.jpg) About Action! HUD in Active screen / desktop mode  This tutorial shows basic information about Action! HUD in Active screen / desktop mode](https://tools.techidaily.com/mirillis/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Active screen recording mode](https://mirillis.com/res/old/gfx/tutorials/thumbnail_active_desktop.jpg) Introduction to Active screen recording mode Learn basics of Mirillis Action! Active screen recording mode and start to record your Windows screen / desktop with superb quality!](https://tools.techidaily.com/mirillis/products/) 
@@ -68,25 +68,19 @@ Action Tutorials
 [![Active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/thumbnail_active_desktop_region.jpg) Introduction to Active screen region recording mode Learn basics of Action! Active screen region recording mode, learn how to select desired dekstop region and start screen recording.](https://tools.techidaily.com/mirillis/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Introduction to game recording with action!](https://mirillis.com/res/old/gfx/tutorials/thumbnail_games_and_applications_recording_mode.jpg) Introduction to Games and Applications recording mode  Learn basics of Mirillis Action! Games and Applications recording mode and make your first application or gameplay recording!](https://tools.techidaily.com/mirillis/products/) 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Share this page:
@@ -106,20 +100,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-tackling-windows-files-swiftly-and-smartly-for-2024/"><u>[New] Tackling Windows Files Swiftly and Smartly for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-initiating-understanding-of-screen-resolution-and-quality/"><u>2024 Approved Initiating Understanding of Screen Resolution and Quality</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-se-2020-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone SE (2020)? Find the Best Solution Here</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convertir-archivos-mp4-a-imagenes-jpeg-online-sin-coste-hacerlo-con-ease-usando-movavi/"><u>Convertir Archivos MP4 a Imágenes JPEG Online Sin Coste - Hacerlo Con Ease Usando Movavi</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-premier-ios-video-player-apps-for-optimal-entertainment/"><u>In 2024, Premier iOS Video Player Apps for Optimal Entertainment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-route-to-sharpen-your-meme-skills-at-9gag/"><u>In 2024, The Ultimate Route to Sharpen Your Meme Skills at 9GAG</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/in-depth-guide-wonderfox-dvd-ripping-software-features/"><u>In-Depth Guide: WonderFox DVD Ripping Software Features</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intelladapter-absence-driver-installs-failed/"><u>IntellAdapter Absence: Driver Installs Failed</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/iphoneandroidmp4/"><u>IPhone・AndroidのスマホでMP4ファイルをメッセージ受信音に設定する手順</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/is-using-zamzar-secure-insights-into-the-trustworthiness-of-online-file-conversion-services/"><u>Is Using Zamzar Secure? Insights Into the Trustworthiness of Online File Conversion Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lens-wisdom-advanced-insights-into-capturing-and-editing-art-for-2024/"><u>Lens Wisdom Advanced Insights Into Capturing & Editing Art for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/network-knights-guide-to-overcoming-obs-studios-windows-hiccup-7-ways/"><u>Network Knights' Guide to Overcoming OBS Studio's Windows Hiccup (7 Ways)</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/no-cost-solutions-for-adding-mp3-audio-to-your-youtube-channel/"><u>No Cost Solutions for Adding MP3 Audio to Your YouTube Channel</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-media-conversion-the-ultimate-guide-for-mp4-to-mpeg-4-upgrading/"><u>Seamless Media Conversion: The Ultimate Guide for MP4 to MPEG-4 Upgrading</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-capturing-voice-chat-audio-from-teamspeak-in-windows-and-macos/"><u>Step-by-Step Guide: Capturing Voice Chat Audio From TeamSpeak in Windows and macOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enriching-meta-descriptions-a-template-transformation-journey/"><u>[New] Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9/"><u>[Updated] 2024 Approved Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-evade-robotic-ratings-for-real-time-traffic-surge/"><u>[Updated] Evade Robotic Ratings for Real-Time Traffic Surge</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-master-list-of-youtube-templates-for-beginners/"><u>[Updated] Master List of YouTube Templates for Beginners</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-prime-video-recorders-head-on-screen-viewing/"><u>2024 Approved Prime Video Recorders Head-On Screen Viewing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/are-your-audiovisual-projects-supported-by-flipbuildercom/"><u>Are Your Audiovisual Projects Supported by FlipBuilder.com?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-tailor-your-flipbooks-pre-loader-with-swf-customization-techniques-learn-at-flipbuildercom/"><u>How to Tailor Your FlipBook's Pre-Loader with SWF Customization Techniques [Learn at FlipBuilder.com]</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/optimize-your-digital-flipbook-layout-tips-for-aligning-page-size-proportions/"><u>Optimize Your Digital FlipBook Layout: Tips for Aligning Page Size Proportions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perspective-play-using-edits-to-redefine-images/"><u>Perspective Play Using Edits to Redefine Images</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/receiving-your-flipbuilder-licensing-code-timeline-and-process-post-purchase/"><u>Receiving Your FlipBuilder Licensing Code: Timeline & Process Post-Purchase</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reducing-your-flipbook-projects-total-dimensions-with-ease-a-step-by-step-guide-on-flipbuildercom/"><u>Reducing Your FlipBook Project's Total Dimensions with Ease: A Step-by-Step Guide on [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reordering-images-with-ease-mastering-flipbuilders-photography-tool/"><u>Reordering Images with Ease: Mastering FlipBuilder's Photography Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streaming-tweets-on-whatsapp-a-2023-guide/"><u>Streaming Tweets on WhatsApp A 2023 Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-itel-p40-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/wnba-unleashed-on-two-social-titans-this-season/"><u>WNBA Unleashed on Two Social Titans This Season</u></a></li>
 </ul></div>
 

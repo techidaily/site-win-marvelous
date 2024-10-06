@@ -1,7 +1,7 @@
 ---
 title: "Boost Your PC's Performance: Utilize Windows 11 Feature to Quickly Terminate Sluggish Programs, Revealed by Tech Guru"
-date: 2024-09-29T16:00:19.751Z
-updated: 2024-09-30T16:01:47.122Z
+date: 2024-09-28T16:49:59.165Z
+updated: 2024-10-05T23:46:49.164Z
 tags:
   - windows
 categories:
@@ -27,17 +27,56 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -54,38 +93,17 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -98,18 +116,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,21 +174,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capturing-speech-iphone-memo-making-steps/"><u>[New] In 2024, Capturing Speech IPhone Memo-Making Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-5-twitch-broadcasting-techniques/"><u>[Updated] Top 5 Twitch Broadcasting Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-visual-experience-eizos-4k-monitor-reviewed/"><u>[Updated] Ultimate Visual Experience EIZO's 4K Monitor Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>2024 Approved From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-wd-blue-sn5000-4tb-ssd-assessment-the-new-go-to-storage-solution-from-western-digital/"><u>Comprehensive WD Blue SN5000 4TB SSD Assessment: The New Go-To Storage Solution From Western Digital</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-profitable-pathways-8-steps-for-youtube-earning/"><u>In 2024, Profitable Pathways 8 Steps for YouTube Earning</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-quintessential-toptiktok-tweets-in-popularity/"><u>In 2024, The Quintessential #TopTikTok Tweets in Popularity</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-converting-and-saving-udemy-lectures-download-options-for-mp4-mp3-mov-avi-audiovideo-formats/"><u>Mastering the Art of Converting and Saving Udemy Lectures: Download Options for MP4, MP3, MOV, AVI Audio/Video Formats</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-process-extracting-videos-from-sharptrades-platform/"><u>Mastering the Process: Extracting Videos From SharpTrades Platform</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/offline-spotify-streaming-on-your-apple-watch-no-iphone-required/"><u>Offline Spotify Streaming on Your Apple Watch: No iPhone Required</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/save-and-enjoy-ctv-news-videos-anywhere-easy-download-method-for-windowsmac-users/"><u>Save and Enjoy CTV News Videos Anywhere: Easy Download Method for Windows/Mac Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solve-your-video-playback-problems-on-youtube-easily/"><u>Solve Your Video Playback Problems on YouTube Easily</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-downloading-shutterstock-footage-from-pc-or-mac/"><u>Step-by-Step Guide: Downloading Shutterstock Footage From PC or Mac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-access-and-use-spotify-on-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Access and Use Spotify on an iPhone or iPad</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/strategies-to-skyrocket-instagram-video-views/"><u>Strategies to Skyrocket Instagram Video Views</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s24-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S24 Phone Hassle-Free</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-online-solution-automatic-video-to-text/"><u>[New] 2024 Approved Top Online Solution Automatic Video to Text</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-manage-srt-files-in-winmac-environments-for-2024/"><u>[Updated] Manage SRT Files in Win/Mac Environments for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-quick-tips-eradicate-online-ads-from-your-feed-for-2024/"><u>[Updated] Quick Tips Eradicate Online Ads From Your Feed for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-master-your-photos-the-prime-selection-of-no-cost-editors/"><u>2024 Approved Master Your Photos The Prime Selection of No-Cost Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tailoring-your-streamlabs-obs-experience/"><u>2024 Approved Tailoring Your Streamlabs OBS Experience</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-techniques-and-software-for-saving-episodes-from-hbo-go-using-screen-recorder-applications/"><u>Best Techniques and Software for Saving Episodes From HBO GO Using Screen Recorder Applications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-transfer-how-to-convert-mkv-videos-to-play-on-your-android-device/"><u>Effortless Transfer: How to Convert MKV Videos to Play on Your Android Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exuberant-echoes-of-july-4th-joy/"><u>Exuberant Echoes of July 4Th Joy</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-free-download-and-convert-m4a-audio-tracks-into-mp3-format-the-ultimate-guide/"><u>How to Free Download and Convert M4A Audio Tracks Into MP3 Format - The Ultimate Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-a-nonfunctional-logitech-g733-microphone/"><u>How to Repair and Restore a Nonfunctional Logitech G733 Microphone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-discover-the-perfect-tunefab-recorder-for-your-needs/"><u>In 2024, Discover the Perfect Tunefab Recorder for Your Needs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/simple-guide-to-saving-vevo-music-videos-in-mp3-format-without-hassle/"><u>Simple Guide to Saving Vevo Music Videos in MP3 Format Without Hassle</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solve-windows-11-gaming-recording-problems-with-effective-fixes/"><u>Solve Windows 11 Gaming Recording Problems with Effective Fixes</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-s9-to-a-windowsmac-computer/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy S9 to a Windows/Mac Computer</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-instructions-effortlessly-navigating-zepeto-on-your-computer-screen/"><u>Step-by-Step Instructions: Effortlessly Navigating Zepeto on Your Computer Screen</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-tips-seamlessly-transforming-mov-files-into-gifs/"><u>Top Tips: Seamlessly Transforming MOV Files Into GIFs</u></a></li>
 </ul></div>
 

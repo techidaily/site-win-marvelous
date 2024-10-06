@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Microsoft Surface Laptop N: A Balanced Take on Its Shortcomings - Insights From ZDNet"
-date: 2024-09-25T16:01:34.905Z
-updated: 2024-09-30T16:01:07.989Z
+date: 2024-09-28T17:02:38.205Z
+updated: 2024-10-05T20:01:20.761Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,28 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-complete-blueprint-for-iphone-podcast-downloads/"><u>[New] 2024 Approved The Complete Blueprint for iPhone Podcast Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-efficient-revenue-streams-the-guide-to-making-money-from-youtube-mobile/"><u>[Updated] In 2024, Efficient Revenue Streams The Guide to Making Money From YouTube Mobile</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-and-save-your-favorite-video-tutorials-from-sitepoint-as-mp4-or-avi-files/"><u>Convert and Save Your Favorite Video Tutorials From SitePoint as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-naruto-series-into-high-quality-video-formats-mp4-mov-and-avi-for-pcmac-users/"><u>Convert Naruto Series Into High-Quality Video Formats: MP4, MOV & AVI for PC/Mac Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-sharepoint-videos-to-mp4-and-avi-formats-download-guide-for-pc-and-mac/"><u>Convert SharePoint Videos to MP4 & AVI Formats - Download Guide for PC & Mac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-movies-and-videos-from-daumnet-with-the-easy-to-use-dawndownloader/"><u>Download Movies & Videos From Daum.net with the Easy-to-Use DawnDownloader</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-your-favorite-funimation-episodes-and-movies-in-high-quality-mp4-format/"><u>Download Your Favorite Funimation Episodes and Movies in High-Quality MP4 Format</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-iphone-shots-10-best-camera-apps-x-7/"><u>Elevate Your iPhone Shots 10 Best Camera Apps (X, 7)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-meetings-screen-capture-with-webcam-for-2024/"><u>Enhancing Meetings Screen Capture with Webcam for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/erito-movie-downloads-available-in-various-file-types-mp4-mov-avi-flv-watch-and-enjoy/"><u>Erito Movie Downloads Available in Various File Types (MP4, MOV, AVI, FLV) - Watch & Enjoy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-naraka-bladepoint-issues-complete-guide-to-overcoming-game-crashes/"><u>Fix Your Naraka: Bladepoint Issues – Complete Guide to Overcoming Game Crashes</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/fixing-cannot-download-https-videos-effective-strategies-and-tips-for-smooth-playback/"><u>Fixing 'Cannot Download HTTPS Videos': Effective Strategies and Tips for Smooth Playback</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/fixing-linuxacademy-downloads-on-mac-and-windows-step-by-step-troubleshooting-guide/"><u>Fixing Linuxacademy Downloads on Mac & Windows: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-identifying-and-resolving-non-detecting-bluetooth-issues-on-windows-10-computers/"><u>Guide: Identifying & Resolving Non-Detecting Bluetooth Issues on Windows 10 Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-cult-of-the-lamb-from-crashing-on-your-windows-computer/"><u>How to Stop 'Cult of the Lamb' From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-voice-your-imagery-a-tiktok-breakdown-for-2024/"><u>How to Voice Your Imagery A TikTok Breakdown for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-x50iplus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor X50i+ IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-harvest-hits-roundup-next-gen-farming-game-picks/"><u>[New] 2024 Approved Harvest Hits Roundup Next-Gen Farming Game Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/et-youtube-posters-at-zero-price-top-free-downloading-tool-for-2024/"><u>[New] Get YouTube Posters at Zero Price - Top Free Downloading Tool for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-ergonomic-chair-picks-for-a-healthy-back-the-top-5-selections-of-2022-reviewed-by-zdnets-industry-leaders/"><u>Best Ergonomic Chair Picks for a Healthy Back: The Top 5 Selections of 2022 Reviewed by ZDNet's Industry Leaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-list-of-free-mlb-streams-for-all-2022-matches-watch-baseball-online-at-no-cost/"><u>Discover the Ultimate List of Free MLB Streams for All 2022 Matches - Watch Baseball Online at No Cost!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/error-x97-in-epson-units-solved/"><u>Error X97 in Epson Units - Solved</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/give-your-windows-10-machine-a-second-wind-free-solutions-to-prolong-your-old-pcs-lifespan-zdnet-tips/"><u>Give Your Windows 10 Machine a Second Wind: Free Solutions to Prolong Your Old PC's Lifespan | ZDNET Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/kazam-screen-recorder-review-for-2024/"><u>Kazam Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-gaming-snaps-top-5-windows-11-tactics/"><u>Mastering Gaming Snaps Top 5 Windows 11 Tactics</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/read-faster-with-flip-reader-your-essential-tool-for-ebooks-in-fbrzip-formats-from-flipbuilder/"><u>Read Faster with Flip Reader - Your Essential Tool for EBooks in Fbr/Zip Formats From FlipBuilder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/securing-the-web-how-adjusting-these-5-microsoft-edge-settings-surpasses-google-chrome-in-protection/"><u>Securing the Web: How Adjusting These 5 Microsoft Edge Settings Surpasses Google Chrome in Protection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-free-android-video-call-apps-compared/"><u>Top Free Android Video Call Apps Compared</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-tozo-t6-driver-issues-in-windows-11/"><u>Troubleshooting the Tozo T6 Driver Issues in Windows 11</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unveiling-microsofts-copilot-an-innovative-ai-assistant-with-prominent-sales-features-insights-from-zdnet/"><u>Unveiling Microsoft's Copilot: An Innovative AI Assistant with Prominent Sales Features – Insights From ZDNet</u></a></li>
 </ul></div>
 

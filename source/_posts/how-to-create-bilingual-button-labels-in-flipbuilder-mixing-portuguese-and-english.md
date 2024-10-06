@@ -1,7 +1,7 @@
 ---
 title: "How to Create Bilingual Button Labels in FlipBuilder: Mixing Portuguese and English"
-date: 2024-09-26T16:00:34.018Z
-updated: 2024-09-30T16:04:12.551Z
+date: 2024-09-30T20:41:00.743Z
+updated: 2024-10-06T00:50:44.686Z
 tags:
   - product
 categories:
@@ -46,23 +46,26 @@ Follow below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-optimal-pc-mac-screen-recording-software/"><u>[Updated] 2024 Approved Optimal PC-Mac Screen Recording Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-power-of-irecorder-in-action/"><u>[Updated] In 2024, The Power of iRecorder in Action</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-action-photography-on-your-iphone/"><u>Dynamic Action Photography on Your iPhone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-narzo-n55-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme Narzo N55 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/recovering-changed-or-lost-documents-using-microsoft-onedrive-a-comprehensive-guide/"><u>Recovering Changed or Lost Documents Using Microsoft OneDrive: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-pc-synchronization-across-distances-expert-tips-and-solutions/"><u>Seamless PC Synchronization Across Distances - Expert Tips & Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/simplified-cross-platform-file-transfer-between-windows-computers-and-android-phones-via-googles-quick-share-functionality-guide/"><u>Simplified Cross-Platform File Transfer Between Windows Computers and Android Phones via Google's Quick Share Functionality | Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-evolving-narratives-in-the-age-of-vr-movies/"><u>[New] 2024 Approved Evolving Narratives in the Age of VR Movies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-deep-dive-into-youtubes-latest-monetization-policy-for-2024/"><u>[New] A Deep Dive Into YouTube's Latest Monetization Policy for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>[Updated] Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-express-yourself-accessibility-available-for-free/"><u>In 2024, Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Pattern Lock Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/protecting-your-digital-reads-the-ultimate-tutorial-on-backing-up-ebooks-from-kobo/"><u>Protecting Your Digital Reads: The Ultimate Tutorial on Backing Up eBooks From Kobo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/samsung-ue590-review-top-tier-4k-uhd-tv-for-gamers/"><u>Samsung UE590 Review - Top-Tier 4K UHD TV for Gamers</u></a></li>
 <li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-a-professional-powerhouse/"><u>Step-by-Step Guide: Transforming Your Windows Home Into a Professional Powerhouse</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Infinix Note 30 5G</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Motorola Razr 40 Ultra</u></a></li>
 <li><a href="https://win-marvelous.techidaily.com/top-11-hacks-to-unlock-ultimate-control-over-your-windows-touchpad-enhancing-speed-and-intelligence-in-workflows-digitaltrends/"><u>Top 11 Hacks to Unlock Ultimate Control over Your Windows Touchpad, Enhancing Speed and Intelligence in Workflows | DigitalTrends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-1011my-cinema-app/"><u>Windows 10/11版でMy Cinema Appをスムーズに動画録画するチュートリアル</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlocking-full-control-a-step-by-step-guide-to-activating-god-mode-in-windows-11-reasons-to-empower-your-pc/"><u>Unlocking Full Control: A Step-by-Step Guide to Activating God Mode in Windows 11 - Reasons to Empower Your PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-plans-beginning-next-year-learn-the-estimated-prices/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Plans Beginning Next Year – Learn the Estimated Prices</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/why-are-engineers-falling-for-windows-11-unpacking-the-appeal-with-exclusive-microsoft-perspective-at-zdnet/"><u>Why Are Engineers Falling for Windows 11? Unpacking the Appeal with Exclusive Microsoft Perspective at ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
