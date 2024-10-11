@@ -1,7 +1,7 @@
 ---
 title: Efficiently Manage Your Microsoft Office Files On-the-Go Using the Microsoft 365 Mobile App
-date: 2024-10-04T22:11:02.704Z
-updated: 2024-10-05T18:39:34.093Z
+date: 2024-10-08T16:20:08.222Z
+updated: 2024-10-11T16:09:01.521Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,28 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,21 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transform-video-quality-on-tiktok-2-ways/"><u>[New] Transform Video Quality on TikTok (2 Ways)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-quick-guide-to-capturing-and-storing-twitter-animated-content/"><u>[Updated] In 2024, The Quick Guide to Capturing and Storing Twitter Animated Content</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-speedy-methods-for-moving-files-from-your-android-device-to-windows-computer/"><u>1. Speedy Methods for Moving Files From Your Android Device to Windows Computer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-effortless-conversions-selecting-the-10-prime-flv-to-youtubes-options/"><u>2024 Approved Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/bridging-the-gap-between-android-and-apple-tv-the-ultimate-mirroring-tutorial/"><u>Bridging the Gap Between Android and Apple TV: The Ultimate Mirroring Tutorial</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-apples-rumored-touchscreen-macbook-release-date-speculations-price-guesswork-and-detailed-hardware-info/"><u>Inside Scoop: Apple's Rumored Touchscreen MacBook - Release Date Speculations, Price Guesswork, and Detailed Hardware Info</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-mp4-video-editing-tutorial-mac-and-windows-edition/"><u>New The Ultimate MP4 Video Editing Tutorial Mac and Windows Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/remedies-for-disabling-obs-fullscreen-for-2024/"><u>Remedies for Disabling OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/simple-solution-why-does-outriders-keep-experiencing-crashes/"><u>Simple Solution: Why Does Outriders Keep Experiencing Crashes?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-crafting-stunning-2x2-images-on-iphone-with-expert-photo-editor-tools/"><u>Step-by-Step Guide: Crafting Stunning 2X2 Images on iPhone with Expert Photo Editor Tools</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-showing-your-iphones-display-on-a-windows-or-mac-computer/"><u>Step-by-Step Guide: Showing Your iPhone's Display on a Windows or Mac Computer</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-strategies-for-sharpening-images-a-comprehensive-guide/"><u>Top Strategies for Sharpening Images : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-ranked-pdf-cleaner-effortless-deletion-and-removal-of-documents/"><u>Top-Ranked PDF Cleaner: Effortless Deletion & Removal of Documents</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-tutorial-turn-your-pictures-into-videos-with-simple-techniques/"><u>Ultimate Tutorial: Turn Your Pictures Into Videos with Simple Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unlock-ultimate-clarity-choosing-the-perfect-4k-screen-for-2024/"><u>Unlock Ultimate Clarity Choosing the Perfect 4K Screen for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>[Updated] 2024 Approved Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-framed-facets-guide-to-the-best-apps-and-websites-for-image-framing/"><u>[Updated] In 2024, Framed Facets Guide to the Best Apps and Websites for Image Framing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chromatic-magic-for-your-digital-photography/"><u>2024 Approved Chromatic Magic for Your Digital Photography</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-x-fold-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo X Fold 2?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expanding-your-surface-pro-storage-space-for-less-follow-these-simple-steps-to-boost-capacity-and-cut-costs/"><u>Expanding Your Surface Pro Storage Space for Less: Follow These Simple Steps to Boost Capacity and Cut Costs!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-ensuring-visibility-fixing-missing-shorts-thumbnails/"><u>In 2024, Ensuring Visibility Fixing Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-inspire-yourself-with-these-ten-high-growth-youtube-sources/"><u>In 2024, Inspire Yourself with These Ten High-Growth YouTube Sources</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-xiaomi-13t-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Xiaomi 13T Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-microsoft-excel-with-chatgpt-a-guide-to-automating-formula-creation/"><u>Mastering Microsoft Excel with ChatGPT: A Guide to Automating Formula Creation</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/propelling-a-greener-future-how-microsofts-half-a-billion-dollar-bet-on-lanzajet-is-changing-data-center-sustainability/"><u>Propelling a Greener Future: How Microsoft's Half-a-Billion Dollar Bet on LanzaJet Is Changing Data Center Sustainability</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revive-your-aging-pc-with-these-5-time-tested-tricks-for-windows-10-users-many-options-completely-gratis-zdnet-guide/"><u>Revive Your Aging PC with These 5 Time-Tested Tricks for Windows 10 Users - Many Options Completely Gratis! [ZDNet Guide]</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-accounts-with-multi-layered-defense-enabling-2fa-simplified-insights-by-zdnet/"><u>Secure Your Accounts with Multi-Layered Defense: Enabling 2FA Simplified | Insights by ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-story-seamless-start-for-your-resident-evil-village-adventure/"><u>Success Story: Seamless Start for Your Resident Evil Village Adventure</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-3-android-office-alternatives-that-outshine-google-docs-a-comprehensive-review-by-a-seasoned-tech-expert/"><u>Top 3 Android Office Alternatives That Outshine Google Docs: A Comprehensive Review by a Seasoned Tech Expert</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/zdnets-top-tips-streamlining-microsoft-365-subscription-management-in-windows-11-environments/"><u>ZDNet's Top Tips: Streamlining Microsoft 365 Subscription Management in Windows 11 Environments</u></a></li>
 </ul></div>
 

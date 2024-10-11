@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Aftermath: How Google's Legal Setback Shapes Your Online Discovery Journey"
-date: 2024-09-28T18:13:12.963Z
-updated: 2024-10-05T16:54:30.129Z
+date: 2024-10-08T16:34:02.572Z
+updated: 2024-10-11T16:09:31.680Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,34 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-optimal-online-sound-snatching-for-2024/"><u>[New] Optimal Online Sound Snatching for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-essential-youtube-seo-techniques-for-enhanced-video-rankings/"><u>[Updated] Essential YouTube SEO Techniques for Enhanced Video Rankings</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-cropped-footage-queries-why-is-my-video-clipped/"><u>[Updated] In 2024, Cropped Footage Queries Why Is My Video Clipped?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-simplifying-itunes-add-and-listen-to-your-choice-of-podcasts/"><u>[Updated] In 2024, Simplifying iTunes Add and Listen to Your Choice of Podcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-ios-and-android-leading-10-apps-for-captivating-stickers-on-images/"><u>2024 Approved IOS & Android Leading 10 Apps for Captivating Stickers on Images</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/best-no-cost-platforms-for-viewing-and-downloading-micro-bit-size-animation-series/"><u>Best No-Cost Platforms for Viewing & Downloading Micro Bit-Size Animation Series</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-the-top-8-photo-software-replacements-by-microsoft-ideal-for-image-viewing-and-video-edits/"><u>Discover the Top 8 Photo Software Replacements by Microsoft - Ideal for Image Viewing & Video Edits!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-x-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone X Lock Screen with Notifications?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 10 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-best-oppo-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Oppo FRP Bypass Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xs-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XS Max? Complete Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-microsoft-sculpt-ergonomic-keyboard-worth-it-our-full-assessment-and-value-analysis/"><u>Is The Microsoft Sculpt Ergonomic Keyboard Worth It? Our Full Assessment and Value Analysis</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-capturing-voice-chat-audio-from-teamspeak-in-windows-and-macos/"><u>Step-by-Step Guide: Capturing Voice Chat Audio From TeamSpeak in Windows and macOS</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-for-converting-premium-mpeg-videos-into-smooth-animation-gifs/"><u>Step-by-Step Tutorial for Converting Premium MPEG Videos Into Smooth Animation GIFs</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/successful-techniques-for-combining-multiple-mp4-videos-using-vlc-media-player/"><u>Successful Techniques for Combining Multiple MP4 Videos Using VLC Media Player</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/the-ultimate-guide-three-trustworthy-ways-to-rotate-your-gopro-footage-successfully/"><u>The Ultimate Guide: Three Trustworthy Ways to Rotate Your GoPro Footage Successfully</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-5-free-tools-for-converting-wmv-videos-into-flv-format-online-and-offline-options-unveiled/"><u>Top 5 Free Tools for Converting WMV Videos Into FLV Format: Online and Offline Options Unveiled</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-ranked-no-cost-dvd-ripper-tool-for-windows-11-users-a-complete-guide/"><u>Top Ranked No-Cost DVD Ripper Tool for Windows 11 Users: A Complete Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-choosing-the-optimal-dvd-to-avi-converter-in-202aturally-here-are-two-new-best-seo-titles-suitable-for-google-search-engine-that-convey-simil37/"><u>Ultimate Guide: Choosing the Optimal DVD to AVI Converter in 202Aturally, Here Are Two New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Your Given Title 2024 The Best DVD to AVI Converter for Windows 11/11:</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-an-affordable-diy-google-vr-system-at-home/"><u>[Updated] Crafting an Affordable DIY Google VR System at Home</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-innovative-methods-for-straightforward-ios-screenshots/"><u>[Updated] In 2024, Innovative Methods for Straightforward IOS Screenshots</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c32-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C32</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-ergonomic-chair-picks-for-a-healthy-back-the-top-5-selections-of-2022-reviewed-by-zdnets-industry-leaders/"><u>Best Ergonomic Chair Picks for a Healthy Back: The Top 5 Selections of 2022 Reviewed by ZDNet's Industry Leaders</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/boost-your-pcs-performance-utilize-windows-11-feature-to-quickly-terminate-sluggish-programs-revealed-by-tech-guru/"><u>Boost Your PC's Performance: Utilize Windows 11 Feature to Quickly Terminate Sluggish Programs, Revealed by Tech Guru</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-installation-of-windows-11-even-without-a-microsoft-id-learn-the-secrets-like-elon-musk/"><u>Effortless Installation of Windows 11 Even Without a Microsoft ID - Learn the Secrets Like Elon Musk!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-your-contents-exposure-with-ongoing-creative-commons-usage/"><u>Elevating Your Content's Exposure with Ongoing Creative Commons Usage</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/essential-guide-how-this-compact-pc-outperforms-apples-mac-mini-for-windows-enthusiasts-techadvisor/"><u>Essential Guide: How This Compact PC Outperforms Apple's Mac Mini for Windows Enthusiasts | TechAdvisor</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exclusive-release-how-oems-are-revolutionizing-classrooms-with-new-windows-eb-se-devices-for-education-covered-by-zdnet/"><u>Exclusive Release: How OEMs Are Revolutionizing Classrooms with New Windows Eb SE Devices for Education Covered by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-achieve-more-with-costless-timer-software/"><u>In 2024, Achieve More with Costless Timer Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-gimbal-selections-for-iphoneandroiddslrs-revealed-for-2024/"><u>Leading Gimbal Selections for iPhone/Android/DSLRs Revealed for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-seamless-inshot-edits/"><u>Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-wfh-lifestyle-top-tech-strategies-and-advice-from-zdnet/"><u>Mastering the WFH Lifestyle: Top Tech, Strategies and Advice From ZDNet</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revolutionize-your-workspace-exploring-the-best-bicycling-desks-of-2023-according-to-zdnet/"><u>Revolutionize Your Workspace: Exploring the Best Bicycling Desks of 2023 According to ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-connection-error-in-new-world/"><u>Step-by-Step Solutions for 'Connection Error in New World'</u></a></li>
 </ul></div>
 

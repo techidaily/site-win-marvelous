@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Eliminating Bloatware in Your Windows 10 System | Insights by ZDNet's IT Gurus"
-date: 2024-09-30T23:48:54.980Z
-updated: 2024-10-05T22:46:30.140Z
+date: 2024-10-10T16:26:26.547Z
+updated: 2024-10-11T16:20:41.730Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/aster-the-art-of-immutable-image-creation/"><u>[New] Master the Art of Immutable Image Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/boost-your-pcs-performance-utilize-windows-11-feature-to-quickly-terminate-sluggish-programs-revealed-by-tech-guru/"><u>Boost Your PC's Performance: Utilize Windows 11 Feature to Quickly Terminate Sluggish Programs, Revealed by Tech Guru</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-every-word-in-high-fidelity-with-discord/"><u>Capture Every Word in High Fidelity with Discord</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-installation-of-windows-11-even-without-a-microsoft-id-learn-the-secrets-like-elon-musk/"><u>Effortless Installation of Windows 11 Even Without a Microsoft ID - Learn the Secrets Like Elon Musk!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/essential-guide-how-this-compact-pc-outperforms-apples-mac-mini-for-windows-enthusiasts-techadvisor/"><u>Essential Guide: How This Compact PC Outperforms Apple's Mac Mini for Windows Enthusiasts | TechAdvisor</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exclusive-release-how-oems-are-revolutionizing-classrooms-with-new-windows-eb-se-devices-for-education-covered-by-zdnet/"><u>Exclusive Release: How OEMs Are Revolutionizing Classrooms with New Windows Eb SE Devices for Education Covered by ZDNET</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exploring-duolingo-cost-free-engaging-lessons-for-mastering-languages-digitallearningreviews/"><u>Exploring Duolingo: Cost-Free, Engaging Lessons for Mastering Languages | DigitalLearningReviews</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-pdf-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Add Your Digital Signature to a PDF Document</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-13t-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi 13T Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-psd-pattern-overlays/"><u>Master PSD Pattern Overlays</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mastering-the-wfh-lifestyle-top-tech-strategies-and-advice-from-zdnet/"><u>Mastering the WFH Lifestyle: Top Tech, Strategies and Advice From ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-of-device-id-extraction-techniques-for-windows-users/"><u>Mastery of Device ID Extraction Techniques for Windows Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/revolutionize-your-workspace-exploring-the-best-bicycling-desks-of-2023-according-to-zdnet/"><u>Revolutionize Your Workspace: Exploring the Best Bicycling Desks of 2023 According to ZDNET</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/step-by-step-process-for-integrating-music-in-facebook-videos-for-2024/"><u>Step-by-Step Process for Integrating Music in Facebook Videos for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-high-fidelity-performance-desktops/"><u>[Updated] High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-10-best-list-for-free-video-conferencing-and-desktop-sharing-for-2024/"><u>[Updated] Leading 10-Best List for FREE Video Conferencing & Desktop Sharing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-concealed-aspects-understanding-the-unique-stories-of-followers/"><u>[Updated] The Concealed Aspects Understanding the Unique Stories of Followers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-win-top-rated-rapid-image-zoomer-for-2024/"><u>[Updated] Win Top-Rated Rapid Image Zoomer for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-leveraging-snapchat-for-professional-networking-and-sales/"><u>2024 Approved Leveraging Snapchat for Professional Networking & Sales</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/download-movies-and-videos-from-daumnet-with-the-easy-to-use-dawndownloader/"><u>Download Movies & Videos From Daum.net with the Easy-to-Use DawnDownloader</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/download-your-favorite-funimation-episodes-and-movies-in-high-quality-mp4-format/"><u>Download Your Favorite Funimation Episodes and Movies in High-Quality MP4 Format</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/erito-movie-downloads-available-in-various-file-types-mp4-mov-avi-flv-watch-and-enjoy/"><u>Erito Movie Downloads Available in Various File Types (MP4, MOV, AVI, FLV) - Watch & Enjoy</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/fixing-cannot-download-https-videos-effective-strategies-and-tips-for-smooth-playback/"><u>Fixing 'Cannot Download HTTPS Videos': Effective Strategies and Tips for Smooth Playback</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/fixing-linuxacademy-downloads-on-mac-and-windows-step-by-step-troubleshooting-guide/"><u>Fixing Linuxacademy Downloads on Mac & Windows: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/get-premium-naughty-machinima-series-downloaded-as-mp4movaviflvwmv-files/"><u>Get Premium Naughty Machinima Series Downloaded as MP4/MOV/AVI/FLV/WMV Files</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/gomovies-premium-downloads-high-quality-mp4-mov-and-more-for-your-collection/"><u>GoMovies Premium Downloads: High-Quality MP4, MOV & More for Your Collection</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-safely-acquire-and-convert-the-movie-dangal-into-various-hd-quality-formats-for-streaming-or-offline-viewing/"><u>How to Safely Acquire and Convert the Movie 'Dangal' Into Various HD Quality Formats for Streaming or Offline Viewing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-save-red-bull-tv-content-as-mp4-or-avi-files-a-step-by-step-guide/"><u>How to Save Red Bull TV Content as MP4 or AVI Files - A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-upgrade-examining-the-differences-between-galaxy-s23-ultra-and-samsungs-previous-beast-s21-ultra/"><u>Is It Time to Upgrade? Examining the Differences Between Galaxy S23 Ultra and Samsung's Previous Beast, S21 Ultra</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-process-for-selecting-top-online-photo-edits/"><u>The Complete Process for Selecting Top Online Photo Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-thievery-t5-unboxing-your-ultimate-guide-to-action-capture/"><u>The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/what-lies-beyond-an-aminy-analysis-of-extraterrestrials/"><u>What Lies Beyond? An Aminy Analysis of Extraterrestrials</u></a></li>
 </ul></div>
 

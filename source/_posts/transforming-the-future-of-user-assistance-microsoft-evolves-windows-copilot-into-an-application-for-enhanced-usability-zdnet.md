@@ -1,7 +1,7 @@
 ---
 title: "Transforming the Future of User Assistance: Microsoft Evolves Windows Copilot Into an Application for Enhanced Usability | ZDNet"
-date: 2024-10-04T21:43:32.497Z
-updated: 2024-10-05T21:35:37.906Z
+date: 2024-10-10T16:16:34.280Z
+updated: 2024-10-11T16:22:05.119Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>[New] 2024 Approved Setting the Scene A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-screen-recorders-in-chrome-os-free-version/"><u>[New] In 2024, Top Screen Recorders in Chrome OS, Free Version</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-discover-how-to-get-high-quality-images-at-zero-cost-for-2024/"><u>[Updated] Discover How To Get High-Quality Images at Zero Cost for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-efficiently-extracting-twitters-visual-jokes-gifs/"><u>[Updated] In 2024, Efficiently Extracting Twitter's Visual Jokes (GIFs)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-practical-routines-for-streamlining-gotomeeting-session-logging/"><u>2024 Approved Practical Routines for Streamlining GoToMeeting Session Logging</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-time-warp-footage-with-phantom-lens-expertise/"><u>2024 Approved Time Warp Footage with Phantom Lens Expertise</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/evaluating-chatgpt-vs-chatgpt-plus-are-premium-features-justifying-the-cost/"><u>Evaluating ChatGPT Vs. ChatGPT Plus: Are Premium Features Justifying the Cost?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/from-closed-doors-to-community-access-microsofts-generative-ai-red-team-technology-now-available-to-all-insights-on-zdnet/"><u>From Closed Doors to Community Access: Microsoft's Generative AI Red Team Technology Now Available to All – Insights on ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-advanced-conversion-mp4-to-facebook-2023/"><u>In 2024, Advanced Conversion MP4 to FaceBook 2023</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/leveraging-action-a-comprehensive-guide-to-live-streaming-techniques/"><u>Leveraging Action: A Comprehensive Guide to Live Streaming Techniques</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/microsoft-faces-imminent-challenge-with-windows-10-bugs-just-one-year-left-for-resolution-it-innovator/"><u>Microsoft Faces Imminent Challenge with Windows 10 Bugs; Just One Year Left for Resolution | IT Innovator</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/navigate-the-law-with-ease-using-mirilliss-expert-legal-library/"><u>Navigate the Law with Ease Using Mirillis's Expert Legal Library</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/navigating-the-aftermath-how-googles-legal-setback-shapes-your-online-discovery-journey/"><u>Navigating the Aftermath: How Google's Legal Setback Shapes Your Online Discovery Journey</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcome-stellar-video-interruption-code-0xc00d36c4/"><u>Overcome Stellar Video Interruption: Code 0XC00D36C4</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/tech-review-alert-the-ultimate-showdown-with-microsoft-surface-laptop-studio-leaves-rivals-in-its-wake-zdnet/"><u>Tech Review Alert! The Ultimate Showdown with Microsoft Surface Laptop Studio Leaves Rivals in Its Wake | ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-to-broadcasting-games-and-computer-screens-online-with-step-by-step-tutorial-videos/"><u>Ultimate Guide to Broadcasting Games & Computer Screens Online with Step-by-Step Tutorial Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-art-of-perfecting-vocal-recordings-for-video-projects/"><u>[New] 2024 Approved The Art of Perfecting Vocal Recordings for Video Projects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-premier-selector-exclusive-app-selection-for-your-videos/"><u>[New] In 2024, Premier Selector Exclusive App Selection for Your Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-secrets-of-strong-openings-podcasters-guidebook/"><u>[Updated] Unlocking Secrets of Strong Openings Podcaster's Guidebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-united-reviews-the-expert-on-easeus/"><u>2024 Approved United Reviews The Expert on EaseUS</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-no-cost-platforms-for-viewing-and-downloading-micro-bit-size-animation-series/"><u>Best No-Cost Platforms for Viewing & Downloading Micro Bit-Size Animation Series</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-the-top-8-photo-software-replacements-by-microsoft-ideal-for-image-viewing-and-video-edits/"><u>Discover the Top 8 Photo Software Replacements by Microsoft - Ideal for Image Viewing & Video Edits!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-fixes-for-uninterrupted-youtube-viewing-no-cost-solutions/"><u>Effortless Fixes for Uninterrupted YouTube Viewing: No Cost Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exploring-ice-cream-screen-recorder-technology/"><u>Exploring Ice Cream Screen Recorder Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-an-engaging-review-vlog-for-everyday-items/"><u>In 2024, Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reach-out-connect-with-our-support-team/"><u>Reach Out: Connect with Our Support Team</u></a></li>
+<li><a href="https://win11.techidaily.com/steam-game-achievement-reboot-guide/"><u>Steam Game Achievement Reboot Guide</u></a></li>
 </ul></div>
 

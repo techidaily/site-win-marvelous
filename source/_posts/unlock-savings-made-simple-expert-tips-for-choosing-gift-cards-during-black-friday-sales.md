@@ -1,7 +1,7 @@
 ---
 title: "Unlock Savings Made Simple: Expert Tips for Choosing Gift Cards During Black Friday Sales!"
-date: 2024-09-29T16:48:21.108Z
-updated: 2024-10-05T16:11:06.572Z
+date: 2024-10-08T16:35:38.291Z
+updated: 2024-10-11T16:38:21.693Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-top-win11-videography-software-selections/"><u>[New] 2024 Approved Unveiling Top Win11 Videography Software Selections</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-dynamic-audio-excellence-best-cameras-microphones/"><u>2024 Approved Dynamic Audio Excellence Best Cameras' Microphones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11hd/"><u>無料で動画ファイルサイズを縮小する: Windows 11の手びねり・最新HDコンバート術</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-and-save-your-favorite-video-tutorials-from-sitepoint-as-mp4-or-avi-files/"><u>Convert and Save Your Favorite Video Tutorials From SitePoint as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-naruto-series-into-high-quality-video-formats-mp4-mov-and-avi-for-pcmac-users/"><u>Convert Naruto Series Into High-Quality Video Formats: MP4, MOV & AVI for PC/Mac Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-sharepoint-videos-to-mp4-and-avi-formats-download-guide-for-pc-and-mac/"><u>Convert SharePoint Videos to MP4 & AVI Formats - Download Guide for PC & Mac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-movies-and-videos-from-daumnet-with-the-easy-to-use-dawndownloader/"><u>Download Movies & Videos From Daum.net with the Easy-to-Use DawnDownloader</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-your-favorite-funimation-episodes-and-movies-in-high-quality-mp4-format/"><u>Download Your Favorite Funimation Episodes and Movies in High-Quality MP4 Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-sharing-and-editing-apple-pages-files-using-icloud-insights-from-zdnet/"><u>Effective Strategies for Sharing and Editing Apple Pages Files Using iCloud: Insights From ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-display-experience-by-updating-to-the-latest-intel-hd-graphics-3000-in-w10/"><u>Elevate Your Display Experience by Updating to the Latest Intel HD Graphics 3000 in W10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/engaging-epics-the-most-gripping-yt-stories-to-follow-this-year/"><u>Engaging Epics The Most Gripping YT Stories to Follow This Year</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/erito-movie-downloads-available-in-various-file-types-mp4-mov-avi-flv-watch-and-enjoy/"><u>Erito Movie Downloads Available in Various File Types (MP4, MOV, AVI, FLV) - Watch & Enjoy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance-for-2024/"><u>First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-no-fog-only-clarity-gopro-lens-care-essentials/"><u>In 2024, No Fog, Only Clarity GoPro Lens Care Essentials</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unlocking-video-exposure-top-6-techniques-for-youtube-growth/"><u>In 2024, Unlocking Video Exposure Top 6 Techniques for YouTube Growth</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-easy-conversion-transform-xej-files-into-mp4-format-using-expression-encoder/"><u>1. Easy Conversion: Transform XEJ Files Into MP4 Format Using Expression Encoder</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>2024 Approved Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/divx-video-editing-made-easy-top-free-cutters-for-2024/"><u>Divx Video Editing Made Easy Top Free Cutters for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-guide-how-to-easily-spin-your-video-clips/"><u>Effortless Guide: How to Easily Spin Your Video Clips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-12-mini-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 mini Without a Home Button</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ating-the-360-streaming-landscape-with-ease-on-youtube-for-2024/"><u>Navigating the 360° Streaming Landscape with Ease on Youtube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rethinking-ai-why-claude-3-surpasses-chatgpt-in-4-ways/"><u>Rethinking AI: Why Claude 3 Surpasses ChatGPT in 4 Ways</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/simple-guide-to-saving-vevo-music-videos-in-mp3-format-without-hassle/"><u>Simple Guide to Saving Vevo Music Videos in MP3 Format Without Hassle</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solve-windows-11-gaming-recording-problems-with-effective-fixes/"><u>Solve Windows 11 Gaming Recording Problems with Effective Fixes</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-s9-to-a-windowsmac-computer/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy S9 to a Windows/Mac Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tip-converting-esd-to-iso-without-compromising-data-integrity-on-windows/"><u>Tech Tip: Converting ESD to ISO without Compromising Data Integrity on Windows</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-tips-seamlessly-transforming-mov-files-into-gifs/"><u>Top Tips: Seamlessly Transforming MOV Files Into GIFs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-and-customizing-excels-edit-trigger-prompt-box/"><u>Understanding and Customizing Excel's Edit Trigger Prompt Box</u></a></li>
 </ul></div>
 
