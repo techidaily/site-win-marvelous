@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2024-11-24T00:37:42.298Z
-updated: 2024-12-01T00:47:13.653Z
+date: 2024-12-08T03:41:50.962Z
+updated: 2024-12-09T03:08:14.961Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,16 +110,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-science-behind-optimal-instagram-timings/"><u>[New] The Science Behind Optimal Instagram Timings</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-problemlosung-entfernen-von-bildern-vom-iphoneipadipod-touch-mit-hilfe-von-aomei-fonebackup/"><u>1. Problemlösung: Entfernen Von Bildern Vom iPhone/iPad/iPod-Touch Mit Hilfe Von AOMEI FoneBackup</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/4-effective-techniques-for-smooth-file-transfers-to-external-drives/"><u>4 Effective Techniques for Smooth File Transfers to External Drives</u></a></li>
-<li><a href="https://fox-links.techidaily.com/blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>Blurry Looks Simple Ways to Hide Identities in Pictures</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/gegevens-groeperen-vervulling-zoekachter-gratis-ontwikkel-het-naar-standaard-op-windows-10/"><u>Gegevens Groeperen Vervulling Zoekachter - Gratis Ontwikkel Het Naar Standaard Op Windows 10</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/guia-paso-a-paso-para-recuperar-datos-de-almacenamiento-western-digital-easystore/"><u>Guía Paso a Paso Para Recuperar Datos De Almacenamiento Western Digital EasyStore</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-premier-automatic-text-creators-from-videos/"><u>In 2024, Premier Automatic Text Creators From Videos</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-downloading-race-broadcasts-from-pc-and-mac-systems/"><u>Step-by-Step Guide: Downloading Race Broadcasts From PC & Mac Systems</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/tech-tips-ottime-strategie-di-backup-del-portatile/"><u>Tech Tips: Ottime Strategie Di Backup Del Portatile</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-sizzling-success-of-overcooked-2-an-in-depth-critique/"><u>The Sizzling Success of Overcooked! 2 - An In-Depth Critique</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-claude-pro-and-how-does-it-compare-to-chatgpt-plus/"><u>What Is Claude Pro and How Does It Compare to ChatGPT Plus?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-make-your-comments-pop-with-emojis-in-youtube/"><u>[New] 2024 Approved Make Your Comments Pop with Emojis in YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>[Updated] 2024 Approved Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-review-on-vlcs-screenshotting-for-2024/"><u>[Updated] Detailed Review on VLC's Screenshotting for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-quality-videos-a-guide-to-apple-device-screen-recording/"><u>Crafting Quality Videos A Guide to Apple Device Screen Recording</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/determining-your-computers-hardware-issue-origins-expert-tips-from-yl-computing/"><u>Determining Your Computer's Hardware Issue Origins: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/enhancing-ram-performance-on-your-computer-yl-softwares-comprehensive-guide/"><u>Enhancing RAM Performance on Your Computer: YL Software's Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exploring-the-core-structure-of-the-windows-registry-with-yl-computing-experts/"><u>Exploring the Core Structure of the Windows Registry with YL Computing Experts</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/freeware-losungen-zur-nahtlosen-dateisynchronisation-zwischen-zwei-pcs-gelingt-es/"><u>Freeware Lösungen Zur Nahtlosen Dateisynchronisation Zwischen Zwei PCs - Gelingt Es?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insightful-guide-to-apc-back-ups-pro-1500va-stellar-performance-ample-outlets-and-hot-swappable-battery-design/"><u>Insightful Guide to APC Back-UPS Pro 1500VA - Stellar Performance, Ample Outlets and Hot Swappable Battery Design</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/navigating-compatibility-woes-the-reason-behind-missing-drivers-for-some-devices-exploring-solutions-with-yl-software/"><u>Navigating Compatibility Woes: The Reason Behind Missing Drivers for Some Devices - Exploring Solutions with YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/navigating-uncertainty-exploring-the-hazards-of-cryptocurrency-investments-with-yl-computings-insights/"><u>Navigating Uncertainty: Exploring the Hazards of Cryptocurrency Investments with YL Computing's Insights</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/organizing-windows-folders-by-shifting-files-expert-advice-from-yl-systems-seamless-file-management-solutions/"><u>Organizing Windows Folders by Shifting Files: Expert Advice From YL Systems - Seamless File Management Solutions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/steps-to-safely-save-your-systems-registry-configuration-yl-computing/"><u>Steps to Safely Save Your System's Registry Configuration - YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-quintessential-pick-top-five-cost-free-dirt-track-games-to-try/"><u>The Quintessential Pick: Top Five Cost-Free Dirt Track Games to Try</u></a></li>
 </ul></div>
 

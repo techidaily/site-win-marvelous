@@ -1,7 +1,7 @@
 ---
 title: "Beta Testing Invitation: LYRX Software on Mac OS Catalina - Join the Early Access Program"
-date: 2024-11-25T00:48:55.121Z
-updated: 2024-11-30T17:52:45.321Z
+date: 2024-12-07T16:11:05.171Z
+updated: 2024-12-09T00:22:29.184Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-seamless-switch-exchanging-playlists-across-streaming-platforms/"><u>[New] 2024 Approved Seamless Switch Exchanging Playlists Across Streaming Platforms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-best-free-subtitles-and-downloader-guide-for-2024/"><u>[New] Best Free Subtitles & Downloader Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androids-premier-gaming-application-decoding-the-kinemaster-experience/"><u>[Updated] Android's Premier Gaming Application - Decoding the KineMaster Experience</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comparing-strategies-how-backups-and-archives-serve-unique-roles-in-data-preservation/"><u>Comparing Strategies: How Backups and Archives Serve Unique Roles in Data Preservation</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comprendi-il-piano-di-accesso-rettificato-strategia-per-la-sicurezza-online/"><u>Comprendi Il Piano Di Accesso Rettificato - Strategia per La Sicurezza Online</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/efficient-solutions-for-speeding-up-your-external-hard-drives-data-transfer-rate/"><u>Efficient Solutions for Speeding Up Your External Hard Drive's Data Transfer Rate</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/einleitung-in-die-wiederherstellung-von-windows-11-backups-nach-systemfehlern-eine-leitkarte-fur-pc-betreiber/"><u>Einleitung in Die Wiederherstellung Von Windows 11 Backups Nach Systemfehlern - Eine Leitkarte Für PC-Betreiber</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-hacking-facebook-fast-profile-discovery-methods/"><u>In 2024, Hacking Facebook Fast Profile Discovery Methods</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/recovering-lost-data-easy-methods-to-retrieve-deleted-files-from-your-dropbox-account/"><u>Recovering Lost Data: Easy Methods to Retrieve Deleted Files From Your Dropbox Account</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-2023-update-facebooks-new-landscape-explained/"><u>The 2023 Update Facebook's New Landscape Explained</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tips-and-tricks-for-perfect-tweets-with-videos-for-2024/"><u>Tips and Tricks for Perfect Tweets with Videos for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-10-funf-effektive-methoden-zur-erkennung-und-nutzung/"><u>Windows 10 - Fünf Effektive Methoden Zur Erkennung Und Nutzung</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gentle-guidance-to-good-slumber-top-asmr-pros/"><u>[New] Gentle Guidance to Good Slumber Top ASMR Pros</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-9-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft/"><u>[New] In 2024, Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-iphoneutility-mirror-photo-mastery-tips/"><u>2024 Approved Exploring iPhone'utility Mirror Photo Mastery Tips</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/accelerate-windows-efficiency-with-expert-strategies-for-freeing-memory-space-insights-by-yl-software-specialists/"><u>Accelerate Windows Efficiency with Expert Strategies for Freeing Memory Space – Insights by YL Software Specialists</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-the-simplest-way-to-get-k-pop-songs-for-free/"><u>Discover the Simplest Way to Get K-Pop Songs for Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/droning-for-the-young-and-novice-top-picks/"><u>Droning for the Young and Novice Top Picks</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effective-strategies-for-avoiding-windows-memory-malfunctions-tips-from-yl-software-experts/"><u>Effective Strategies for Avoiding Windows Memory Malfunctions: Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/enhancing-image-clarity-solutions-for-scanner-quality-issues-with-guidance-from-yl-computing-experts/"><u>Enhancing Image Clarity: Solutions for Scanner Quality Issues with Guidance From YL Computing Experts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-performance-and-features-the-ultimate-guide-to-the-samsung-cf90-series/"><u>Evaluating Performance and Features: The Ultimate Guide to the Samsung CF90 Series</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-fix-a-non-starting-computer-with-tips-from-yl-computing-and-yl-software/"><u>How To Fix a Non-Starting Computer with Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-perform-a-virus-scan-on-previously-scanned-files-with-yl-computings-security-solutions/"><u>How to Perform a Virus Scan on Previously Scanned Files with YL Computing's Security Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-digital-preservation-how-to-record-live-tv-shows/"><u>In 2024, Effortless Digital Preservation How To Record Live TV Shows</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-windows-11-a-step-by-step-guide-to-tweaking-your-laptops-battery-preferences-insights-from-yl-computing/"><u>Mastering Windows 11: A Step-by-Step Guide to Tweaking Your Laptop's Battery Preferences - Insights From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solving-audio-problems-a-comprehensive-guide-from-yl-computing/"><u>Solving Audio Problems: A Comprehensive Guide From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xperts-guide-quick-removal-of-your-youtube-comments/"><u>The Expert's Guide Quick Removal of Your Youtube Comments</u></a></li>
 </ul></div>
 
