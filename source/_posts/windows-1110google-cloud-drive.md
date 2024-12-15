@@ -1,7 +1,7 @@
 ---
 title: 在Windows 11/10上如何管理Google Cloud Drive的多个用户帐号
-date: 2024-11-27T16:48:40.012Z
-updated: 2024-12-01T07:38:33.126Z
+date: 2024-12-07T16:58:10.036Z
+updated: 2024-12-15T09:13:33.182Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a185630128709ac4ffbfcbd9f4ba557fefe.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
@@ -48,7 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -58,7 +58,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -77,13 +77,13 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -104,7 +104,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -124,6 +124,10 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -157,10 +161,6 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -186,6 +186,10 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -259,10 +263,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -280,17 +280,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unleash-the-potential-customizing-your-youtube-channel-url/"><u>[New] In 2024, Unleash the Potential Customizing Your YouTube Channel Url</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-taking-control-advanced-techniques-for-gaming-capture-on-windows-11-for-2024/"><u>[New] Taking Control Advanced Techniques for Gaming Capture on Windows 11 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tips-for-ntfs-compression-in-win11-systems/"><u>Advanced Tips for NTFS Compression in Win11 Systems</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comprehensive-step-by-step-instructions-for-deploying-a-secondary-os-in-vmwares-virtual-environment/"><u>Comprehensive Step-by-Step Instructions for Deploying a Secondary OS in VMware's Virtual Environment</u></a></li>
-<li><a href="https://fox-that.techidaily.com/detecting-moisture-harm-unveil-these-9-key-indicators-on-your-iphone/"><u>Detecting Moisture Harm: Unveil These 9 Key Indicators on Your iPhone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-13c-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Redmi 13C 5G support MOV videos ?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-restore-lost-documents-on-your-lenovo-notebook-using-myrecover-software/"><u>How to Restore Lost Documents on Your Lenovo Notebook Using MyRecover Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-elevate-your-gaming-advanced-techniques-for-recording-minecraft/"><u>In 2024, Elevate Your Gaming Advanced Techniques for Recording Minecraft</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionizing-game-soundscapes-with-ps-console-tweaks/"><u>Revolutionizing Game Soundscapes with PS Console Tweaks</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solucionando-el-problema-del-sistema-no-receptivo-identificar-las-causas-y-recuperar-el-control-con-estrategias-efectivas/"><u>Solucionando El Problema Del Sistema No Receptivo: Identificar Las Causas Y Recuperar El Control Con Estrategias Efectivas</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/will-running-system-restore-erase-data-on-my-pc-expert-insights-revealed/"><u>Will Running System Restore Erase Data on My PC? Expert Insights Revealed!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-determining-view-counts-direct-effect-on-creator-revenue-for-2024/"><u>[New] Determining View Count's Direct Effect on Creator Revenue for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-delving-into-the-advantages-and-disadvantages-of-youtube-premium/"><u>[Updated] In 2024, Delving Into the Advantages and Disadvantages of YouTube Premium</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-making-photographs-larger-without-losing-quality/"><u>[Updated] Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/blooming-cat-wallpaper-collections-by-yl-computing-unique-floral-backdrops-and-designs/"><u>Blooming Cat Wallpaper Collections by YL Computing: Unique Floral Backdrops & Designs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/diagnosing-and-fixing-faulty-memory-problems-in-windows-expert-advice-from-yl-computers-yl-support-services/"><u>Diagnosing & Fixing Faulty Memory Problems in Windows: Expert Advice From YL Computers | YL Support Services</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/download-the-freshly-updated-karaoke-software-version-08n-pcdj-public-beta-at-your-fingertips/"><u>Download the Freshly Updated Karaoke Software Version 0.8.n - PCDJ Public Beta at Your Fingertips!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-can-you-boost-your-wifi-speed-discover-expert-advice-from-yl-computing-and-yl-software/"><u>How Can You Boost Your WiFi Speed? Discover Expert Advice From YL Computing and YL Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hps-ultimate-compact-device-the-stream-n-11-for-everyday-computing/"><u>HP's Ultimate Compact Device: The Stream N 11 for Everyday Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-pova-5-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Pova 5 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/movavi-transforma-tus-videos-mov-al-estandar-section-1-the-theme-question/"><u>Móvavi - Transforma Tus Vídeos MOV Al Estándar # Section 1: The Theme Question</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/protect-against-malware-a-comprehensive-tutorial-on-document-scanning-via-connected-scanners-by-yl-software-experts/"><u>Protect Against Malware: A Comprehensive Tutorial on Document Scanning via Connected Scanners by YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/studiolightkit-lx93-cost-friendly-illumination/"><u>StudioLightkit LX93 - Cost-Friendly Illumination</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-softwares-xenomorph-collection-high-quality-screen-savers-backgrounds-and-wallpapers-for-tech-enthusiasts/"><u>YL Software's Xenomorph Collection: High-Quality Screen Savers, Backgrounds & Wallpapers for Tech Enthusiasts</u></a></li>
 </ul></div>
 

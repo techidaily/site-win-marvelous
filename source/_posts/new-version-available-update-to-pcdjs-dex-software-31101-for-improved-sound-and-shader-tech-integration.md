@@ -1,7 +1,7 @@
 ---
 title: "New Version Available: Update to PCDJ's DEX Software (3.11.0.1) for Improved Sound & Shader Tech Integration"
-date: 2024-11-24T05:49:07.188Z
-updated: 2024-12-01T03:50:24.525Z
+date: 2024-12-10T06:00:21.108Z
+updated: 2024-12-15T14:08:41.396Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.1
@@ -57,7 +57,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 closed, download and install version 3.11.0.1\. The free update will seamlessly patch over-top you’re existing DEX 3 version, leaving all your existing data and activation intact._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Demonstrating ‘Shader’ Support in DEX 3.11
@@ -65,7 +65,7 @@ _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our **best DJ software** for mixing all types of media? Post your DEX 3.11 questions below and someone will respond promptly!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,16 +87,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/DEX3WITHshadersupport.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-24-clever-tiktoks-the-comedy-goldmine/"><u>[Updated] In 2024, 24 Clever TikToks The Comedy Goldmine</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-harnessing-the-potential-of-quantum-hdr-imaging/"><u>2024 Approved Harnessing the Potential of Quantum HDR Imaging</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-data-protection-set-up-regular-windows-10-auto/"><u>Effortless Data Protection: Set Up Regular Windows 10 Auto</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-hot-40i-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Hot 40i Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>In 2024, Infuse Vibrancy Mastering Music Integration in Social Media Videos</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-to-a-windows-pc/"><u>Step-by-Step Guide: Transferring Your iTunes Collection to a Windows PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/thriving-at-sixty-five-language-learning-perks/"><u>Thriving at Sixty: Five Language Learning Perks</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-3-strategies-to-factory-reset-an-iphone-with-a-cracked-screen/"><u>Top 3 Strategies to Factory Reset an iPhone with a Cracked Screen</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/transforme-sua-backup-com-o-upgrade-gratis-do-aomei-backupper-estandarte-versao-profissional/"><u>Transforme Sua Backup Com O Upgrade Grátis Do AOMEI Backupper - Estandarte Versão Profissional!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/iuodjeodgplusodioodrplusodvoocrplusodieodqeocpoodluobqpluswvvuobmeociplusodleocoeocpoodqplusodkoodgplusocrplusocouodgplusodlzrmnidmlrdjgqzjgqtjg4njgajoh6rli341/"><u>ネットワークドライブに対するファイルバックアップ:最新ガイドと自動化技術</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-maze-choosing-the-right-vimeo-membership-plan-for-2024/"><u>[New] Navigating the Maze Choosing the Right Vimeo Membership Plan for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>[Updated] From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-approaches-to-non-audio-recording/"><u>[Updated] In 2024, Top Approaches to Non-Audio Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-video-recording-on-facebook-with-top-5-tools-for-2024/"><u>[Updated] Seamless Video Recording on Facebook with Top 5 Tools for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ensuring-your-pcs-safety-tips-and-tricks-from-yl-computing/"><u>Ensuring Your PC's Safety: Tips and Tricks From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/experience-spooky-atmosphere-with-original-halloween-desktops-images-and-photo-wallpapers-from-yl-software/"><u>Experience Spooky Atmosphere with Original Halloween Desktops Images and Photo Wallpapers From YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exploring-windows-control-panel-a-comprehensive-guide-to-system-security-configurations/"><u>Exploring Windows Control Panel: A Comprehensive Guide to System Security Configurations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-blip-to-big-time-the-9-laws-of-instagram-glory/"><u>From Blip to Big Time The 9 Laws of Instagram Glory</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-and-why-do-lcd-screens-experience-flickering-issues-understanding-with-yl-computings-technical-analysis/"><u>How and Why Do LCD Screens Experience Flickering Issues? Understanding with YL Computing's Technical Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-dvd-to-mp4-conversion-with-winx-free-tool-for-easy-use-in-windows-10-environments/"><u>Seamless DVD-to-MP4 Conversion with WinX Free Tool for Easy Use in Windows 10 Environments</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/the-ideal-schedule-for-your-security-keeping-windows-defender-current-with-advice-from-experts-at-yl-software/"><u>The Ideal Schedule for Your Security: Keeping Windows Defender Current with Advice From Experts at YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/troubleshooting-tips-solving-boot-issues-on-your-pc-yl-software-guide/"><u>Troubleshooting Tips: Solving Boot Issues on Your PC - YL Software Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo K11x | Dr.fone</u></a></li>
 </ul></div>
 

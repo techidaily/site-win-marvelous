@@ -1,7 +1,7 @@
 ---
 title: Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.
-date: 2024-12-08T09:36:06.295Z
-updated: 2024-12-08T21:53:45.560Z
+date: 2024-12-08T19:49:07.662Z
+updated: 2024-12-15T13:35:40.323Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-premier-5-minute-longshot-recorder/"><u>[New] Premier 5-Minute Longshot Recorder</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-10-best-alternatives-to-vimeo-cameo-video-editor/"><u>[Updated] 10 Best Alternatives to Vimeo Cameo Video Editor</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-use-luts-in-adobe-photoshop-cc/"><u>[Updated] 2024 Approved How to Use LUTs in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-knowledge-zooming-into-clustered-rooms/"><u>[Updated] In 2024, Essential Knowledge Zooming Into Clustered Rooms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-guide-to-optimal-sound-quality-with-zooms-features/"><u>[Updated] Step-by-Step Guide to Optimal Sound Quality with Zoom's Features</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1724766666471-digiarty18/"><u>DigiArtyの18年記念プロジェクト - パーフェクトなアート体験をご紹介</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-adapter-issues-cleared-now-functional/"><u>Display Adapter Issues Cleared, Now Functional</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/resolving-issues-when-your-printer-fails-to-retrieve-paper-tips-from-yl-computing/"><u>Resolving Issues When Your Printer Fails to Retrieve Paper - Tips From YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-steps-when-your-pc-ignores-its-graphics-card-tips-by-yl-computing/"><u>Troubleshooting Steps When Your PC Ignores Its Graphics Card - Tips by YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-unlisted-printers-discover-why-your-device-is-hidden-from-view-insights-by-yl-computing/"><u>Troubleshooting Unlisted Printers: Discover Why Your Device Is Hidden From View - Insights by YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/understanding-the-root-of-your-windows-systems-cpu-problems-insights-from-yl-software-experts/"><u>Understanding the Root of Your Windows System's CPU Problems: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-softwares-guide-to-choosing-the-ideal-antivirus-program-for-your-system-security-needs/"><u>YL Software's Guide to Choosing the Ideal Antivirus Program for Your System Security Needs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-premier-iphone-gif-application-compendium/"><u>[New] 2024 Approved The Premier iPhone GIF Application Compendium</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>[Updated] Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-beginners-guide-to-zoom-webinars/"><u>2024 Approved Beginner’s Guide to Zoom Webinars</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-screencapture-simplified-an-in-depth-camstudio-review/"><u>2024 Approved ScreenCapture Simplified An In-Depth CamStudio Review</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/accelerate-your-scanning-process-tips-from-yl-computing-on-enhancing-scan-speeds-for-quicker-document-digitization/"><u>Accelerate Your Scanning Process: Tips From YL Computing on Enhancing Scan Speeds for Quicker Document Digitization</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/complete-guide-resetting-your-scanners-drivers-in-windows-expert-advice-from-yl-computing/"><u>Complete Guide: Resetting Your Scanner's Drivers in Windows - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-why-your-gpu-isnt-detected-by-windows-device-manager-with-our-expert-guide-yl-solutions/"><u>Discover Why Your GPU Isn't Detected by Windows Device Manager with Our Expert Guide - YL Solutions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/et-to-your-device-today/"><u>Et to Your Device Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-unlocked-converting-text-formats-to-voice-ready-srt-for-2024/"><u>Expertise Unlocked Converting Text Formats to Voice-Ready SRT for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-defy-2withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Defy 2with/without a PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/high-definition-game-of-thrones-backgrounds-and-wallpapers-by-yl-computing-premium-static-set/"><u>High Definition Game of Thrones Backgrounds & Wallpapers by YL Computing - Premium Static Set</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/identifying-graphic-card-issues-a-guide-expert-tips-by-yl-computing/"><u>Identifying Graphic Card Issues: A Guide - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-securing-high-quality-sound-from-anywhere/"><u>In 2024, Securing High-Quality Sound From Anywhere</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/master-the-art-of-fixing-device-drivers-on-windows-with-expert-advice-from-yl-software/"><u>Master the Art of Fixing Device Drivers on Windows with Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-image-generation-combining-dall-e-and-gpt-4-for-unique-creations/"><u>Mastering Image Generation: Combining DALL-E and GPT-4 for Unique Creations</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-pc-temperatures-adjusting-processor-fan-speeds-made-easy-with-yl-software/"><u>Mastering PC Temperatures: Adjusting Processor Fan Speeds Made Easy with YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
 

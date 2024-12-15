@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2024-12-08T03:41:50.962Z
-updated: 2024-12-09T03:08:14.961Z
+date: 2024-12-12T18:49:41.040Z
+updated: 2024-12-15T00:32:05.010Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,20 +110,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-make-your-comments-pop-with-emojis-in-youtube/"><u>[New] 2024 Approved Make Your Comments Pop with Emojis in YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>[Updated] 2024 Approved Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-review-on-vlcs-screenshotting-for-2024/"><u>[Updated] Detailed Review on VLC's Screenshotting for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-quality-videos-a-guide-to-apple-device-screen-recording/"><u>Crafting Quality Videos A Guide to Apple Device Screen Recording</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/determining-your-computers-hardware-issue-origins-expert-tips-from-yl-computing/"><u>Determining Your Computer's Hardware Issue Origins: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/enhancing-ram-performance-on-your-computer-yl-softwares-comprehensive-guide/"><u>Enhancing RAM Performance on Your Computer: YL Software's Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-logged-ideport0-control-defect/"><u>Error Logged: Ideport0 Control Defect</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exploring-the-core-structure-of-the-windows-registry-with-yl-computing-experts/"><u>Exploring the Core Structure of the Windows Registry with YL Computing Experts</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/freeware-losungen-zur-nahtlosen-dateisynchronisation-zwischen-zwei-pcs-gelingt-es/"><u>Freeware Lösungen Zur Nahtlosen Dateisynchronisation Zwischen Zwei PCs - Gelingt Es?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/insightful-guide-to-apc-back-ups-pro-1500va-stellar-performance-ample-outlets-and-hot-swappable-battery-design/"><u>Insightful Guide to APC Back-UPS Pro 1500VA - Stellar Performance, Ample Outlets and Hot Swappable Battery Design</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/navigating-compatibility-woes-the-reason-behind-missing-drivers-for-some-devices-exploring-solutions-with-yl-software/"><u>Navigating Compatibility Woes: The Reason Behind Missing Drivers for Some Devices - Exploring Solutions with YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/navigating-uncertainty-exploring-the-hazards-of-cryptocurrency-investments-with-yl-computings-insights/"><u>Navigating Uncertainty: Exploring the Hazards of Cryptocurrency Investments with YL Computing's Insights</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/organizing-windows-folders-by-shifting-files-expert-advice-from-yl-systems-seamless-file-management-solutions/"><u>Organizing Windows Folders by Shifting Files: Expert Advice From YL Systems - Seamless File Management Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/steps-to-safely-save-your-systems-registry-configuration-yl-computing/"><u>Steps to Safely Save Your System's Registry Configuration - YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-quintessential-pick-top-five-cost-free-dirt-track-games-to-try/"><u>The Quintessential Pick: Top Five Cost-Free Dirt Track Games to Try</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-8-free-video-conferencing-software-for-windows-and-mac/"><u>[New] 8 Free Video Conferencing Software for Windows and Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-professional-techniques-for-streaming-and-recording-league-of-legends/"><u>2024 Approved Professional Techniques for Streaming and Recording League of Legends</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-a-tunefab-recorder/"><u>2024 Approved The Ultimate Guide to Choosing a Tunefab Recorder</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-obstacles-downloading-icloud-on-windows/"><u>Bypassing Obstacles: Downloading iCloud on Windows</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/changing-document-formats-on-windows-a-step-by-step-guide-expert-advice-from-yl-computing/"><u>Changing Document Formats on Windows: A Step-by-Step Guide - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/diy-guide-assessing-your-computers-memory-with-yl-software-techniques/"><u>DIY Guide: Assessing Your Computer's Memory with YL Software Techniques</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ensuring-your-mouse-functionality-a-guide-by-yl-software/"><u>Ensuring Your Mouse Functionality: A Guide by YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exclusive-online-karaoke-membership-your-all-access-pass-to-the-ultimate-singing-experience/"><u>Exclusive Online Karaoke Membership: Your All-Access Pass to the Ultimate Singing Experience</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-can-i-personalize-my-mouse-configuration-expert-advice-from-yl-computings-top-solutions/"><u>How Can I Personalize My Mouse Configuration? Expert Advice From YL Computing's Top Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-cross-platform-connection-masterclass-instagramfacebook/"><u>In 2024, Cross-Platform Connection Masterclass Instagram/Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/snapsizesecrets-perfecting-photo-and-video-sizes-in-instagram/"><u>SnapSizeSecrets Perfecting Photo and Video Sizes in Instagram</u></a></li>
 </ul></div>
 
