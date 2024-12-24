@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2024-12-12T18:49:41.040Z
-updated: 2024-12-15T00:32:05.010Z
+date: 2024-12-17T19:07:38.649Z
+updated: 2024-12-24T02:16:19.854Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,18 +110,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-8-free-video-conferencing-software-for-windows-and-mac/"><u>[New] 8 Free Video Conferencing Software for Windows and Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-professional-techniques-for-streaming-and-recording-league-of-legends/"><u>2024 Approved Professional Techniques for Streaming and Recording League of Legends</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-a-tunefab-recorder/"><u>2024 Approved The Ultimate Guide to Choosing a Tunefab Recorder</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-obstacles-downloading-icloud-on-windows/"><u>Bypassing Obstacles: Downloading iCloud on Windows</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/changing-document-formats-on-windows-a-step-by-step-guide-expert-advice-from-yl-computing/"><u>Changing Document Formats on Windows: A Step-by-Step Guide - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/diy-guide-assessing-your-computers-memory-with-yl-software-techniques/"><u>DIY Guide: Assessing Your Computer's Memory with YL Software Techniques</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ensuring-your-mouse-functionality-a-guide-by-yl-software/"><u>Ensuring Your Mouse Functionality: A Guide by YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exclusive-online-karaoke-membership-your-all-access-pass-to-the-ultimate-singing-experience/"><u>Exclusive Online Karaoke Membership: Your All-Access Pass to the Ultimate Singing Experience</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-can-i-personalize-my-mouse-configuration-expert-advice-from-yl-computings-top-solutions/"><u>How Can I Personalize My Mouse Configuration? Expert Advice From YL Computing's Top Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-cross-platform-connection-masterclass-instagramfacebook/"><u>In 2024, Cross-Platform Connection Masterclass Instagram/Facebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/snapsizesecrets-perfecting-photo-and-video-sizes-in-instagram/"><u>SnapSizeSecrets Perfecting Photo and Video Sizes in Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-camera-selection-for-amateurs/"><u>[Updated] In 2024, Camera Selection for Amateurs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-exploring-the-onset-of-chinas-cultural-revolution-insightful-analysis-by-yl-computing/"><u>1. Exploring the Onset of China's Cultural Revolution: Insightful Analysis by YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-leap-towards-no-code-revolution-the-impactful-role-of-generative-artificial-intelligence-in-evolving-coding-paradigms-zdnet-insights/"><u>A Leap Towards 'No Code' Revolution: The Impactful Role of Generative Artificial Intelligence in Evolving Coding Paradigms | ZDNET Insights</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/enhancing-crypto-governance-strategies-for-better-oversight-by-yl-computing-and-yl-software/"><u>Enhancing Crypto Governance: Strategies for Better Oversight by YL Computing and YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exploring-windows-file-recovery-the-ultimate-tool-for-data-restoration-from-yl-software-experts/"><u>Exploring Windows File Recovery: The Ultimate Tool for Data Restoration From YL Software Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guide-simple-et-pratique-comment-securiser-votre-systeme-dexploitation-windows-11-sur-un-stockage-externe/"><u>Guide Simple Et Pratique: Comment Sécuriser Votre Système D'Exploitation Windows 11 Sur Un Stockage Externe</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 14 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-of-the-masters-top-6-signature-removal-apps-revealed/"><u>In 2024, Secrets of the Masters Top 6 Signature Removal Apps Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixelperfect-toolkit-guidebook-for-2024/"><u>PixelPerfect Toolkit Guidebook for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-efficiently-compressing-files-and-folders-in-windows-tech-tips-by-your-company-name/"><u>Step-by-Step Guide: Efficiently Compressing Files and Folders in Windows - Tech Tips by [Your Company Name]</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-personalizing-your-windows-11-wallpaper-tips-from-yl-computing/"><u>Step-by-Step Guide: Personalizing Your Windows 11 Wallpaper - Tips From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-multiplayer-not-functioning-in-elden-ring/"><u>Troubleshooting Guide: Fixing 'Multiplayer Not Functioning' In Elden Ring</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unveiling-various-control-panel-divisions-in-windows-a-guide-by-yl-tech/"><u>Unveiling Various Control Panel Divisions in Windows - A Guide by YL Tech</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728489829220-windows-116/"><u>Windows 11起動時にスリープ状態からの再開ができない方法：トップ6解決策</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-computings-dynamic-flash-x1-wallpaper-collection-stunning-desktop-backdrops-and-more/"><u>YL Computing's Dynamic FLASH X1 Wallpaper Collection: Stunning Desktop Backdrops & More!</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-softwares-ultimate-guide-repair-techniques-for-defective-motherboard-parts/"><u>YL Software's Ultimate Guide: Repair Techniques for Defective Motherboard Parts</u></a></li>
 </ul></div>
 

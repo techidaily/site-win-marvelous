@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixing Skills Using Dex Tech: A Comprehensive Guide to the Dynamic Features in DEX Software V3.8"
-date: 2024-12-10T13:38:15.149Z
-updated: 2024-12-15T00:25:27.027Z
+date: 2024-12-20T10:22:39.503Z
+updated: 2024-12-23T20:22:27.294Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ A couple other skin tweaks include better sizing to the musical “Key” displa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here’s a look at skins/tabs included with DEX 3.8 and our opinion on their best individual uses:
 
 **4-DECK SKIN | FX TAB**
@@ -40,25 +36,21 @@ DJs get 4 full-featured players with the DEX 3 4-Deck Skin and FX Tab. This inte
 
 [4-DECK AUDIO/FX SKIN | VIEW LARGER IMAGE ![4 Deck Mixing software DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1920%2C1080&ssl=1 "4 Deck Mixing software DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4-DECK SKIN | VIDEO TAB**
 
 The 4-Deck Video Tab is widely popular for modern, versatile DJs that may want to mix both music and music videos in a session. Users of this skin/tab typically only require the basics controls for video mixing. DJs get 2-decks for music video mixing (that can be used for audio, too) and 2-decks for audio-only mixing (bottom two decks)
 
 [4-DECK VIDEO TAB | VIEW LARGER IMAGE ![DEX 3.8 DJ mixing software skin](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1920%2C1080&ssl=1 "DEX 3.8 DJ mixing software skin")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4-DECK SKIN | SCRATCH/SYNC TAB**
 
 Much like the default 4-Deck FX Tab, this tab is best used for audio-only mixing. The Scratch/Sync Tab is also only suitable for DJs using a DJ controller and/or timecode vinyl to control DEX 3.8 since it’s not equipped with mixer controls like the the other included 4-Deck Tabs. With the stretched vertical waveform’s it’s easier to see upcoming breaks in the track and if your songs are properly synced on-beat.
 
 [4-DECK SCRATCH/SYNC TAB | VIEW LARGER IMAGE ![DEX 3.8 4-deck skin with vertical waveform's](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1920%2C1080&ssl=1 "DEX 3.8 4-deck skin with vertical waveform's")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4-DECK SKIN | SAMPLER TAB**
 
@@ -67,7 +59,7 @@ DEX 3.8 includes 8 full-featured sample deck players, and the Sampler Tab in DEX
 [4-DECK SAMPLER TAB | VIEW LARGER IMAGE ![DEX 3 4-Deck Skin With Sample Players](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-sampler.png?fit=1920%2C1080&ssl=1 "DEX 3 4-Deck Skin With Sample Players")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-sampler.png?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2-DECK SKIN | DEFAULT TAB WITH SAMPLER**
@@ -75,6 +67,10 @@ DEX 3.8 includes 8 full-featured sample deck players, and the Sampler Tab in DEX
 For DJs that only mix two audio tracks (with sampler access) there is no better equipped skin in the DEX 3.8 arsenal. On-skin access to all loop controls, hot cues, effects, and sample players means DJs have all available advanced music mixing controls on-screen and at their finger tips. You also have smaller side-by-side vertical waveform’s to help you keep the blend on point.
 
 [2-DECK SKIN WITH SAMPLE PLAYERS | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Skin with sample players](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Skin with sample players")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2-DECK SKIN | VIDEO TAB**
 
@@ -88,6 +84,10 @@ A no-frills 2-Deck Simple Skin also comes with DEX 3.8\. For 2-deck minimalist m
 
 [2-DECK SIMPLE SKIN | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Simple Skin](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-simple.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Simple Skin")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-simple.png?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **DAYTIME (OUTSIDE/HIGH CONTRAST) SKINS**
 
 Best of all, DEX 3.8 now includes daytime versions of all 2-deck and 4-deck skins and tabs. DJs can select one of these skins from the ‘select user interface’ drop down menu in DEX 3.8’s options (they are labeled “daytime”). Use one of these skin variations when performing outside in the sun this summer or at any function where the light is high-contrast.
@@ -95,7 +95,7 @@ Best of all, DEX 3.8 now includes daytime versions of all 2-deck and 4-deck skin
 [VIEW LARGER IMAGE OF DAYTIME SKIN MONTAGE ![DEX 3.8 DayTime Skin Montage](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1538%2C1292&ssl=1 "DEX 3.8 DayTime Skin Montage")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1030%2C865&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about our DEX 3.8 **DJ and Video Mixing software**, or the included **skins**? Please leave them in the comments section below!_
@@ -119,22 +119,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/manyfacesofdex3.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-charting-your-course-in-youtubing-dodge-these-top-8-common-missteps/"><u>[Updated] In 2024, Charting Your Course in YouTubing Dodge These Top 8 Common Missteps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-13-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-visuals-and-smoothness-with-new-gpu-driver/"><u>Boost Visuals & Smoothness with New GPU Driver</u></a></li>
-<li><a href="https://windows11.techidaily.com/compre-written-guide-to-repair-xbox-live-glitches/"><u>Compre Written Guide To Repair Xbox Live Glitches</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/explore-the-visual-delight-of-lumachinas-digital-art-high-quality-images-and-wallpapers-from-yl-software-solutions/"><u>Explore the Visual Delight of Lumachina's Digital Art: High-Quality Images and Wallpapers From YL Software Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-software-drivers-for-hp-elitebook-x360-gen9-1030-g2/"><u>Get the Newest Software Drivers for HP EliteBook X360 Gen9 (1030 G2)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-luts-revolutionize-color-balance-in-images/"><u>How LUTs Revolutionize Color Balance in Images</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/identifying-frequent-reasons-behind-cpu-temperature-spike-insights-by-yl-computing/"><u>Identifying Frequent Reasons Behind CPU Temperature Spike - Insights by YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-honor-v-purse-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor V Purse Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/kostenlos-konvertieren-von-cr2-in-jpeg-mit-hilfe-der-webseite-movavi-einfach-und-effektiv/"><u>Kostenlos Konvertieren Von CR2 in JPEG Mit Hilfe Der Webseite Movavi - Einfach Und Effektiv</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/master-the-art-of-os-rebooting-essential-techniques-and-tips-provided-by-yl-software-professionals/"><u>Master the Art of OS Rebooting: Essential Techniques and Tips Provided by YL Software Professionals</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/navigating-the-risks-using-external-tools-to-resolve-pc-malfunctions-on-windows-systems-a-guide-by-yl-software-solutions/"><u>Navigating the Risks: Using External Tools to Resolve PC Malfunctions on Windows Systems – A Guide by YL Software Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-tech-stories-curated-by-toms-hardware-specialists/"><u>Pioneering Tech Stories Curated by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/stunning-travis-scott-desktop-and-mobile-wallpapers-high-quality-backgrounds-photo-collections-and-visual-graphics-by-yl-computing/"><u>Stunning Travis Scott Desktop & Mobile Wallpapers: High-Quality Backgrounds, Photo Collections, and Visual Graphics by YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-guide-making-your-missing-hard-drive-reappear-with-yl-software-tips/"><u>Troubleshooting Guide: Making Your Missing Hard Drive Reappear with YL Software Tips</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/understanding-the-role-and-functionality-of-the-windows-registry-a-comprehensive-guide-by-yl-computing/"><u>Understanding the Role and Functionality of the Windows Registry: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-softwares-insightful-tutorial-purchasing-items-and-services-through-bitcoin-and-alt-coins/"><u>YL Software's Insightful Tutorial: Purchasing Items & Services Through Bitcoin and Alt-Coins</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-exclusive-look-at-top-10-gamers-on-tiktok/"><u>[Updated] In 2024, Exclusive Look at Top 10 Gamers on TikTok</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-speedy-precision-the-leading-video-control-software/"><u>[Updated] In 2024, Speedy Precision The Leading Video Control Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/accidentally-trashed-a-file-learn-how-to-get-it-back-with-microsoft-windows-tools-from-yl-computing-experts/"><u>Accidentally Trashed a File? Learn How to Get It Back with Microsoft Windows Tools From YL Computing Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/adjust-your-monitors-display-size-with-simple-tips-from-yl-software-experts/"><u>Adjust Your Monitor's Display Size with Simple Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-best.techidaily.com/gratis-download-von-imgburn-professionelle-software-zum-brennen-und-schreiben-kopierschutzbefreiter-dvds/"><u>Gratis Download Von ImgBurn - Professionelle Software Zum Brennen Und Schreiben Kopierschutzbefreiter DVDs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-install-intels-usb-30-drivers-on-windows-11-devices/"><u>How to Securely Download and Install Intel's USB 3.0 Drivers on Windows 11 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oneplus-ace-2-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your OnePlus Ace 2 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-20-unencumbered-public-domain-pubg-artifacts/"><u>In 2024, Top 20 Unencumbered, Public Domain PUBG Artifacts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/navigating-live-streams-on-youtube-and-twitch-with-ease-via-obs/"><u>Navigating Live Streams on YouTube & Twitch with Ease via OBS</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-the-top-english-voice-generator-to-convert-text-into-desired-accent/"><u>New 2024 Approved The Top English Voice Generator To Convert Text Into Desired Accent</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/pc-startup-problems-demystified-insights-on-laptops-that-refuse-to-power-up-expertise-from-yl-computing/"><u>PC Startup Problems Demystified: Insights on Laptops That Refuse to Power Up - Expertise From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solving-scanner-not-working-problems-step-by-step-fixes-provided-by-yl-software-specialists/"><u>Solving Scanner Not Working Problems: Step-by-Step Fixes Provided by YL Software Specialists</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-collection-of-stunning-bikini-visuals-for-pcs-hd-walls-and-backgrounds-from-yl-software-expertise/"><u>Ultimate Collection of Stunning Bikini Visuals for PCs: HD Walls and Backgrounds From YL Software Expertise</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-new-opportunities-in-croatia-why-learn-its-language-now/"><u>Unlock New Opportunities in Croatia: Why Learn Its Language Now?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-software-insights-easily-modify-font-dimensions-via-windows-settings/"><u>YL Software Insights: Easily Modify Font Dimensions via Windows Settings</u></a></li>
 </ul></div>
 

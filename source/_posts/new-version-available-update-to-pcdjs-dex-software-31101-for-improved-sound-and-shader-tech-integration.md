@@ -1,7 +1,7 @@
 ---
 title: "New Version Available: Update to PCDJ's DEX Software (3.11.0.1) for Improved Sound & Shader Tech Integration"
-date: 2024-12-10T06:00:21.108Z
-updated: 2024-12-15T14:08:41.396Z
+date: 2024-12-17T11:51:02.641Z
+updated: 2024-12-24T00:44:53.430Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.1
@@ -57,7 +57,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 closed, download and install version 3.11.0.1\. The free update will seamlessly patch over-top you’re existing DEX 3 version, leaving all your existing data and activation intact._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Demonstrating ‘Shader’ Support in DEX 3.11
@@ -65,7 +65,7 @@ _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our **best DJ software** for mixing all types of media? Post your DEX 3.11 questions below and someone will respond promptly!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/DEX3WITHshadersupport.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-maze-choosing-the-right-vimeo-membership-plan-for-2024/"><u>[New] Navigating the Maze Choosing the Right Vimeo Membership Plan for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>[Updated] From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-approaches-to-non-audio-recording/"><u>[Updated] In 2024, Top Approaches to Non-Audio Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-video-recording-on-facebook-with-top-5-tools-for-2024/"><u>[Updated] Seamless Video Recording on Facebook with Top 5 Tools for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ensuring-your-pcs-safety-tips-and-tricks-from-yl-computing/"><u>Ensuring Your PC's Safety: Tips and Tricks From YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/experience-spooky-atmosphere-with-original-halloween-desktops-images-and-photo-wallpapers-from-yl-software/"><u>Experience Spooky Atmosphere with Original Halloween Desktops Images and Photo Wallpapers From YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exploring-windows-control-panel-a-comprehensive-guide-to-system-security-configurations/"><u>Exploring Windows Control Panel: A Comprehensive Guide to System Security Configurations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-blip-to-big-time-the-9-laws-of-instagram-glory/"><u>From Blip to Big Time The 9 Laws of Instagram Glory</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-and-why-do-lcd-screens-experience-flickering-issues-understanding-with-yl-computings-technical-analysis/"><u>How and Why Do LCD Screens Experience Flickering Issues? Understanding with YL Computing's Technical Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamless-dvd-to-mp4-conversion-with-winx-free-tool-for-easy-use-in-windows-10-environments/"><u>Seamless DVD-to-MP4 Conversion with WinX Free Tool for Easy Use in Windows 10 Environments</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/the-ideal-schedule-for-your-security-keeping-windows-defender-current-with-advice-from-experts-at-yl-software/"><u>The Ideal Schedule for Your Security: Keeping Windows Defender Current with Advice From Experts at YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-tips-solving-boot-issues-on-your-pc-yl-software-guide/"><u>Troubleshooting Tips: Solving Boot Issues on Your PC - YL Software Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exploring-social-networking-youtube-content-on-fb-for-2024/"><u>[Updated] Exploring Social Networking YouTube Content on FB for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/high-definition-wallpaper-collection-wonder-woman-inspired-artwork-by-yl-computing/"><u>High-Definition Wallpaper Collection: Wonder Woman Inspired Artwork by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-make-facetime-style-calls-using-windows-computers/"><u>How Can You Make FaceTime-Style Calls Using Windows Computers?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-fix-laptops-failure-to-detect-usb-hardware-in-windows-os-with-yl-software-techniques/"><u>How to Fix Laptop's Failure to Detect USB Hardware in Windows OS with YL Software Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-enriched-minecraft-experience-via-ram-expansion/"><u>In 2024, Enriched Minecraft Experience via RAM Expansion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revamp-your-systems-performance-with-driver-refreshments-insights-from-yl-software-experts/"><u>Revamp Your System's Performance with Driver Refreshments - Insights From YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-3d-light-panels-for-your-gaming-setup/"><u>The Best 3D Light Panels for Your Gaming Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-iphone-video-production-secrets-for-high-quality-shoots/"><u>Top 8 iPhone Video Production Secrets for High-Quality Shoots</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/transferring-data-seamlessly-a-guide-for-synchronizing-dual-systems-by-yl-software/"><u>Transferring Data Seamlessly: A Guide for Synchronizing Dual Systems by YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-process-of-chatbot-interaction-mimicking-humans/"><u>Understanding the Process of Chatbot Interaction Mimicking Humans</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-computing-recommends-the-best-practices-for-regular-antivirus-software-updates/"><u>YL Computing Recommends the Best Practices for Regular Antivirus Software Updates</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-software-explains-navigating-crypto-capital-gains-taxation/"><u>YL Software Explains: Navigating Crypto Capital Gains Taxation</u></a></li>
 </ul></div>
 
