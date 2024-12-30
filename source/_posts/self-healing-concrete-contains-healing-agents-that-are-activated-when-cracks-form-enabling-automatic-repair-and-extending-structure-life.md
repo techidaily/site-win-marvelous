@@ -1,7 +1,7 @@
 ---
 title: Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.
-date: 2024-12-18T11:15:34.659Z
-updated: 2024-12-23T21:09:23.843Z
+date: 2024-12-25T03:35:38.503Z
+updated: 2024-12-30T02:19:36.799Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-license-free-mcb-video-backgrounds/"><u>[New] 2024 Approved License-Free MCB Video Backgrounds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tech-savvy-approach-to-cutting-out-background-noise-in-google-meet/"><u>[New] In 2024, Tech-Savvy Approach to Cutting Out Background Noise in Google Meet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-diverse-vlogging-content-suggestions/"><u>[Updated] Diverse Vlogging Content Suggestions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-watch-facebook-live-in-2024/"><u>[Updated] How to Watch Facebook Live, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/bypassing-the-complete-itunes-backup-error-with-clever-solutions/"><u>Bypassing the Complete iTunes Backup Error with Clever Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/expert-techniques-for-configuring-sound-card-options-with-yl-software/"><u>Expert Techniques for Configuring Sound Card Options with YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-inshot-is-it-truly-top-notch/"><u>In 2024, Evaluating InShot Is It Truly Top-Notch?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/professional-critique-dex-3-dj-software-analyzed-in-mobile-beat-journals-exclusive-article/"><u>Professional Critique: DEX 3 DJ Software Analyzed in Mobile Beat Journal's Exclusive Article</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/section-2a-understanding-pituitamo-secreting-tumors/"><u>Section 2A: Understanding Pituitamo-Secreting Tumors</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/skrillex-academy-challenge-rising-dj-battles-through-tough-lessons-at-future-focused-music-school/"><u>Skrillex Academy Challenge: Rising DJ Battles Through Tough Lessons at Future-Focused Music School</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-companion-for-online-radio-preservationists/"><u>The Ultimate Companion for Online Radio Preservationists</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-common-scanner-malfunctions-understand-and-solve-alert-messages-expert-tips-from-yl-software/"><u>Troubleshooting Common Scanner Malfunctions: Understand & Solve Alert Messages – Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-bmw-z4-roadster-hd-backdrops-for-any-device-innovative-designs-from-yl-computings-imagery-studio/"><u>Ultimate BMW Z4 Roadster HD Backdrops for Any Device: Innovative Designs From YL Computing's Imagery Studio</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-computing-reveals-ultimate-tips-for-accelerating-your-computer-efficiency/"><u>YL Computing Reveals: Ultimate Tips for Accelerating Your Computer Efficiency</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-software-solutions-for-restarting-malfunctioned-windows-services/"><u>YL Software Solutions for Restarting Malfunctioned Windows Services</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-cinema-grade-color-grading-via-look-up-table-utilization/"><u>[Updated] Cinema-Grade Color Grading via Look-Up Table Utilization</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-simplifying-cross-platform-sharing-instagram-and-facebook-integration/"><u>[Updated] Simplifying Cross-Platform Sharing Instagram & Facebook Integration</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effective-strategies-for-avoiding-windows-memory-malfunctions-tips-from-yl-software-experts/"><u>Effective Strategies for Avoiding Windows Memory Malfunctions: Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/enhancing-image-clarity-solutions-for-scanner-quality-issues-with-guidance-from-yl-computing-experts/"><u>Enhancing Image Clarity: Solutions for Scanner Quality Issues with Guidance From YL Computing Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-fix-a-non-starting-computer-with-tips-from-yl-computing-and-yl-software/"><u>How To Fix a Non-Starting Computer with Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-perform-a-virus-scan-on-previously-scanned-files-with-yl-computings-security-solutions/"><u>How to Perform a Virus Scan on Previously Scanned Files with YL Computing's Security Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f04-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F04 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-efficient-sound-management-cutting-down-video-audio-in-imovie-across-mac-and-iphone/"><u>New 2024 Approved Efficient Sound Management Cutting Down Video Audio in iMovie Across Mac and iPhone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solving-gpu-issues-steps-to-take-when-your-graphics-card-causes-system-crashes-tips-by-yl-computing/"><u>Solving GPU Issues: Steps to Take When Your Graphics Card Causes System Crashes - Tips by YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-rated-cloud-storage-solutions-find-your-perfect-match-insights-from-yl-computing/"><u>Top Rated Cloud Storage Solutions: Find Your Perfect Match - Insights From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-macbook-enhancements-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MacBook Enhancements - Comprehensive Testing & Reviews by Tech Gurus | ZDNet</u></a></li>
 </ul></div>
 

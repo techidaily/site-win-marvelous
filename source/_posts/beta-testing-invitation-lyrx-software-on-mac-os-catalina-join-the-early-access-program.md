@@ -1,7 +1,7 @@
 ---
 title: "Beta Testing Invitation: LYRX Software on Mac OS Catalina - Join the Early Access Program"
-date: 2024-12-19T09:09:08.257Z
-updated: 2024-12-23T16:22:13.431Z
+date: 2024-12-26T23:11:29.427Z
+updated: 2024-12-29T17:05:00.486Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-closer-look-at-youtubes-unlisted-content-category/"><u>[New] 2024 Approved A Closer Look at YouTube’s ‘Unlisted’ Content Category</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-glimpses-identifying-who-sees-your-pics/"><u>[Updated] 2024 Approved Instagram Glimpses Identifying Who Sees Your Pics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-funny-frenzy-top-10-tweets-for-2024/"><u>[Updated] Funny Frenzy Top 10 Tweets for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-visual-rhythm-mastering-the-slow-motion-balance-for-2024/"><u>[Updated] Instagram's Visual Rhythm Mastering the Slow-Motion Balance for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/decoding-the-mystery-of-early-on-computer-beeping-sounds-explained-by-yl-tech-experts-yl-softwares/"><u>Decoding the Mystery of Early-On Computer Beeping Sounds Explained by YL Tech Experts | YL Softwares</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/digital-darling-list-top-viewed-on-fb-for-2024/"><u>Digital Darling List Top Viewed on FB for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>In 2024, GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
-<li><a href="https://solve-help.techidaily.com/mastering-mysql-incremental-backups-a-complete-tutorial-for-windows-users/"><u>Mastering MySQL Incremental Backups: A Complete Tutorial for Windows Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/multipolar-neurons-with-many-extensions-from-the-cell-body-include-motor-and-interneurons/"><u>Multipolar Neurons, with Many Extensions From the Cell Body, Include Motor and Interneurons.</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solutions-for-unclean-scanner-outputs-enhancing-image-quality-with-yl-computings-expert-advice/"><u>Solutions for Unclean Scanner Outputs: Enhancing Image Quality with YL Computing's Expert Advice</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-selection-of-6-editor-tools-perfect-for-instagram-content-creation-reels-and-stories-edition/"><u>Ultimate Selection of 6 Editor Tools Perfect for Instagram Content Creation: Reels & Stories Edition</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-computing-download-stunning-hyundai-nexo-wallpaper-collection-powered-by-yl-software/"><u>YL Computing: Download Stunning Hyundai Nexo Wallpaper Collection - Powered by YL Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[New] 2024 Approved Securing Your Videos on Facebook PC + Android Methods</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rime-mobile-camera-apps-iphone-and-android-comparison/"><u>[New] Prime Mobile Camera Apps IPhone & Android Comparison</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-noiseless-speech-transcription-services/"><u>[Updated] Noiseless Speech Transcription Services</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-14-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/blooming-cat-wallpaper-collections-by-yl-computing-unique-floral-backdrops-and-designs/"><u>Blooming Cat Wallpaper Collections by YL Computing: Unique Floral Backdrops & Designs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/climb-the-corporate-ladder-smartly-essential-tips-for-successful-promotion-and-career-growth-as-recommended-by-experts-at-zdnet/"><u>Climb the Corporate Ladder Smartly: Essential Tips for Successful Promotion and Career Growth as Recommended by Experts at ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-verison-in-windows-10-a-step-by-step-guide/"><u>Determining Your Current PowerShell Verison in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/download-the-freshly-updated-karaoke-software-version-08n-pcdj-public-beta-at-your-fingertips/"><u>Download the Freshly Updated Karaoke Software Version 0.8.n - PCDJ Public Beta at Your Fingertips!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-x-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone X or iPad?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/maximizing-gpu-performance-strategies-and-solutions-by-yl-software-experts/"><u>Maximizing GPU Performance: Strategies and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/protect-against-malware-a-comprehensive-tutorial-on-document-scanning-via-connected-scanners-by-yl-software-experts/"><u>Protect Against Malware: A Comprehensive Tutorial on Document Scanning via Connected Scanners by YL Software Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-strategies-to-boost-your-pcs-performance-tips-from-yl-computing/"><u>Top Strategies to Boost Your PC's Performance - Tips From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/troubleshooting-your-malfunctioning-graphics-card-in-windows-with-guidance-from-yl-software/"><u>Troubleshooting Your Malfunctioning Graphics Card in Windows with Guidance From YL Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/vanguard-visual-transformers-lenscrafters-art/"><u>Vanguard Visual Transformers LensCrafters' Art</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-softwares-xenomorph-collection-high-quality-screen-savers-backgrounds-and-wallpapers-for-tech-enthusiasts/"><u>YL Software's Xenomorph Collection: High-Quality Screen Savers, Backgrounds & Wallpapers for Tech Enthusiasts</u></a></li>
 </ul></div>
 
