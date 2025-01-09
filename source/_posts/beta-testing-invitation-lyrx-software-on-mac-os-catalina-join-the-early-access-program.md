@@ -1,7 +1,7 @@
 ---
 title: "Beta Testing Invitation: LYRX Software on Mac OS Catalina - Join the Early Access Program"
-date: 2024-12-26T23:11:29.427Z
-updated: 2024-12-29T17:05:00.486Z
+date: 2025-01-07T08:44:49.421Z
+updated: 2025-01-09T01:57:41.592Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[New] 2024 Approved Securing Your Videos on Facebook PC + Android Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rime-mobile-camera-apps-iphone-and-android-comparison/"><u>[New] Prime Mobile Camera Apps IPhone & Android Comparison</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-noiseless-speech-transcription-services/"><u>[Updated] Noiseless Speech Transcription Services</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-14-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/blooming-cat-wallpaper-collections-by-yl-computing-unique-floral-backdrops-and-designs/"><u>Blooming Cat Wallpaper Collections by YL Computing: Unique Floral Backdrops & Designs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/climb-the-corporate-ladder-smartly-essential-tips-for-successful-promotion-and-career-growth-as-recommended-by-experts-at-zdnet/"><u>Climb the Corporate Ladder Smartly: Essential Tips for Successful Promotion and Career Growth as Recommended by Experts at ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-verison-in-windows-10-a-step-by-step-guide/"><u>Determining Your Current PowerShell Verison in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-the-freshly-updated-karaoke-software-version-08n-pcdj-public-beta-at-your-fingertips/"><u>Download the Freshly Updated Karaoke Software Version 0.8.n - PCDJ Public Beta at Your Fingertips!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-x-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone X or iPad?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/maximizing-gpu-performance-strategies-and-solutions-by-yl-software-experts/"><u>Maximizing GPU Performance: Strategies and Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/protect-against-malware-a-comprehensive-tutorial-on-document-scanning-via-connected-scanners-by-yl-software-experts/"><u>Protect Against Malware: A Comprehensive Tutorial on Document Scanning via Connected Scanners by YL Software Experts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-strategies-to-boost-your-pcs-performance-tips-from-yl-computing/"><u>Top Strategies to Boost Your PC's Performance - Tips From YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-your-malfunctioning-graphics-card-in-windows-with-guidance-from-yl-software/"><u>Troubleshooting Your Malfunctioning Graphics Card in Windows with Guidance From YL Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/vanguard-visual-transformers-lenscrafters-art/"><u>Vanguard Visual Transformers LensCrafters' Art</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-softwares-xenomorph-collection-high-quality-screen-savers-backgrounds-and-wallpapers-for-tech-enthusiasts/"><u>YL Software's Xenomorph Collection: High-Quality Screen Savers, Backgrounds & Wallpapers for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-windowsoshdd/"><u>1. Windows系OSにおける内蔵HDDのバックアップ手順</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>2024 Approved Unlock the Power of Podcasts 15 Activities that Blend Multitasking and Growth</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comment-eliminer-la-sauvegarde-automatique-avec-wbadmin-sur-windows-serveur-guide-detaille/"><u>Comment Éliminer La Sauvegarde Automatique Avec Wbadmin Sur Windows Serveur : Guide Détaillé</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-icloud-photo-sharing-move-memories-between-iphones-without-a-cord/"><u>Effortless iCloud Photo Sharing: Move Memories Between iPhones Without a Cord</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/elevate-your-skills-with-in-depth-network-setup-techniques-for-hardware-lab-exercise-8-3/"><u>Elevate Your Skills with In-Depth Network Setup Techniques for Hardware Lab Exercise 8-3</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expertentests-und-rezensionen-fur-die-backup-losung-aomei-backupper/"><u>Expertentests Und Rezensionen Für Die Backup-Lösung AOMEI Backupper</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nubia-red-magic-9-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nubia Red Magic 9 Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-a05-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy A05 to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-noise-free-audiovisual-links/"><u>In 2024, Navigating Noise-Free Audiovisual Links</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-transform-your-visual-storytelling-with-luts-in-ae/"><u>In 2024, Transform Your Visual Storytelling with LUTs in AE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x800704b3-on-your-win1011-machine/"><u>Overcoming Error 0X800704B3 on Your Win10/11 Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-fortnite-microphone-fast-fixes-for-voice-chat-issues/"><u>Troubleshoot Your Fortnite Microphone: Fast Fixes for Voice Chat Issues</u></a></li>
 </ul></div>
 

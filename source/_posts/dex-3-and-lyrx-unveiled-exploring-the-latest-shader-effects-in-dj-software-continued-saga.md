@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2024-12-26T02:26:26.190Z
-updated: 2024-12-30T01:39:59.576Z
+date: 2025-01-05T05:35:22.106Z
+updated: 2025-01-08T19:51:53.871Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,19 +110,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-video-production-with-chroma-key-techniques/"><u>[New] 2024 Approved Mastering Video Production with Chroma Key Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>[New] In 2024, Top 5 Tactics From Experts A Journey of Online Brand Growth</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-switch-to-shine-with-premium-capture-cards/"><u>[New] Switch to Shine with Premium Capture Cards</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-leading-edge-imaging-the-most-excellent-4k-cams-for-2024/"><u>[Updated] Leading Edge Imaging The Most Excellent 4K Cams for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/can-you-rely-on-windows-defender-alone-for-complete-pc-security-exploring-alternatives-and-best-practices-tech-insights-by-yl/"><u>Can You Rely on Windows Defender Alone for Complete PC Security? Exploring Alternatives and Best Practices - Tech Insights by YL</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/corrupted-media-healer-restore-videos/"><u>Corrupted Media Healer – Restore Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-android-utilize-cognitive-computing-for-smarter-performance/"><u>How Does Android Utilize Cognitive Computing for Smarter Performance?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/master-file-relocation-with-yl-softwares-step-by-step-instructions-for-directory-transfers/"><u>Master File Relocation with YL Software's Step-by-Step Instructions for Directory Transfers</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/master-your-sound-expert-techniques-for-tweaking-speaker-settings-in-the-windows-control-panel-yl-software-solutions/"><u>Master Your Sound: Expert Techniques for Tweaking Speaker Settings in the Windows Control Panel - YL Software Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nintendo-switch-lite-review/"><u>Nintendo Switch Lite Review</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/timely-protection-when-and-how-often-is-your-system-scanned-by-windows-defender/"><u>Timely Protection: When and How Often Is Your System Scanned by Windows Defender?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unveiling-the-hidden-mastering-the-mask-of-background-blur-for-2024/"><u>Unveiling the Hidden Mastering the Mask of Background Blur for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-computing-explains-how-to-activate-or-deactivate-essential-system-features-like-the-windows-firewall/"><u>YL Computing Explains: How to Activate or Deactivate Essential System Features Like the Windows Firewall</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-computings-expert-tips-for-altering-or-erasing-windows-registry-items-easily-and-safely/"><u>YL Computing's Expert Tips for Altering or Erasing Windows Registry Items Easily & Safely</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-understanding-magixs-acid-pro-and-its-market-rivals/"><u>[Updated] In 2024, Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-macs-top-tier-gif-recorder-tools-reviewed/"><u>[Updated] Mac's Top-Tier GIF Recorder Tools Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-reimagining-photo-presentation-with-top-frame-tools/"><u>2024 Approved Reimagining Photo Presentation with Top Frame Tools</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/accessing-network-preferences-through-the-control-panel-a-step-by-step-guide-from-yl-software-experts/"><u>Accessing Network Preferences Through the Control Panel: A Step-by-Step Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expert-advice-on-installing-printers-in-windows-systems-with-help-from-yl-software-solutions/"><u>Expert Advice on Installing Printers in Windows Systems with Help From YL Software Solutions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exploring-the-impact-of-the-manchus-on-chinese-heritage-a-comprehensive-analysis-by-yl-computing-solutions/"><u>Exploring the Impact of the Manchus on Chinese Heritage: A Comprehensive Analysis by YL Computing Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-hurry-hoarding-images-and-intonations/"><u>In 2024, Hurry Hoarding Images & Intonations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-twitter-chats-successfully-with-these-4-key-tools-to-track-hashtags/"><u>Navigating Twitter Chats Successfully with These 4 Key Tools to Track Hashtags</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolving-inaccurate-mouse-movement-issues-expert-advice-from-yl-computing/"><u>Resolving Inaccurate Mouse Movement Issues - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolving-inaccurate-scan-results-tips-from-yl-computing-on-perfecting-your-document-imaging/"><u>Resolving Inaccurate Scan Results: Tips From YL Computing on Perfecting Your Document Imaging</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-solving-windows-11s-audio-problem-a-step-by-step-guide/"><u>Revive Your Sound: Solving Windows 11'S Audio Problem – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-mastering-the-vmware-vsphere-cli-for-beginners/"><u>Step-by-Step Tutorial: Mastering the VMware vSphere CLI for Beginners</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-10-best-small-personal-gps-trackers-a-detailed-comparative-study-to-help-you-choose-the-right-size-for-safety-and-convenience/"><u>Top 10 Best Small Personal GPS Trackers - A Detailed, Comparative Study to Help You Choose the Right Size for Safety and Convenience</u></a></li>
 </ul></div>
 
