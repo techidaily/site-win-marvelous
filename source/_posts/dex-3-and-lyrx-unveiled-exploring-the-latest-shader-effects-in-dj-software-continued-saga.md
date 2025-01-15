@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2025-01-05T05:35:22.106Z
-updated: 2025-01-08T19:51:53.871Z
+date: 2025-01-09T16:28:04.117Z
+updated: 2025-01-14T17:28:26.926Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,19 +110,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-understanding-magixs-acid-pro-and-its-market-rivals/"><u>[Updated] In 2024, Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-macs-top-tier-gif-recorder-tools-reviewed/"><u>[Updated] Mac's Top-Tier GIF Recorder Tools Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-reimagining-photo-presentation-with-top-frame-tools/"><u>2024 Approved Reimagining Photo Presentation with Top Frame Tools</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/accessing-network-preferences-through-the-control-panel-a-step-by-step-guide-from-yl-software-experts/"><u>Accessing Network Preferences Through the Control Panel: A Step-by-Step Guide From YL Software Experts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/expert-advice-on-installing-printers-in-windows-systems-with-help-from-yl-software-solutions/"><u>Expert Advice on Installing Printers in Windows Systems with Help From YL Software Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exploring-the-impact-of-the-manchus-on-chinese-heritage-a-comprehensive-analysis-by-yl-computing-solutions/"><u>Exploring the Impact of the Manchus on Chinese Heritage: A Comprehensive Analysis by YL Computing Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-hurry-hoarding-images-and-intonations/"><u>In 2024, Hurry Hoarding Images & Intonations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-twitter-chats-successfully-with-these-4-key-tools-to-track-hashtags/"><u>Navigating Twitter Chats Successfully with These 4 Key Tools to Track Hashtags</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/resolving-inaccurate-mouse-movement-issues-expert-advice-from-yl-computing/"><u>Resolving Inaccurate Mouse Movement Issues - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/resolving-inaccurate-scan-results-tips-from-yl-computing-on-perfecting-your-document-imaging/"><u>Resolving Inaccurate Scan Results: Tips From YL Computing on Perfecting Your Document Imaging</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-sound-solving-windows-11s-audio-problem-a-step-by-step-guide/"><u>Revive Your Sound: Solving Windows 11'S Audio Problem – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-mastering-the-vmware-vsphere-cli-for-beginners/"><u>Step-by-Step Tutorial: Mastering the VMware vSphere CLI for Beginners</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-10-best-small-personal-gps-trackers-a-detailed-comparative-study-to-help-you-choose-the-right-size-for-safety-and-convenience/"><u>Top 10 Best Small Personal GPS Trackers - A Detailed, Comparative Study to Help You Choose the Right Size for Safety and Convenience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-selecting-prime-apps-for-iphoneandroid-intro-videos/"><u>[New] 2024 Approved Selecting Prime Apps for iPhone/Android Intro Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-free-and-fast-the-ultimate-list-of-mac-screen-recorders-for-2024/"><u>[New] Free and Fast The Ultimate List of Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-premier-screener-for-capturing-high-quality-videos/"><u>[New] In 2024, Premier Screener for Capturing High-Quality Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>[New] In 2024, Streamline Your Views The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-step-by-step-tutorial-converting-video-object-vob-files-into-imovie-projects/"><u>1. Step-by-Step Tutorial: Converting Video Object (VOB) Files Into iMovie Projects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286017619-dvd-dvd/"><u>DVD再生可能化ガイド - 自宅で安全にDVDリフレッシュ</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-methods-for-sharing-your-ipad-tunes-with-your-iphone-no-computer-needed/"><u>Effortless Methods for Sharing Your iPad Tunes with Your iPhone - No Computer Needed</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guerir-rapidement-votre-boite-mail-gmail-avec-des-astuces-de-sauvegarde-sur-disque-dur/"><u>Guérir Rapidement Votre Boîte Mail Gmail Avec Des Astuces De Sauvegarde Sur Disque Dur</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-detect-and-avoid-bingchatgpt-related-cryptocurrency-deceptions-expert-tips/"><u>How to Detect and Avoid BingChatGPT-Related Cryptocurrency Deceptions: Expert Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-screen-record-on-dell-laptop/"><u>How to Screen Record on Dell Laptop</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/moving-your-outlook-folders-the-best-two-methods-for-transferring-them-to-a-different-pc/"><u>Moving Your Outlook Folders: The Best Two Methods for Transferring Them to a Different PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-gratis-klonierungssoftware-fur-adata-ssds-mit-aomei-backupper/"><u>Top Gratis Klonierungssoftware Für ADATA SSDs Mit AOMEI Backupper</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-ranking-the-speed-of-different-raid-configurations/"><u>Ultimate Guide: Ranking the Speed of Different RAID Configurations</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/verlorene-instagram-bilder-wiederentdecken-professionelle-wiederherstellungsstrategien-durch-myrecover/"><u>Verlorene Instagram-Bilder Wiederentdecken - Professionelle Wiederherstellungsstrategien Durch MyRecover</u></a></li>
 </ul></div>
 

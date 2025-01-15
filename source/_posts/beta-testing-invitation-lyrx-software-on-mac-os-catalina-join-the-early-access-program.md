@@ -1,7 +1,7 @@
 ---
 title: "Beta Testing Invitation: LYRX Software on Mac OS Catalina - Join the Early Access Program"
-date: 2025-01-07T08:44:49.421Z
-updated: 2025-01-09T01:57:41.592Z
+date: 2025-01-14T00:46:43.550Z
+updated: 2025-01-14T19:03:04.360Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-marvelous.techidaily.com/1-windowsoshdd/"><u>1. Windows系OSにおける内蔵HDDのバックアップ手順</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>2024 Approved Unlock the Power of Podcasts 15 Activities that Blend Multitasking and Growth</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comment-eliminer-la-sauvegarde-automatique-avec-wbadmin-sur-windows-serveur-guide-detaille/"><u>Comment Éliminer La Sauvegarde Automatique Avec Wbadmin Sur Windows Serveur : Guide Détaillé</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-icloud-photo-sharing-move-memories-between-iphones-without-a-cord/"><u>Effortless iCloud Photo Sharing: Move Memories Between iPhones Without a Cord</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/elevate-your-skills-with-in-depth-network-setup-techniques-for-hardware-lab-exercise-8-3/"><u>Elevate Your Skills with In-Depth Network Setup Techniques for Hardware Lab Exercise 8-3</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/expertentests-und-rezensionen-fur-die-backup-losung-aomei-backupper/"><u>Expertentests Und Rezensionen Für Die Backup-Lösung AOMEI Backupper</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nubia-red-magic-9-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nubia Red Magic 9 Pro+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-a05-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy A05 to iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-noise-free-audiovisual-links/"><u>In 2024, Navigating Noise-Free Audiovisual Links</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-transform-your-visual-storytelling-with-luts-in-ae/"><u>In 2024, Transform Your Visual Storytelling with LUTs in AE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x800704b3-on-your-win1011-machine/"><u>Overcoming Error 0X800704B3 on Your Win10/11 Machine</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-fortnite-microphone-fast-fixes-for-voice-chat-issues/"><u>Troubleshoot Your Fortnite Microphone: Fast Fixes for Voice Chat Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-maximize-your-gaming-experience-fbx-edition/"><u>[New] Maximize Your Gaming Experience FBX Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>2024 Approved Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726227861515-swfavi-movavi/"><u>快速無成本轉換SWF影片成AVI：簡介 Movavi 工具</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728481278260-gmail/"><u>如何輕鬆從Gmail中刪除且成功挽回電郵 - 四大方法解決方案</u></a></li>
+<li><a href="https://techtrends.techidaily.com/asus-touchpad-not-working-on-windows-1110-solved/"><u>ASUS Touchpad Not Working on Windows 11/10 [SOLVED]</u></a></li>
+<li><a href="https://win-info.techidaily.com/come-eseguire-il-ripristino-da-cd-inizializzatore-nel-tuo-pc/"><u>Come Eseguire Il Ripristino Da CD Inizializzatore Nel Tuo PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/elevar-la-capacidad-del-sistema-de-tu-xbox-one-s-instrucciones-para-cambiar-al-disco-duro-a-una-unidad-de-estado-solido-mayor-en-gramos/"><u>Elevar La Capacidad Del Sistema De Tu Xbox One S: Instrucciones Para Cambiar Al Disco Duro a Una Unidad De Estado Sólido Mayor en Gramos</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guide-complet-la-fabrication-et-la-recreation-dimages-iso-sur-windows-11-explique-simplement/"><u>Guide Complet : La Fabrication Et La Recréation D'Images ISO Sur Windows 11 Expliqué Simplement</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/simplified-guide-two-effective-techniques-for-backing-up-your-files-on-amazon-aws-s3/"><u>Simplified Guide: Two Effective Techniques for Backing Up Your Files on Amazon AWS S3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/taming-data-management-how-chatgpt-can-revolutionize-your-excel-workflows/"><u>Taming Data Management: How ChatGPT Can Revolutionize Your Excel Workflows</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/bmp-bmp/"><u>バニティ メタデータ (BMP) フォーマットを理解し、破損した BMP 画像の回復方法を学ぶ</u></a></li>
 </ul></div>
 

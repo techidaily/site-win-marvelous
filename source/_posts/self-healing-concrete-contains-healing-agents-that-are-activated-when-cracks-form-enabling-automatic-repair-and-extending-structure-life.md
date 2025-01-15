@@ -1,7 +1,7 @@
 ---
 title: Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.
-date: 2025-01-06T16:54:36.863Z
-updated: 2025-01-09T09:48:13.890Z
+date: 2025-01-10T17:08:19.816Z
+updated: 2025-01-15T06:22:12.267Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-navigating-color-grading-using-luts-to-refine-your-work-in-ae/"><u>[New] Navigating Color Grading Using LUTs to Refine Your Work in AE</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/analyzing-the-aftermath-understanding-the-impact-of-the-tiananmen-square-incident-insights-from-yl-tech/"><u>Analyzing the Aftermath: Understanding the Impact of the Tiananmen Square Incident - Insights From YL Tech</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/changing-document-formats-on-windows-a-step-by-step-guide-expert-advice-from-yl-computing/"><u>Changing Document Formats on Windows: A Step-by-Step Guide - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-and-tech-advice-with-toms-hardware-analysis/"><u>Discover Top Hardware Picks and Tech Advice with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ensuring-your-mouse-functionality-a-guide-by-yl-software/"><u>Ensuring Your Mouse Functionality: A Guide by YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/exclusive-online-karaoke-membership-your-all-access-pass-to-the-ultimate-singing-experience/"><u>Exclusive Online Karaoke Membership: Your All-Access Pass to the Ultimate Singing Experience</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-speed-up-your-computers-startup-process-essential-tips-and-tricks-guided-by-yl-software/"><u>How to Speed Up Your Computer's Startup Process: Essential Tips & Tricks - Guided by YL Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi 12</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-meizu-21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Meizu 21 Phone Screen?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/markets-best-gpus-for-uhd-video-processing-for-2024/"><u>Market's Best GPUs for UHD Video Processing for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-document-handling-with-these-10-powerful-chatgpt-plugins-for-pdfs/"><u>Revolutionize Document Handling with These 10 Powerful ChatGPT Plugins for PDFs</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-printing-your-images-perfectly-with-yl-computing-solutions/"><u>Step-by-Step Guide: Printing Your Images Perfectly with YL Computing Solutions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transforming-viewers-experience-best-youtube-end-screens-for-2024/"><u>Transforming Viewers' Experience Best Youtube End Screens for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultra-hd-vehicle-brand-icon-graphics-from-yl-software-exclusive-hd-wallpaper-downloads-for-car-enthusiasts/"><u>Ultra-HD Vehicle Brand Icon Graphics From YL Software: Exclusive HD Wallpaper Downloads for Car Enthusiasts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/what-causes-sound-card-failures-diagnosing-audio-problems-with-guidance-from-yl-software-experts/"><u>What Causes Sound Card Failures? Diagnosing Audio Problems with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ailored-trends-the-pathway-to-a-specialized-youtube-niche/"><u>[New] Tailored Trends The Pathway to a Specialized Youtube Niche</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-schnelles-und-einfaches-sicherstellen-ihrer-daten-mit-wd-mycloud-externe-festplatten-backup-anleitung/"><u>1. Schnelles Und Einfaches Sicherstellen Ihrer Daten Mit WD MyCloud - Externe Festplatten-Backup-Anleitung</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-illusions-video-meets-apple-music/"><u>2024 Approved Auditory Illusions Video Meets Apple Music</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quickcapture-ultimate-scan/"><u>2024 Approved QuickCapture Ultimate Scan</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/56gu5lplusd5pys5py65pww5o2u5ash5lu95a6j5ywo77ya5rex5ywl6kej5p6q5pya5aw955qe5yqg5aplusg5oqa5pyv5lio5pa55rov/"><u>确保本机数据备份安全：深入解析最好的加密技术与方法</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-9-tiff-image-viewers-available-on-windows-android-and-ios-platforms/"><u>Best 9 TIFF Image Viewers Available on Windows, Android & iOS Platforms</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/disco-de-reposicion-para-servidor-windows-2022-por-creador-z-tecnologia-rapida-y-protegida-mas-fiable/"><u>Disco De Reposición Para Servidor Windows 2022 Por Creador Z: Tecnología Rápida Y Protegida Más Fiable</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-americas-best-value-singing-rooms-karaoke-nights-for-150-or-less/"><u>Discover America's Best Value Singing Rooms: Karaoke Nights For $150 or Less</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effective-ways-to-tackle-elevated-disk-consumption-from-antimalware-service-exe/"><u>Effective Ways to Tackle Elevated Disk Consumption From Antimalware Service Exe</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-and-free-solutions-for-protecting-and-copying-your-xbox-consoles-save-data/"><u>Effortless & Free Solutions for Protecting and Copying Your Xbox Console's Save Data</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 To Android? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-3-straightforward-methods-to-fine-tune-shades/"><u>In 2024, 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/maximiser-les-capacites-de-copie-robotique-sous-windows-11-guide-et-meilleurs-substituts/"><u>Maximiser Les Capacités De Copie Robotique Sous Windows 11: Guide Et Meilleurs Substituts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/protection-de-disques-durs-avec-mbr-ou-gpt-une-solution-simple-et-efficace/"><u>Protection De Disques Durs Avec MBR Ou GPT : Une Solution Simple Et Efficace</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-its-never-too-late-to-learn-a-foreign-language/"><u>Why It’s Never Too Late to Learn a Foreign Language</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-11-disk-clutter-solutions-discover-the-top-14-ways-to-free-up-space/"><u>Windows 11 Disk Clutter Solutions: Discover the Top 14 Ways to Free Up Space</u></a></li>
 </ul></div>
 
