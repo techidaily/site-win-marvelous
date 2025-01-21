@@ -1,7 +1,7 @@
 ---
 title: Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.
-date: 2025-01-10T17:08:19.816Z
-updated: 2025-01-15T06:22:12.267Z
+date: 2025-01-16T00:44:12.524Z
+updated: 2025-01-21T06:52:02.245Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ailored-trends-the-pathway-to-a-specialized-youtube-niche/"><u>[New] Tailored Trends The Pathway to a Specialized Youtube Niche</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1-schnelles-und-einfaches-sicherstellen-ihrer-daten-mit-wd-mycloud-externe-festplatten-backup-anleitung/"><u>1. Schnelles Und Einfaches Sicherstellen Ihrer Daten Mit WD MyCloud - Externe Festplatten-Backup-Anleitung</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-illusions-video-meets-apple-music/"><u>2024 Approved Auditory Illusions Video Meets Apple Music</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quickcapture-ultimate-scan/"><u>2024 Approved QuickCapture Ultimate Scan</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/56gu5lplusd5pys5py65pww5o2u5ash5lu95a6j5ywo77ya5rex5ywl6kej5p6q5pya5aw955qe5yqg5aplusg5oqa5pyv5lio5pa55rov/"><u>确保本机数据备份安全：深入解析最好的加密技术与方法</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-9-tiff-image-viewers-available-on-windows-android-and-ios-platforms/"><u>Best 9 TIFF Image Viewers Available on Windows, Android & iOS Platforms</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/disco-de-reposicion-para-servidor-windows-2022-por-creador-z-tecnologia-rapida-y-protegida-mas-fiable/"><u>Disco De Reposición Para Servidor Windows 2022 Por Creador Z: Tecnología Rápida Y Protegida Más Fiable</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-americas-best-value-singing-rooms-karaoke-nights-for-150-or-less/"><u>Discover America's Best Value Singing Rooms: Karaoke Nights For $150 or Less</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effective-ways-to-tackle-elevated-disk-consumption-from-antimalware-service-exe/"><u>Effective Ways to Tackle Elevated Disk Consumption From Antimalware Service Exe</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-and-free-solutions-for-protecting-and-copying-your-xbox-consoles-save-data/"><u>Effortless & Free Solutions for Protecting and Copying Your Xbox Console's Save Data</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 To Android? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-3-straightforward-methods-to-fine-tune-shades/"><u>In 2024, 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/maximiser-les-capacites-de-copie-robotique-sous-windows-11-guide-et-meilleurs-substituts/"><u>Maximiser Les Capacités De Copie Robotique Sous Windows 11: Guide Et Meilleurs Substituts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/protection-de-disques-durs-avec-mbr-ou-gpt-une-solution-simple-et-efficace/"><u>Protection De Disques Durs Avec MBR Ou GPT : Une Solution Simple Et Efficace</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/why-its-never-too-late-to-learn-a-foreign-language/"><u>Why It’s Never Too Late to Learn a Foreign Language</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-11-disk-clutter-solutions-discover-the-top-14-ways-to-free-up-space/"><u>Windows 11 Disk Clutter Solutions: Discover the Top 14 Ways to Free Up Space</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-best-choices-elite-ringtone-developers-iphone/"><u>[New] 2024 Approved Best Choices Elite Ringtone Developers iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-iphone-lens-wisdom-stunning-image-secrets/"><u>[Updated] IPhone Lens Wisdom Stunning Image Secrets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximizing-impact-on-insta-story-with-multiple-images-for-2024/"><u>[Updated] Maximizing Impact on Insta Story with Multiple Images for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-moba-games-on-android-top-10-edition/"><u>[Updated] Premier MOBA Games on Android - TOP 10 Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-direct-from-device-to-digital-world-recording-your-apple-gadgets/"><u>2024 Approved Direct From Device to Digital World Recording Your Apple Gadgets</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728499168868-windows/"><u>簡單上手的四大技巧解決Windows電腦影片恢復</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/clona-windows-1011-su-disco-solido-ssd-m2-guida-completa-senza-riavvio/"><u>Clona Windows 10/11 Su Disco Solido SSD M.2 - Guida Completa Senza Riavvio</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comment-configurer-une-fonction-de-sauvegarde-automatique-pour-votre-disque-dur-externe-avec-windows-11/"><u>Comment Configurer Une Fonction De Sauvegarde Automatique Pour Votre Disque Dur Externe Avec Windows 11 ?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-mode-resolving-lack-of-sound-in-lenovo-laptops/"><u>Fixing Silent Mode: Resolving Lack of Sound in Lenovo Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-steelseries-arctis-pro-mic-working-again-a-step-by-step-troubleshooting-guide/"><u>Get Your SteelSeries Arctis Pro Mic Working Again - A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/speichern-sie-ihre-outlook-365-mailarchive-auf-der-festplatte-effektiv-einfache-tipps-und-methoden/"><u>Speichern Sie Ihre Outlook 365 Mailarchive Auf Der Festplatte Effektiv: Einfache Tipps Und Methoden</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-wi-fi-and-ethernet-drivers-installation-instructions-for-windows-users-windows-1078/"><u>Updated HP Wi-Fi & Ethernet Drivers: Installation Instructions for Windows Users (Windows 10/7/8)</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/was-tun-wenn-das-tool-easy-transfer-in-windows-10-nicht-mehr-verfugbar-ist/"><u>Was Tun, Wenn Das Tool 'Easy Transfer' In Windows 10 Nicht Mehr Verfügbar Ist?</u></a></li>
 </ul></div>
 

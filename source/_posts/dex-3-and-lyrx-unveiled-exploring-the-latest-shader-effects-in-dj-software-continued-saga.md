@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2025-01-09T16:28:04.117Z
-updated: 2025-01-14T17:28:26.926Z
+date: 2025-01-20T09:34:47.692Z
+updated: 2025-01-21T04:26:20.451Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,19 +110,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-selecting-prime-apps-for-iphoneandroid-intro-videos/"><u>[New] 2024 Approved Selecting Prime Apps for iPhone/Android Intro Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-free-and-fast-the-ultimate-list-of-mac-screen-recorders-for-2024/"><u>[New] Free and Fast The Ultimate List of Mac Screen Recorders for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-premier-screener-for-capturing-high-quality-videos/"><u>[New] In 2024, Premier Screener for Capturing High-Quality Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>[New] In 2024, Streamline Your Views The Ultimate #8 FB Movie Download Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-step-by-step-tutorial-converting-video-object-vob-files-into-imovie-projects/"><u>1. Step-by-Step Tutorial: Converting Video Object (VOB) Files Into iMovie Projects</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725286017619-dvd-dvd/"><u>DVD再生可能化ガイド - 自宅で安全にDVDリフレッシュ</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-methods-for-sharing-your-ipad-tunes-with-your-iphone-no-computer-needed/"><u>Effortless Methods for Sharing Your iPad Tunes with Your iPhone - No Computer Needed</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/guerir-rapidement-votre-boite-mail-gmail-avec-des-astuces-de-sauvegarde-sur-disque-dur/"><u>Guérir Rapidement Votre Boîte Mail Gmail Avec Des Astuces De Sauvegarde Sur Disque Dur</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-detect-and-avoid-bingchatgpt-related-cryptocurrency-deceptions-expert-tips/"><u>How to Detect and Avoid BingChatGPT-Related Cryptocurrency Deceptions: Expert Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-screen-record-on-dell-laptop/"><u>How to Screen Record on Dell Laptop</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/moving-your-outlook-folders-the-best-two-methods-for-transferring-them-to-a-different-pc/"><u>Moving Your Outlook Folders: The Best Two Methods for Transferring Them to a Different PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-gratis-klonierungssoftware-fur-adata-ssds-mit-aomei-backupper/"><u>Top Gratis Klonierungssoftware Für ADATA SSDs Mit AOMEI Backupper</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-ranking-the-speed-of-different-raid-configurations/"><u>Ultimate Guide: Ranking the Speed of Different RAID Configurations</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/verlorene-instagram-bilder-wiederentdecken-professionelle-wiederherstellungsstrategien-durch-myrecover/"><u>Verlorene Instagram-Bilder Wiederentdecken - Professionelle Wiederherstellungsstrategien Durch MyRecover</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-a-commercial-channel-youtubes-premium-pathway-guide/"><u>[New] Crafting a Commercial Channel YouTube's Premium Pathway Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-embracing-constructive-feedback-ignoring-the-rest-for-2024/"><u>[New] Embracing Constructive Feedback, Ignoring the Rest for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording/"><u>[New] In 2024, Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/come-effettuare-il-backup-dei-tuoi-applicazioni-installate-in-windows-11-per-evitare-una-costosa-reinstallazione-del-sistema/"><u>Come Effettuare Il Backup Dei Tuoi Applicazioni Installate in Windows 11 per Evitare Una Costosa Reinstallazione Del Sistema</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cutting-edge-capture-selecting-top-smartphone-cameras-in-high-res-video/"><u>Cutting Edge Capture Selecting Top Smartphone Cameras in High-Res Video</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/easy-guide-taking-a-screen-capture-on-your-iphone-se-2020-2016-models/"><u>Easy Guide: Taking a Screen Capture on Your iPhone SE (2020, 2016 Models)</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guide-pour-mettre-en-place-des-fonctions-de-recuperation-dans-windows-server-202/"><u>Guide Pour Mettre en Place Des Fonctions De Récupération Dans Windows Server 202</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-x50-gt-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor X50 GT Through Google Earth?</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/migajas-de-informacion-samsung-transfiere-masivos-datos-de-hdd-para-adaptarse-a-ssd-pequenos-y-rapidos/"><u>Migajas De Información Samsung: Transfiere Masivos Datos De HDD Para Adaptarse a SSD Pequeños Y Rápidos.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-new-frontier-in-recording-captureking-review/"><u>The New Frontier in Recording 'CaptureKing' Review</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728497299877-windowspc/"><u>WindowsPC用：削除済みファイルを簡単に回復する方法が４つ！</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-comprehensive-evaluation-of-glorious-aura-keycaps-unmatched-quality-in-pudding-cap-innovations/"><u>ZDNet’s Comprehensive Evaluation of Glorious Aura Keycaps: Unmatched Quality in Pudding Cap Innovations</u></a></li>
 </ul></div>
 

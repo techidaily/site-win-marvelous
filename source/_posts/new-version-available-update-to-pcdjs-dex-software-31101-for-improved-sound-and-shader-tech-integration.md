@@ -1,7 +1,7 @@
 ---
 title: "New Version Available: Update to PCDJ's DEX Software (3.11.0.1) for Improved Sound & Shader Tech Integration"
-date: 2025-01-07T17:11:55.276Z
-updated: 2025-01-14T21:56:26.397Z
+date: 2025-01-17T04:19:22.474Z
+updated: 2025-01-20T22:31:18.541Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.1
@@ -57,7 +57,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 closed, download and install version 3.11.0.1\. The free update will seamlessly patch over-top you’re existing DEX 3 version, leaving all your existing data and activation intact._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Demonstrating ‘Shader’ Support in DEX 3.11
@@ -65,7 +65,7 @@ _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our **best DJ software** for mixing all types of media? Post your DEX 3.11 questions below and someone will respond promptly!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/DEX3WITHshadersupport.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-breakdown-unleash-the-potential-with-magix-vpx/"><u>2024 Approved A Comprehensive Breakdown Unleash the Potential with Magix VPX</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-steps-to-fix-delayed-or-failing-video-posts-in-facebooks-chat-app/"><u>2024 Approved Steps to Fix Delayed or Failing Video Posts in Facebook's Chat App</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/bootable-usbnorton-ghost/"><u>Bootable USBを作成するためのNorton Ghostプロセス説明</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/capturing-life-basic-shots-every-new-director-should-master/"><u>Capturing Life Basic Shots Every New Director Should Master</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comment-retrouver-une-partition-de-disque-dur-effacee-sous-windows/"><u>Comment Retrouver Une Partition De Disque Dur Effacée Sous Windows</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/erfolgreiches-datenerholungsverfahren-fur-altere-hardware-tipps-und-tricks-zur-rettung-ihrer-dateien/"><u>Erfolgreiches Datenerholungsverfahren Für Ältere Hardware: Tipps Und Tricks Zur Rettung Ihrer Dateien!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/identifying-the-best-cloud-service-allies-of-2024/"><u>Identifying the Best Cloud Service Allies of 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/preserve-your-chats-and-media-an-effortless-guide-to-moving-whatsapp-history-to-a-new-device/"><u>Preserve Your Chats and Media: An Effortless Guide to Moving WhatsApp History to a New Device</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/problematische-desktop-anwendungsverschwinden-in-windows-abgeschlossen-hier-sind-9-effektive-methoden-zum-beheben/"><u>Problematische Desktop-Anwendungsverschwinden in Windows Abgeschlossen? Hier Sind 9 Effektive Methoden Zum Beheben!</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-for-transferring-gpt-drive-partitions-from-hard-disk-to-solid-state-drive-on-various-windows-os/"><u>Step-by-Step Guide for Transferring GPT Drive Partitions From Hard Disk to Solid State Drive on Various Windows OS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-kickboxing-and-karate-game-round-up-for-2024/"><u>Ultimate Kickboxing & Karate Game Round-Up for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unending-chats-strategies-for-continuous-snapstreaks/"><u>Unending Chats - Strategies for Continuous Snapstreaks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>[New] 2024 Approved Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-create-the-best-canon-time-lapse-video/"><u>[New] In 2024, Create the Best Canon Time-Lapse Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-sculpting-your-online-presence-with-top-niche-creators-for-2024/"><u>[New] Sculpting Your Online Presence with Top Niche Creators for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-guide-off-instagrams-igtv/"><u>[Updated] In 2024, Quick Guide Off Instagram's IGTV</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-ideas-to-life-top-7-animation-drawing-tools-for-2024/"><u>Bring Your Ideas to Life Top 7 Animation Drawing Tools for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/choosing-the-perfect-wallet-top-tips-from-yl-computing-on-safely-storing-your-digital-coins/"><u>Choosing the Perfect Wallet: Top Tips From YL Computing on Safely Storing Your Digital Coins</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/efficiently-removing-directories-on-windows-a-step-by-step-guide-tech-tips-by-yl-software/"><u>Efficiently Removing Directories on Windows: A Step-by-Step Guide - Tech Tips by YL Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/explore-more-with-these-videography-aids-for-2024/"><u>Explore More with These Videography Aids for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/explore-your-systems-installed-programs-with-ease-using-the-control-panel-insights-by-yl-computing-experts/"><u>Explore Your System's Installed Programs with Ease Using the Control Panel – Insights by YL Computing Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/identifying-and-troubleshooting-video-card-problems-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting Video Card Problems: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/identifying-signs-of-faulty-ram-in-your-computer-insights-by-yl-computing/"><u>Identifying Signs of Faulty RAM in Your Computer - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-olympic-highlights-thrilling-runs-from-x-games/"><u>In 2024, Olympic Highlights Thrilling Runs From X Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A14 5G FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT 5 Pro</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/optimizing-battery-life-on-pcs-a-step-by-step-guide-to-tweaking-windows-power-settings-insights-by-yl-software/"><u>Optimizing Battery Life on PCs: A Step-by-Step Guide to Tweaking Windows Power Settings – Insights by YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/safeguarding-your-digital-wealth-expert-tips-on-securing-crypto-assets-from-yl-software/"><u>Safeguarding Your Digital Wealth: Expert Tips on Securing Crypto Assets From YL Software</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/stunning-clownfish-hd-themes-for-desktop-premium-images-by-yl-software-solutions/"><u>Stunning Clownfish HD Themes for Desktop: Premium Images by YL Software Solutions</u></a></li>
 </ul></div>
 

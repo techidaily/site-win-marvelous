@@ -1,7 +1,7 @@
 ---
 title: "Beta Testing Invitation: LYRX Software on Mac OS Catalina - Join the Early Access Program"
-date: 2025-01-14T00:46:43.550Z
-updated: 2025-01-14T19:03:04.360Z
+date: 2025-01-18T22:12:27.094Z
+updated: 2025-01-21T04:59:39.950Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,16 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-maximize-your-gaming-experience-fbx-edition/"><u>[New] Maximize Your Gaming Experience FBX Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>2024 Approved Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726227861515-swfavi-movavi/"><u>快速無成本轉換SWF影片成AVI：簡介 Movavi 工具</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728481278260-gmail/"><u>如何輕鬆從Gmail中刪除且成功挽回電郵 - 四大方法解決方案</u></a></li>
-<li><a href="https://techtrends.techidaily.com/asus-touchpad-not-working-on-windows-1110-solved/"><u>ASUS Touchpad Not Working on Windows 11/10 [SOLVED]</u></a></li>
-<li><a href="https://win-info.techidaily.com/come-eseguire-il-ripristino-da-cd-inizializzatore-nel-tuo-pc/"><u>Come Eseguire Il Ripristino Da CD Inizializzatore Nel Tuo PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/elevar-la-capacidad-del-sistema-de-tu-xbox-one-s-instrucciones-para-cambiar-al-disco-duro-a-una-unidad-de-estado-solido-mayor-en-gramos/"><u>Elevar La Capacidad Del Sistema De Tu Xbox One S: Instrucciones Para Cambiar Al Disco Duro a Una Unidad De Estado Sólido Mayor en Gramos</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/guide-complet-la-fabrication-et-la-recreation-dimages-iso-sur-windows-11-explique-simplement/"><u>Guide Complet : La Fabrication Et La Recréation D'Images ISO Sur Windows 11 Expliqué Simplement</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/simplified-guide-two-effective-techniques-for-backing-up-your-files-on-amazon-aws-s3/"><u>Simplified Guide: Two Effective Techniques for Backing Up Your Files on Amazon AWS S3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/taming-data-management-how-chatgpt-can-revolutionize-your-excel-workflows/"><u>Taming Data Management: How ChatGPT Can Revolutionize Your Excel Workflows</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/bmp-bmp/"><u>バニティ メタデータ (BMP) フォーマットを理解し、破損した BMP 画像の回復方法を学ぶ</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-skin-the-subject-eradicate-bg-in-affinity/"><u>[Updated] Skin the Subject, Eradicate Bg in Affinity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-cropped-lengths-imovies-automatic-trimming-logic/"><u>2024 Approved Unveiling Cropped Lengths IMovie's Automatic Trimming Logic</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mac-outlook/"><u>如何在 Mac 上完成 Outlook 电子邮件导出：步骤指南</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/come-recuperare-gli-elementi-cancellati-nelle-cartelle-download-su-windows-1011-metodi-facili-da-seguire/"><u>Come Recuperare Gli Elementi Cancellati Nelle Cartelle Download Su Windows 10/11 – Metodi Facili Da Seguire</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/como-crear-y-utilizar-imagenes-de-respaldo-de-bare-metal-bmr-con-windows-response-to-instruction-1-create-a-guide-for-setting-up-a-nginx-server-on-ubuntu/"><u>Cómo Crear Y Utilizar Imágenes De Respaldo De Bare-Metal (BMR) Con Windows # Response to Instruction 1: Create a Guide for Setting up a Nginx Server on Ubuntu.</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/debrouille-toi-avec-le-probleme-de-parametres-incorrects-dans-dism-error-87-sur-windows-nova-solutions-rapides-et-efficaces/"><u>Débrouille-Toi Avec Le Problème De Paramètres Incorrects Dans DISM (Error 87) Sur Windows Nova – Solutions Rapides Et Efficaces</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/disable-unsolicited-youtube-video-listings/"><u>Disable Unsolicited YouTube Video Listings</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effettuare-la-distribuzione-di-immagini-del-sistema-su-piu-mac-tramite-rete/"><u>Effettuare La Distribuzione Di Immagini Del Sistema Su Più Mac Tramite Rete</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/extracting-youtube-srt-step-by-step-strategies-for-successful-download/"><u>Extracting YouTube SRT Step-by-Step Strategies for Successful Download</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-6-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 6 Plus and iPad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-huawei-nova-y91-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Huawei Nova Y91 on Windows??</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17t Bootloader Easily</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/seamless-onedrive-integration-a-simple-guide-to-automatically-synchronizing-your-two-pcs/"><u>Seamless OneDrive Integration: A Simple Guide to Automatically Synchronizing Your Two PCs</u></a></li>
 </ul></div>
 
