@@ -1,7 +1,7 @@
 ---
 title: "New Version Available: Update to PCDJ's DEX Software (3.11.0.1) for Improved Sound & Shader Tech Integration"
-date: 2025-01-17T04:19:22.474Z
-updated: 2025-01-20T22:31:18.541Z
+date: 2025-01-21T21:41:41.248Z
+updated: 2025-01-26T20:21:00.443Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.1
@@ -57,7 +57,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 closed, download and install version 3.11.0.1\. The free update will seamlessly patch over-top you’re existing DEX 3 version, leaving all your existing data and activation intact._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Demonstrating ‘Shader’ Support in DEX 3.11
@@ -65,7 +65,7 @@ _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our **best DJ software** for mixing all types of media? Post your DEX 3.11 questions below and someone will respond promptly!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,22 +87,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/DEX3WITHshadersupport.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>[New] 2024 Approved Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-create-the-best-canon-time-lapse-video/"><u>[New] In 2024, Create the Best Canon Time-Lapse Video</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-sculpting-your-online-presence-with-top-niche-creators-for-2024/"><u>[New] Sculpting Your Online Presence with Top Niche Creators for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-guide-off-instagrams-igtv/"><u>[Updated] In 2024, Quick Guide Off Instagram's IGTV</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-ideas-to-life-top-7-animation-drawing-tools-for-2024/"><u>Bring Your Ideas to Life Top 7 Animation Drawing Tools for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/choosing-the-perfect-wallet-top-tips-from-yl-computing-on-safely-storing-your-digital-coins/"><u>Choosing the Perfect Wallet: Top Tips From YL Computing on Safely Storing Your Digital Coins</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/efficiently-removing-directories-on-windows-a-step-by-step-guide-tech-tips-by-yl-software/"><u>Efficiently Removing Directories on Windows: A Step-by-Step Guide - Tech Tips by YL Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/explore-more-with-these-videography-aids-for-2024/"><u>Explore More with These Videography Aids for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/explore-your-systems-installed-programs-with-ease-using-the-control-panel-insights-by-yl-computing-experts/"><u>Explore Your System's Installed Programs with Ease Using the Control Panel – Insights by YL Computing Experts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/identifying-and-troubleshooting-video-card-problems-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting Video Card Problems: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/identifying-signs-of-faulty-ram-in-your-computer-insights-by-yl-computing/"><u>Identifying Signs of Faulty RAM in Your Computer - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-olympic-highlights-thrilling-runs-from-x-games/"><u>In 2024, Olympic Highlights Thrilling Runs From X Games</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A14 5G FRP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT 5 Pro</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/optimizing-battery-life-on-pcs-a-step-by-step-guide-to-tweaking-windows-power-settings-insights-by-yl-software/"><u>Optimizing Battery Life on PCs: A Step-by-Step Guide to Tweaking Windows Power Settings – Insights by YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/safeguarding-your-digital-wealth-expert-tips-on-securing-crypto-assets-from-yl-software/"><u>Safeguarding Your Digital Wealth: Expert Tips on Securing Crypto Assets From YL Software</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/stunning-clownfish-hd-themes-for-desktop-premium-images-by-yl-software-solutions/"><u>Stunning Clownfish HD Themes for Desktop: Premium Images by YL Software Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-flawless-photo-management-on-iphone-size-adjustment-basics-for-2024/"><u>[New] Flawless Photo Management on iPhone Size Adjustment Basics for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[New] In 2024, Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-non-disclosure-in-videos-tips-for-masking-identifiable-details/"><u>[Updated] 2024 Approved Non-Disclosure in Videos Tips for Masking Identifiable Details</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mac-outlook/"><u>如何在 Mac 上完成 Outlook 电子邮件导出：步骤指南</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-guide-to-top-screen-capture-for-zoom/"><u>A Guide to Top Screen Capture for Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/avatars-pandora-adventure-stable-gameplay-experience-on-windows-and-pc/"><u>Avatar's Pandora Adventure - Stable Gameplay Experience on Windows & PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/como-crear-y-utilizar-imagenes-de-respaldo-de-bare-metal-bmr-con-windows-response-to-instruction-1-create-a-guide-for-setting-up-a-nginx-server-on-ubuntu/"><u>Cómo Crear Y Utilizar Imágenes De Respaldo De Bare-Metal (BMR) Con Windows # Response to Instruction 1: Create a Guide for Setting up a Nginx Server on Ubuntu.</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comprehensive-guide-for-converting-your-hard-disk-to-solid-state-drive-on-a-windows-11-pc/"><u>Comprehensive Guide for Converting Your Hard Disk to Solid State Drive on a Windows 11 PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/debrouille-toi-avec-le-probleme-de-parametres-incorrects-dans-dism-error-87-sur-windows-nova-solutions-rapides-et-efficaces/"><u>Débrouille-Toi Avec Le Problème De Paramètres Incorrects Dans DISM (Error 87) Sur Windows Nova – Solutions Rapides Et Efficaces</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effettuare-la-distribuzione-di-immagini-del-sistema-su-piu-mac-tramite-rete/"><u>Effettuare La Distribuzione Di Immagini Del Sistema Su Più Mac Tramite Rete</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-effortless-zoom-the-path-to-crystal-clear-borders/"><u>In 2024, Effortless Zoom The Path to Crystal Clear Borders</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reaktion-auf-ausfall-der-temporaren-speichereinstellungen-von-icloud-unter-ios-15-and-16-losungswege/"><u>Reaktion Auf Ausfall Der Temporären Speichereinstellungen Von iCloud Unter iOS 15 & 16: Lösungswege</u></a></li>
+<li><a href="https://discover-best.techidaily.com/transform-your-phone-with-the-vibrant-reink-case-c1-e-ink-designs-for-personal-expression/"><u>Transform Your Phone with the Vibrant Reink Case C1 - E-Ink Designs for Personal Expression!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-popularity-a-comprehensive-list-of-instagrams-top-25-tags/"><u>Unlocking Popularity A Comprehensive List of Instagram's Top 25 Tags</u></a></li>
 </ul></div>
 
