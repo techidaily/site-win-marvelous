@@ -1,7 +1,7 @@
 ---
 title: "Beta Testing Invitation: LYRX Software on Mac OS Catalina - Join the Early Access Program"
-date: 2025-01-25T02:08:38.592Z
-updated: 2025-01-26T23:29:11.593Z
+date: 2025-02-07T23:29:54.394Z
+updated: 2025-02-08T23:05:41.166Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet-for-2024/"><u>[New] Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-lgs-ultrafine-vision-a-thorough-4k-screen-evaluation/"><u>[Updated] 2024 Approved LG's UltraFine Vision A Thorough 4K Screen Evaluation</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/2-step-by-step-guide-downloading-laughter-extracting-giggles-from-leading-humor-websites/"><u>2. Step-by-Step Guide: Downloading Laughter – Extracting Giggles From Leading Humor Websites!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-setting-up-zoom-meetings-a-comprehensible-android-methodology/"><u>2024 Approved Setting Up Zoom Meetings A Comprehensible Android Methodology</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/best-offline-video-downloader-apps-for-mac-and-windows-pc/"><u>Best Offline Video Downloader Apps for Mac & Windows PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/best-sources-for-free-online-cooking-tutorials-and-guide-to-downloading-them-for-off-site-viewing/"><u>Best Sources for Free Online Cooking Tutorials & Guide to Downloading Them for Off-Site Viewing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-and-save-your-favorite-video-tutorials-from-sitepoint-as-mp4-or-avi-files/"><u>Convert and Save Your Favorite Video Tutorials From SitePoint as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-naruto-series-into-high-quality-video-formats-mp4-mov-and-avi-for-pcmac-users/"><u>Convert Naruto Series Into High-Quality Video Formats: MP4, MOV & AVI for PC/Mac Users</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-sharepoint-videos-to-mp4-and-avi-formats-download-guide-for-pc-and-mac/"><u>Convert SharePoint Videos to MP4 & AVI Formats - Download Guide for PC & Mac</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-movies-and-videos-from-daumnet-with-the-easy-to-use-dawndownloader/"><u>Download Movies & Videos From Daum.net with the Easy-to-Use DawnDownloader</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/download-your-favorite-funimation-episodes-and-movies-in-high-quality-mp4-format/"><u>Download Your Favorite Funimation Episodes and Movies in High-Quality MP4 Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-issue-why-windows-couldnt-finish-formatting-your-disk/"><u>Solving the Issue: Why Windows Couldn't Finish Formatting Your Disk</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/streamline-screen-recording-processes-during-facetime/"><u>Streamline Screen-Recording Processes During FaceTime</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ers-channel-blueprint-10-essential-tips-for-youtube-educators-for-2024/"><u>Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-rated-webcam-solutions-for-aol-users-including-manycam-features/"><u>Top-Rated Webcam Solutions for AOL Users, Including ManyCam Features!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-bloodhunt-game-lag-and-freezing-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve Bloodhunt Game Lag and Freezing Issues on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-our-choice-selection-13-true-crime-podcast-gems/"><u>Unveiling Our Choice Selection: 13 True Crime Podcast Gems</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/upgrading-equipment-with-flipbuilder-what-are-the-guidelines/"><u>Upgrading Equipment with FlipBuilder: What Are the Guidelines?</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/windows-server-and-pc-wbadmin/"><u>Windows Server & PCでのシステム状態バックアップ用 WBAdmin コマンド行ツール</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-swift-video-editing-made-easy-with-top-iosdesktop-apps-8/"><u>[New] In 2024, Swift Video Editing Made Easy with Top iOS/Desktop Apps #8</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-secrets-of-effective-free-youtube-video-transcriptions-revealed/"><u>[New] In 2024, The Secrets of Effective, FREE YouTube Video Transcriptions Revealed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-innovative-metaverse-gags-and-their-creators-for-2024/"><u>[New] Innovative Metaverse Gags & Their Creators for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-invisible-motion-capture-instruction/"><u>[Updated] Invisible Motion Capture Instruction</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-rapid-tiktok-filming-techniques-to-enhance-frame-rate/"><u>2024 Approved Rapid TikTok Filming Techniques to Enhance Frame Rate</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-can-you-fix-a-damaged-graphics-card-insights-from-yl-computings-expertise/"><u>How Can You Fix a Damaged Graphics Card? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/is-your-graphics-card-up-to-the-task-diagnosing-hardware-efficiency-with-yl-software-techniques/"><u>Is Your Graphics Card Up to the Task? Diagnosing Hardware Efficiency with YL Software Techniques</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/no-image-on-monitor-discover-why-and-how-to-fix-it-with-yl-software-solutions/"><u>No Image on Monitor? Discover Why and How to Fix It with YL Software Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/precision-and-durability-in-every-detail-reviewing-the-stable-masterpiece-that-is-the-twelve-south-compass-pro/"><u>Precision and Durability in Every Detail: Reviewing the Stable Masterpiece That Is the Twelve South Compass Pro</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revive-your-scanner-guide-to-updating-drivers-using-yl-software-solutions/"><u>Revive Your Scanner: Guide to Updating Drivers Using YL Software Solutions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/self-healing-concrete-contains-healing-agents-that-are-activated-when-cracks-form-enabling-automatic-repair-and-extending-structure-life/"><u>Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-to-restoring-network-driver-functionality-by-yl-software-experts/"><u>Step-by-Step Guide to Restoring Network Driver Functionality by YL Software Experts</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-bmw-z4-roadster-hd-backdrops-for-any-device-innovative-designs-from-yl-computings-imagery-studio/"><u>Ultimate BMW Z4 Roadster HD Backdrops for Any Device: Innovative Designs From YL Computing's Imagery Studio</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-full-potential-guaranteeing-peak-efficiency-for-your-pc-with-yl-computing-and-ys-software-strategies/"><u>Unlock Full Potential: Guaranteeing Peak Efficiency for Your PC with YL Computing & YS Software Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-the-secrets-of-efficient-audio-recordings/"><u>Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1728477270553-windows-10/"><u>Windows 10ユーザーへ:これが必見の驚異的なデータコピーソフトウェア！</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-software-solutions-for-restarting-malfunctioned-windows-services/"><u>YL Software Solutions for Restarting Malfunctioned Windows Services</u></a></li>
 </ul></div>
 

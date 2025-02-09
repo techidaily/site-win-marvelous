@@ -1,7 +1,7 @@
 ---
 title: Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.
-date: 2025-01-23T04:00:37.516Z
-updated: 2025-01-26T16:09:46.112Z
+date: 2025-02-03T18:13:18.299Z
+updated: 2025-02-09T02:03:32.571Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-7-premier-android-apps-to-banish-ads-for-2024/"><u>[Updated] Discover 7 Premier Android Apps to Banish Ads for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-leverage-longer-vids-on-instagram-effectively-for-2024/"><u>[Updated] How to Leverage Longer Vids on Instagram Effectively for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-plot-puns-on-pop-culture/"><u>2024 Approved Plot Puns on Pop Culture</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/best-no-cost-platforms-for-viewing-and-downloading-micro-bit-size-animation-series/"><u>Best No-Cost Platforms for Viewing & Downloading Micro Bit-Size Animation Series</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/effective-strategies-for-windows-user-account-management-insights-from-yl-computing/"><u>Effective Strategies for Windows User Account Management: Insights From YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-strategy-cradle-nurturing-market-gains/"><u>In 2024, Strategy Cradle Nurturing Market Gains</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/savvy-sentries-of-the-mind-top-quizzes/"><u>Savvy Sentries of the Mind Top Quizzes</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/successful-techniques-for-combining-multiple-mp4-videos-using-vlc-media-player/"><u>Successful Techniques for Combining Multiple MP4 Videos Using VLC Media Player</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/the-ultimate-guide-three-trustworthy-ways-to-rotate-your-gopro-footage-successfully/"><u>The Ultimate Guide: Three Trustworthy Ways to Rotate Your GoPro Footage Successfully</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-5-free-tools-for-converting-wmv-videos-into-flv-format-online-and-offline-options-unveiled/"><u>Top 5 Free Tools for Converting WMV Videos Into FLV Format: Online and Offline Options Unveiled</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-ranked-no-cost-dvd-ripper-tool-for-windows-11-users-a-complete-guide/"><u>Top Ranked No-Cost DVD Ripper Tool for Windows 11 Users: A Complete Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-choosing-the-optimal-dvd-to-avi-converter-in-202aturally-here-are-two-new-best-seo-titles-suitable-for-google-search-engine-that-convey-simil37/"><u>Ultimate Guide: Choosing the Optimal DVD to AVI Converter in 202Aturally, Here Are Two New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Your Given Title 2024 The Best DVD to AVI Converter for Windows 11/11:</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-embark-on-a-textual-adventure-14-spectacular-examples/"><u>[New] In 2024, Embark on a Textual Adventure 14 Spectacular Examples</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-the-world-of-ig-data-an-expert-guide-to-understanding-metrics/"><u>[New] In 2024, Navigating the World of IG Data An Expert Guide to Understanding Metrics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-the-mystery-mastering-attention-grabbing-posts-on-instagram/"><u>[New] In 2024, Unveiling the Mystery Mastering Attention-Grabbing Posts on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>[New] The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-portable-video-player-mkv-format/"><u>[New] Ultimate Portable Video Player (MKV Format)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-5-youtube-video-marketing-strategies/"><u>[Updated] 2024 Approved Top 5 YouTube Video Marketing Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-tools-to-download-your-favorite-pinterest-videos-for-nothing/"><u>[Updated] Leading Tools to Download Your Favorite Pinterest Videos for Nothing</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-can-you-fix-a-damaged-graphics-card-insights-from-yl-computings-expertise/"><u>How Can You Fix a Damaged Graphics Card? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/is-your-graphics-card-up-to-the-task-diagnosing-hardware-efficiency-with-yl-software-techniques/"><u>Is Your Graphics Card Up to the Task? Diagnosing Hardware Efficiency with YL Software Techniques</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-bmw-z4-roadster-hd-backdrops-for-any-device-innovative-designs-from-yl-computings-imagery-studio/"><u>Ultimate BMW Z4 Roadster HD Backdrops for Any Device: Innovative Designs From YL Computing's Imagery Studio</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-full-potential-guaranteeing-peak-efficiency-for-your-pc-with-yl-computing-and-ys-software-strategies/"><u>Unlock Full Potential: Guaranteeing Peak Efficiency for Your PC with YL Computing & YS Software Strategies</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-software-solutions-for-restarting-malfunctioned-windows-services/"><u>YL Software Solutions for Restarting Malfunctioned Windows Services</u></a></li>
 </ul></div>
 

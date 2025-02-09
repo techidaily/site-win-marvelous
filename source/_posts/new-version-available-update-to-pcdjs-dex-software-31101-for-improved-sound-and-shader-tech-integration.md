@@ -1,7 +1,7 @@
 ---
 title: "New Version Available: Update to PCDJ's DEX Software (3.11.0.1) for Improved Sound & Shader Tech Integration"
-date: 2025-01-21T21:41:41.248Z
-updated: 2025-01-26T20:21:00.443Z
+date: 2025-02-07T18:32:03.157Z
+updated: 2025-02-09T01:28:05.192Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.1
@@ -57,7 +57,7 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 closed, download and install version 3.11.0.1\. The free update will seamlessly patch over-top you’re existing DEX 3 version, leaving all your existing data and activation intact._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Demonstrating ‘Shader’ Support in DEX 3.11
@@ -65,7 +65,7 @@ _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our **best DJ software** for mixing all types of media? Post your DEX 3.11 questions below and someone will respond promptly!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,19 +87,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/DEX3WITHshadersupport.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-flawless-photo-management-on-iphone-size-adjustment-basics-for-2024/"><u>[New] Flawless Photo Management on iPhone Size Adjustment Basics for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[New] In 2024, Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-non-disclosure-in-videos-tips-for-masking-identifiable-details/"><u>[Updated] 2024 Approved Non-Disclosure in Videos Tips for Masking Identifiable Details</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mac-outlook/"><u>如何在 Mac 上完成 Outlook 电子邮件导出：步骤指南</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/a-guide-to-top-screen-capture-for-zoom/"><u>A Guide to Top Screen Capture for Zoom</u></a></li>
-<li><a href="https://win-able.techidaily.com/avatars-pandora-adventure-stable-gameplay-experience-on-windows-and-pc/"><u>Avatar's Pandora Adventure - Stable Gameplay Experience on Windows & PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/como-crear-y-utilizar-imagenes-de-respaldo-de-bare-metal-bmr-con-windows-response-to-instruction-1-create-a-guide-for-setting-up-a-nginx-server-on-ubuntu/"><u>Cómo Crear Y Utilizar Imágenes De Respaldo De Bare-Metal (BMR) Con Windows # Response to Instruction 1: Create a Guide for Setting up a Nginx Server on Ubuntu.</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comprehensive-guide-for-converting-your-hard-disk-to-solid-state-drive-on-a-windows-11-pc/"><u>Comprehensive Guide for Converting Your Hard Disk to Solid State Drive on a Windows 11 PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/debrouille-toi-avec-le-probleme-de-parametres-incorrects-dans-dism-error-87-sur-windows-nova-solutions-rapides-et-efficaces/"><u>Débrouille-Toi Avec Le Problème De Paramètres Incorrects Dans DISM (Error 87) Sur Windows Nova – Solutions Rapides Et Efficaces</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effettuare-la-distribuzione-di-immagini-del-sistema-su-piu-mac-tramite-rete/"><u>Effettuare La Distribuzione Di Immagini Del Sistema Su Più Mac Tramite Rete</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-effortless-zoom-the-path-to-crystal-clear-borders/"><u>In 2024, Effortless Zoom The Path to Crystal Clear Borders</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/reaktion-auf-ausfall-der-temporaren-speichereinstellungen-von-icloud-unter-ios-15-and-16-losungswege/"><u>Reaktion Auf Ausfall Der Temporären Speichereinstellungen Von iCloud Unter iOS 15 & 16: Lösungswege</u></a></li>
-<li><a href="https://discover-best.techidaily.com/transform-your-phone-with-the-vibrant-reink-case-c1-e-ink-designs-for-personal-expression/"><u>Transform Your Phone with the Vibrant Reink Case C1 - E-Ink Designs for Personal Expression!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unlocking-popularity-a-comprehensive-list-of-instagrams-top-25-tags/"><u>Unlocking Popularity A Comprehensive List of Instagram's Top 25 Tags</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-chromatic-chameleons-playbook-for-masters-for-2024/"><u>[New] The Chromatic Chameleon's Playbook for Masters for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-zerobackground-pro-precision-erasing-for-photos-for-2024/"><u>[New] ZeroBackground Pro Precision Erasing for Photos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-live-stream-showdown-pick-your-favorite-vmix-or-wirecast/"><u>[Updated] 2024 Approved Live Stream Showdown Pick Your Favorite, VMix or Wirecast</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-patterned-pixels-looms-guide-to-screen-casting-for-2024/"><u>[Updated] Patterned Pixels Loom's Guide to Screen Casting for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-journey-from-content-creator-to-money-maker-on-youtube/"><u>[Updated] The Journey From Content Creator to Money-Maker on YouTube</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-access-restored-enhancing-your-icloud-music-library-functionality/"><u>1. Access Restored: Enhancing Your iCloud Music Library Functionality</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728472312001-windows-11/"><u>如何在Windows 11中修复不能开机的镜像硬盘——五个解决方案</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/die-top-tipps-zur-risikofreien-einrichtung-einer-windows-cf-karte-kostenlos-verfugbar-machen/"><u>Die Top-Tipps Zur Risikofreien Einrichtung Einer Windows CF Karte Kostenlos Verfügbar Machen</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-challenge-to-facebook-and-instagram-in-europe-on-the-horizon/"><u>Meta's Challenge to Facebook and Instagram in Europe on the Horizon</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reparacion-de-la-particion-efi-borrada-en-windows-10-dos-metodos-efectivos/"><u>Reparación De La Partición EFI Borrada en Windows 10: Dos Métodos Efectivos</u></a></li>
 </ul></div>
 

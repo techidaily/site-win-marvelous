@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2025-01-23T06:32:42.025Z
-updated: 2025-01-26T23:26:33.848Z
+date: 2025-02-03T21:49:53.630Z
+updated: 2025-02-08T22:58:47.631Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,18 +110,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-offline-adventures-top-10-android-journeys-without-connectivity/"><u>[New] Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-audible-savings-the-essential-guide-to-using-these-24-no-cost-splitters-on-youtube/"><u>[Updated] Audible Savings The Essential Guide to Using These 24 No-Cost Splitters on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-haunting-actions-high-definition-cams-for-2024/"><u>[Updated] Haunting Actions High Definition Cams for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android/"><u>[Updated] In 2024, The Complete Handbook for Saving Movies on Desktop, Laptop & Android</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-master-commanders-unleashed-ranking-7-total-war-champions/"><u>[Updated] Master Commanders Unleashed Ranking 7 Total War Champions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/come-effettuare-il-backup-dei-tuoi-applicazioni-installate-in-windows-11-per-evitare-una-costosa-reinstallazione-del-sistema/"><u>Come Effettuare Il Backup Dei Tuoi Applicazioni Installate in Windows 11 per Evitare Una Costosa Reinstallazione Del Sistema</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-logitech-mk710-keyboard-software/"><u>Download and Install the Latest Logitech MK710 Keyboard Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-techniques-for-adding-straight-lines-in-your-word-documents/"><u>Easy Techniques for Adding Straight Lines in Your Word Documents</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/schnelle-und-einfache-bitlocker-entschlusselung-in-windows-10-deckungslosungsansatze-erklart/"><u>Schnelle Und Einfache BitLocker-Entschlüsselung in Windows 10 – Deckungslösungsansätze Erklärt</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/transferring-ssd-data-to-an-hdd-on-windows-11-with-secure-boot-enabled/"><u>Transferring SSD Data to an HDD on Windows 11 with Secure Boot Enabled</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/wiederherstellung-verlorener-dateien-auf-deinem-windows-pc-und-ios-gerat/"><u>Wiederherstellung Verlorener Dateien Auf Deinem Windows-PC Und iOS-Gerät</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-11-2024/"><u>Windows 11 恢复软件教程与免费获取：2024新解锁方法</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728497299877-windowspc/"><u>WindowsPC用：削除済みファイルを簡単に回復する方法が４つ！</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-metaverse-vs-multimetverse-what-are-the-differences-ultimate-guide-for-2024/"><u>[Updated] Metaverse Vs. MultiMetverse What Are the Differences [Ultimate Guide] for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-windows-movie-maker-6-installed-quickly-and-easily/"><u>2024 Approved Getting Windows Movie Maker 6 Installed Quickly & Easily</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/battle-of-the-e-readers-ipad-kinged-and-nook-face-off/"><u>Battle of the E-Readers: IPAD, KINGED & NOOK Face Off</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-economical-cams-for-everyone/"><u>Best Economical Cams for Everyone</u></a></li>
+<li><a href="https://win-data.techidaily.com/comment-corriger-le-piege-dacces-aux-donnees-invalides-dans-windows-11/"><u>Comment Corriger Le Piège D'Accès Aux Données Invalides Dans Windows 11 ?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comparing-wd-backup-and-windows-backup-which-one-provides-superior-data-protection/"><u>Comparing WD Backup and Windows Backup: Which One Provides Superior Data Protection?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/diskpart-clean-command-successfully-resolved-error-fix-tips/"><u>DiskPart Clean Command Successfully Resolved: Error Fix Tips</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-windows-nt-transition-to-solid-state-drives-with-no-resizing-needed-best-strategies-explained/"><u>Effortless Windows nT Transition to Solid State Drives with No Resizing Needed: Best Strategies Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-efficiency-employ-8-custom-gpt-models-now/"><u>Elevate Efficiency: Employ 8 Custom GPT Models Now</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728492165033-ps4/"><u>PS4初回起動後でも安全にゲームデータ復元方法</u></a></li>
+<li><a href="https://blog-min.techidaily.com/whats-new-in-dvd-conversion-software-macx-dvd-ripper-pro-v46-supports-mac-os-x-el-capitan/"><u>What's New in DVD Conversion Software: MacX DVD Ripper Pro v4.6 Supports Mac OS X El Capitan</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/zeitgesteuerte-ubertragung-von-dokumenten-in-einen-alternativen-verzeichnisplatz/"><u>Zeitgesteuerte Übertragung Von Dokumenten in Einen Alternativen Verzeichnisplatz</u></a></li>
 </ul></div>
 
