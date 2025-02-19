@@ -1,7 +1,7 @@
 ---
 title: "Dex 3 & Lyrx Unveiled: Exploring the Latest Shader Effects in DJ Software, Continued Saga"
-date: 2025-02-03T21:49:53.630Z
-updated: 2025-02-08T22:58:47.631Z
+date: 2025-02-14T09:06:37.509Z
+updated: 2025-02-19T04:15:02.135Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,17 +110,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-metaverse-vs-multimetverse-what-are-the-differences-ultimate-guide-for-2024/"><u>[Updated] Metaverse Vs. MultiMetverse What Are the Differences [Ultimate Guide] for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-windows-movie-maker-6-installed-quickly-and-easily/"><u>2024 Approved Getting Windows Movie Maker 6 Installed Quickly & Easily</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/battle-of-the-e-readers-ipad-kinged-and-nook-face-off/"><u>Battle of the E-Readers: IPAD, KINGED & NOOK Face Off</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-economical-cams-for-everyone/"><u>Best Economical Cams for Everyone</u></a></li>
-<li><a href="https://win-data.techidaily.com/comment-corriger-le-piege-dacces-aux-donnees-invalides-dans-windows-11/"><u>Comment Corriger Le Piège D'Accès Aux Données Invalides Dans Windows 11 ?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comparing-wd-backup-and-windows-backup-which-one-provides-superior-data-protection/"><u>Comparing WD Backup and Windows Backup: Which One Provides Superior Data Protection?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/diskpart-clean-command-successfully-resolved-error-fix-tips/"><u>DiskPart Clean Command Successfully Resolved: Error Fix Tips</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-windows-nt-transition-to-solid-state-drives-with-no-resizing-needed-best-strategies-explained/"><u>Effortless Windows nT Transition to Solid State Drives with No Resizing Needed: Best Strategies Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-efficiency-employ-8-custom-gpt-models-now/"><u>Elevate Efficiency: Employ 8 Custom GPT Models Now</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728492165033-ps4/"><u>PS4初回起動後でも安全にゲームデータ復元方法</u></a></li>
-<li><a href="https://blog-min.techidaily.com/whats-new-in-dvd-conversion-software-macx-dvd-ripper-pro-v46-supports-mac-os-x-el-capitan/"><u>What's New in DVD Conversion Software: MacX DVD Ripper Pro v4.6 Supports Mac OS X El Capitan</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/zeitgesteuerte-ubertragung-von-dokumenten-in-einen-alternativen-verzeichnisplatz/"><u>Zeitgesteuerte Übertragung Von Dokumenten in Einen Alternativen Verzeichnisplatz</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-visualpiece-macbookplusiphone-photo-blend/"><u>[New] 2024 Approved VisualPiece MacBook+iPhone Photo Blend</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-commanders-crusade-revealing-the-best-of-7-total-war-sagas/"><u>2024 Approved Commanders' Crusade Revealing the Best of 7 Total War Sagas</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728498459046-404-not-found-web/"><u>404 Not Found: Webページを検索する方法</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/complete-tutorial-on-how-to-erase-data-and-restore-an-ipod-touchnanoclassicshuffle-to-its-original-settings/"><u>Complete Tutorial on How to Erase Data and Restore an iPod Touch/Nano/Classic/Shuffle to Its Original Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-fixing-your-screens-most-persistent-issues-successfully/"><u>Expert Advice on Fixing Your Screen's Most Persistent Issues Successfully</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-new-bite-into-misinformed-sharing-actors/"><u>Facebook's New Bite Into Misinformed Sharing Actors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-g22-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia G22 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers/"><u>In 2024, Movie Mastery Unlocked Easy Tips and Tricks for Filmmakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-token-constraints/"><u>Navigating ChatGPT’s Token Constraints</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recovering-lost-iphones-a-simple-guide-to-retrieving-deleted-phone-numbers/"><u>Recovering Lost iPhones: A Simple Guide to Retrieving Deleted Phone Numbers</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolving-the-issue-how-to-successfully-move-your-number-from-an-iphone-14-or-15/"><u>Resolving the Issue: How to Successfully Move Your Number From an iPhone 14 or 15</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/seamless-steps-moving-your-entire-music-collection-from-an-external-hdd-into-itunes/"><u>Seamless Steps: Moving Your Entire Music Collection From an External HDD Into iTunes</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-simplest-way-to-clone-your-hard-drive-to-an-ssd-using-a-usb-cable/"><u>Step-by-Step Guide: Simplest Way to Clone Your Hard Drive to an SSD Using a USB Cable</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-tutorial-protect-your-data-with-a-no-cost-d-drive-backup-in-windows-710/"><u>Step-by-Step Tutorial: Protect Your Data with a No-Cost D Drive Backup in Windows 7/10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-no-cost-ios-radio-application-best-choice-for-iphone-ipad-and-ipod-touch/"><u>Top No-Cost iOS Radio Application: Best Choice for iPhone, iPad & iPod Touch</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-10toshibapc/"><u>Windows 10環境におけるToshibaノートPCの安全なバックアップ手順</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-server-201-nowe-metody-przerwydujacego-zapmianowego-i-rozpoczynania-w-celu-zrobienia-ubezpieczenia-dla-metalu-golego/"><u>Windows Server 201#: Nowe Metody Przerwydujacego Zapmianowego I Rozpoczynania W Celu Zrobienia Ubezpieczenia Dla Metalu Gołego</u></a></li>
 </ul></div>
 

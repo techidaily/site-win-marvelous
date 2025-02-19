@@ -1,7 +1,7 @@
 ---
 title: "Beta Testing Invitation: LYRX Software on Mac OS Catalina - Join the Early Access Program"
-date: 2025-02-07T23:29:54.394Z
-updated: 2025-02-08T23:05:41.166Z
+date: 2025-02-17T20:34:50.779Z
+updated: 2025-02-19T06:17:58.884Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-swift-video-editing-made-easy-with-top-iosdesktop-apps-8/"><u>[New] In 2024, Swift Video Editing Made Easy with Top iOS/Desktop Apps #8</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-secrets-of-effective-free-youtube-video-transcriptions-revealed/"><u>[New] In 2024, The Secrets of Effective, FREE YouTube Video Transcriptions Revealed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-innovative-metaverse-gags-and-their-creators-for-2024/"><u>[New] Innovative Metaverse Gags & Their Creators for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-invisible-motion-capture-instruction/"><u>[Updated] Invisible Motion Capture Instruction</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-rapid-tiktok-filming-techniques-to-enhance-frame-rate/"><u>2024 Approved Rapid TikTok Filming Techniques to Enhance Frame Rate</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-can-you-fix-a-damaged-graphics-card-insights-from-yl-computings-expertise/"><u>How Can You Fix a Damaged Graphics Card? Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 13C 5G?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/is-your-graphics-card-up-to-the-task-diagnosing-hardware-efficiency-with-yl-software-techniques/"><u>Is Your Graphics Card Up to the Task? Diagnosing Hardware Efficiency with YL Software Techniques</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/no-image-on-monitor-discover-why-and-how-to-fix-it-with-yl-software-solutions/"><u>No Image on Monitor? Discover Why and How to Fix It with YL Software Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/precision-and-durability-in-every-detail-reviewing-the-stable-masterpiece-that-is-the-twelve-south-compass-pro/"><u>Precision and Durability in Every Detail: Reviewing the Stable Masterpiece That Is the Twelve South Compass Pro</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/revive-your-scanner-guide-to-updating-drivers-using-yl-software-solutions/"><u>Revive Your Scanner: Guide to Updating Drivers Using YL Software Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/self-healing-concrete-contains-healing-agents-that-are-activated-when-cracks-form-enabling-automatic-repair-and-extending-structure-life/"><u>Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-to-restoring-network-driver-functionality-by-yl-software-experts/"><u>Step-by-Step Guide to Restoring Network Driver Functionality by YL Software Experts</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-bmw-z4-roadster-hd-backdrops-for-any-device-innovative-designs-from-yl-computings-imagery-studio/"><u>Ultimate BMW Z4 Roadster HD Backdrops for Any Device: Innovative Designs From YL Computing's Imagery Studio</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/unlock-full-potential-guaranteeing-peak-efficiency-for-your-pc-with-yl-computing-and-ys-software-strategies/"><u>Unlock Full Potential: Guaranteeing Peak Efficiency for Your PC with YL Computing & YS Software Strategies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unveiling-the-secrets-of-efficient-audio-recordings/"><u>Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1728477270553-windows-10/"><u>Windows 10ユーザーへ:これが必見の驚異的なデータコピーソフトウェア！</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-software-solutions-for-restarting-malfunctioned-windows-services/"><u>YL Software Solutions for Restarting Malfunctioned Windows Services</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-youtubers-guide-to-ergonomic-stabilizers-for-cutting-edge-cinematography/"><u>[New] In 2024, YouTubers' Guide to Ergonomic Stabilizers for Cutting-Edge Cinematography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-glide-3-duel-illusionist-4-emerges-for-2024/"><u>[Updated] Glide 3 Duel Illusionist 4 Emerges for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-multimedia-mastery-tips-for-mass-photo-and-video-uploads/"><u>[Updated] In 2024, Instagram Multimedia Mastery Tips for Mass Photo & Video Uploads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-limits-4-futuristic-features-for-gpt-5/"><u>Beyond the Limits: 4 Futuristic Features for GPT-5</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/converting-text-into-engaging-flipbooks-using-sequential-ordering-techniques-in-flipbuilder/"><u>Converting Text Into Engaging Flipbooks Using Sequential Ordering Techniques in FlipBuilder</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-creation-and-publishing-of-ibooks-for-ipad-using-flippdf-builder-on-mac/"><u>Effortless Creation & Publishing of iBooks for iPad Using FlipPDF Builder on Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-effortlessly-using-manycams-advanced-software-and-virtual-webcam-features/"><u>Enhance Your Livestreams Effortlessly Using ManyCam's Advanced Software and Virtual Webcam Features</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-update-group-policy-on-pcs/"><u>Essential Steps to Update Group Policy on PCs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/essential-tips-for-crafting-effective-scenes-in-flip-programs-understanding-capabilities-and-boundaries/"><u>Essential Tips for Crafting Effective Scenes in Flip Programs: Understanding Capabilities and Boundaries</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-does-flipbuilder-utilize-folder-files-page-and-large-files-management-for-optimized-functionality/"><u>How Does FlipBuilder Utilize Folder, Files Page, and Large Files Management for Optimized Functionality?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-create-bilingual-button-labels-in-flipbuilder-mixing-portuguese-and-english/"><u>How to Create Bilingual Button Labels in FlipBuilder: Mixing Portuguese and English</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c110-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-use-flipbuilders-image-cropping-tool-on-your-project/"><u>How to Use FlipBuilder's Image Cropping Tool on Your Project</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-art-of-digital-flipping-your-guide-to-using-flipbooks-on-iphones-and-ipads/"><u>Mastering the Art of Digital Flipping: Your Guide to Using FlipBooks on iPhones and iPads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/revamp-your-ebook-layouts-master-changing-background-in-flipbuildercom/"><u>Revamp Your eBook Layouts: Master Changing Background in FlipBuilder.com</u></a></li>
 </ul></div>
 

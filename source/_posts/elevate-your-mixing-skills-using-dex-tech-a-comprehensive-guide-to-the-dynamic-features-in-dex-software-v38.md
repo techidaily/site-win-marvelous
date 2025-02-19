@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mixing Skills Using Dex Tech: A Comprehensive Guide to the Dynamic Features in DEX Software V3.8"
-date: 2025-02-02T03:07:08.854Z
-updated: 2025-02-08T17:55:55.146Z
+date: 2025-02-15T04:13:30.237Z
+updated: 2025-02-18T20:35:20.360Z
 tags:
   - product
 categories:
@@ -28,6 +28,10 @@ A couple other skin tweaks include better sizing to the musical “Key” displa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Here’s a look at skins/tabs included with DEX 3.8 and our opinion on their best individual uses:
 
 **4-DECK SKIN | FX TAB**
@@ -36,25 +40,21 @@ DJs get 4 full-featured players with the DEX 3 4-Deck Skin and FX Tab. This inte
 
 [4-DECK AUDIO/FX SKIN | VIEW LARGER IMAGE ![4 Deck Mixing software DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1920%2C1080&ssl=1 "4 Deck Mixing software DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4-DECK SKIN | VIDEO TAB**
 
 The 4-Deck Video Tab is widely popular for modern, versatile DJs that may want to mix both music and music videos in a session. Users of this skin/tab typically only require the basics controls for video mixing. DJs get 2-decks for music video mixing (that can be used for audio, too) and 2-decks for audio-only mixing (bottom two decks)
 
 [4-DECK VIDEO TAB | VIEW LARGER IMAGE ![DEX 3.8 DJ mixing software skin](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1920%2C1080&ssl=1 "DEX 3.8 DJ mixing software skin")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4-DECK SKIN | SCRATCH/SYNC TAB**
 
 Much like the default 4-Deck FX Tab, this tab is best used for audio-only mixing. The Scratch/Sync Tab is also only suitable for DJs using a DJ controller and/or timecode vinyl to control DEX 3.8 since it’s not equipped with mixer controls like the the other included 4-Deck Tabs. With the stretched vertical waveform’s it’s easier to see upcoming breaks in the track and if your songs are properly synced on-beat.
 
 [4-DECK SCRATCH/SYNC TAB | VIEW LARGER IMAGE ![DEX 3.8 4-deck skin with vertical waveform's](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1920%2C1080&ssl=1 "DEX 3.8 4-deck skin with vertical waveform's")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4-DECK SKIN | SAMPLER TAB**
 
@@ -69,7 +69,7 @@ For DJs that only mix two audio tracks (with sampler access) there is no better 
 [2-DECK SKIN WITH SAMPLE PLAYERS | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Skin with sample players](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Skin with sample players")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2-DECK SKIN | VIDEO TAB**
@@ -85,7 +85,7 @@ A no-frills 2-Deck Simple Skin also comes with DEX 3.8\. For 2-deck minimalist m
 [2-DECK SIMPLE SKIN | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Simple Skin](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-simple.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Simple Skin")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-simple.png?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DAYTIME (OUTSIDE/HIGH CONTRAST) SKINS**
@@ -94,11 +94,11 @@ Best of all, DEX 3.8 now includes daytime versions of all 2-deck and 4-deck skin
 
 [VIEW LARGER IMAGE OF DAYTIME SKIN MONTAGE ![DEX 3.8 DayTime Skin Montage](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1538%2C1292&ssl=1 "DEX 3.8 DayTime Skin Montage")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1030%2C865&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Have questions about our DEX 3.8 **DJ and Video Mixing software**, or the included **skins**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -119,19 +119,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/manyfacesofdex3.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-color-depth-explored-windows-hdri-for-editors/"><u>[New] 2024 Approved Color Depth Explored Windows HDRI for Editors</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comment-effacer-en-toute-securite-et-permanence-vos-donnees-sur-un-ssd-de-la-marque-samsung/"><u>Comment Effacer en Toute Sécurité Et Permanence Vos Données Sur Un SSD De La Marque Samsung</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-free-epson-stylus-nx420-drivers-compatible-with-windows-7810/"><u>Get Your Free Epson Stylus NX420 Drivers Compatible with Windows 7/8/10</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/guia-detallada-para-restablecer-tu-computadora-con-windows-n-en-un-click-y-asegurarte-su-eliminacion-completa/"><u>Guía Detallada Para Restablecer Tu Computadora Con Windows N en Un Click Y Asegurarte Su Eliminación Completa</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-reconnecting-your-fallout-76-game-on-pc-after-a-server-drop/"><u>Guide to Reconnecting Your Fallout 76 Game on PC After a Server Drop</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>New 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/screen-record-wizard-for-win11-enthusiasts-for-2024/"><u>Screen Record Wizard for Win11 Enthusiasts for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/simple-guide-to-saving-vevo-music-videos-in-mp3-format-without-hassle/"><u>Simple Guide to Saving Vevo Music Videos in MP3 Format Without Hassle</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solve-windows-11-gaming-recording-problems-with-effective-fixes/"><u>Solve Windows 11 Gaming Recording Problems with Effective Fixes</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-s9-to-a-windowsmac-computer/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy S9 to a Windows/Mac Computer</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-step-by-step-manual-securely-syncing-and-recovering-data-in-sql-databases-via-cli/"><u>Ultimate Step-by-Step Manual: Securely Syncing & Recovering Data in SQL Databases via CLI</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-noopener-in-seo-definitions-guidelines-and-effective-strategies/"><u>Understanding Noopener in SEO: Definitions, Guidelines & Effective Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[New] In 2024, Bright Beginnings on YouTube Launching and Revenue Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tagging-tactics-how-to-leverage-instagrams-top-25-hashtags/"><u>[New] Tagging Tactics How to Leverage Instagram's Top 25 Hashtags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-masterclass-in-instagram-story-downloads-and-creation/"><u>[Updated] 2024 Approved Masterclass in Instagram Story Downloads & Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-crafting-your-gaming-channel-on-youtube/"><u>2024 Approved Crafting Your Gaming Channel on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversational-cinema-choices-mastering-chatgpts-skills/"><u>Conversational Cinema Choices: Mastering ChatGPT's Skills</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/emeditor-text-editor-update-introducing-new-appdir-and-appdrive-parameters/"><u>EmEditor Text Editor Update: Introducing New $(AppDir) and $(AppDrive) Parameters</u></a></li>
+<li><a href="https://fox-place.techidaily.com/facebook-video-sharing-masterclass-how-to-post-and-share-with-ease/"><u>Facebook Video Sharing Masterclass: How to Post and Share with Ease</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-quickly-free-space-on-your-c-drive-in-windows-server-2019/"><u>How to Quickly Free Space on Your C: Drive in Windows Server 2019</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-transfer-a-comprehensive-tutorial-on-moving-and-reinstating-sql-server-databases/"><u>Mastering the Transfer: A Comprehensive Tutorial on Moving & Reinstating SQL Server Databases</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reversing-mcafee-antivirus-file-deletion-errors-your-ultimate-recovery-tutorial/"><u>Reversing McAfee Antivirus File Deletion Errors - Your Ultimate Recovery Tutorial</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-data-with-protected-mode-in-windows-781011-stress-free-privacy/"><u>Secure Your Data with Protected Mode in Windows 7/8/10/11 - Stress-Free Privacy</u></a></li>
 </ul></div>
 

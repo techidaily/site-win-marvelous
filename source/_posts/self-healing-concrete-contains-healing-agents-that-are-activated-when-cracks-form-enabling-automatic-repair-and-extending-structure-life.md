@@ -1,7 +1,7 @@
 ---
 title: Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.
-date: 2025-02-03T18:13:18.299Z
-updated: 2025-02-09T02:03:32.571Z
+date: 2025-02-13T01:47:08.233Z
+updated: 2025-02-19T04:15:56.152Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-embark-on-a-textual-adventure-14-spectacular-examples/"><u>[New] In 2024, Embark on a Textual Adventure 14 Spectacular Examples</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-the-world-of-ig-data-an-expert-guide-to-understanding-metrics/"><u>[New] In 2024, Navigating the World of IG Data An Expert Guide to Understanding Metrics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-the-mystery-mastering-attention-grabbing-posts-on-instagram/"><u>[New] In 2024, Unveiling the Mystery Mastering Attention-Grabbing Posts on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>[New] The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-portable-video-player-mkv-format/"><u>[New] Ultimate Portable Video Player (MKV Format)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-5-youtube-video-marketing-strategies/"><u>[Updated] 2024 Approved Top 5 YouTube Video Marketing Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-tools-to-download-your-favorite-pinterest-videos-for-nothing/"><u>[Updated] Leading Tools to Download Your Favorite Pinterest Videos for Nothing</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-can-you-fix-a-damaged-graphics-card-insights-from-yl-computings-expertise/"><u>How Can You Fix a Damaged Graphics Card? Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/is-your-graphics-card-up-to-the-task-diagnosing-hardware-efficiency-with-yl-software-techniques/"><u>Is Your Graphics Card Up to the Task? Diagnosing Hardware Efficiency with YL Software Techniques</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ultimate-bmw-z4-roadster-hd-backdrops-for-any-device-innovative-designs-from-yl-computings-imagery-studio/"><u>Ultimate BMW Z4 Roadster HD Backdrops for Any Device: Innovative Designs From YL Computing's Imagery Studio</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/unlock-full-potential-guaranteeing-peak-efficiency-for-your-pc-with-yl-computing-and-ys-software-strategies/"><u>Unlock Full Potential: Guaranteeing Peak Efficiency for Your PC with YL Computing & YS Software Strategies</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-software-solutions-for-restarting-malfunctioned-windows-services/"><u>YL Software Solutions for Restarting Malfunctioned Windows Services</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-curated-list-of-happiness-crying-combo-on-instagram-pages/"><u>[New] 2024 Approved A Curated List of Happiness-Crying Combo on Instagram Pages</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-guide-to-youtubes-premier-unboxers/"><u>[New] Essential Guide to YouTube's Premier Unboxers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-making-money-on-youtube-a-guide/"><u>[Updated] 2024 Approved Making Money on YouTube A Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtube-collaboration-for-effective-content-delivery/"><u>[Updated] 2024 Approved YouTube Collaboration for Effective Content Delivery</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-quick-guide-how-to-save-your-favorite-blip-tv-episodes-on-mac-and-pc/"><u>1. Quick Guide: How to Save Your Favorite Blip TV Episodes on Mac & PC</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/converting-your-domestika-course-downloads-into-various-formats-mp4-avi-and-more/"><u>Converting Your Domestika Course Downloads Into Various Formats (MP4, AVI, & More)</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/el-mejor-software-de-grabacion-de-dvd-gratuito-para-windows-10-convertir-mp4-mkv-y-mov-a-formato-dvd-en-2020/"><u>El Mejor Software De Grabación De DVD Gratuito Para Windows 10: Convertir MP4, MKV Y MOV a Formato DVD en 2020</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicated-erratic-code-22-in-gdriver/"><u>Eradicated Erratic Code #22 in GDRIVER</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-download-music-from-facebook-videos-and-save-as-mp3s-step-by-step-instructions/"><u>How To Download Music From Facebook Videos and Save as MP3s: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/quickdramasizer-save-and-convert-dramafire-episodes-for-offline-viewing-in-mp4/"><u>QuickDramasizer: Save and Convert DramaFire Episodes for Offline Viewing in MP4</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-favorite-patreon-shows-with-a-reliable-downloader-get-high-quality-videos-in-multiple-formats/"><u>Secure Your Favorite Patreon Shows with a Reliable Downloader - Get High-Quality Videos in Multiple Formats!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tiktokpc/"><u>TikTok対応動画をPCで切り抜き・編集するコツ</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/unlock-access-to-thousands-of-videos-and-lectures-streamline-your-data-collection-with-allavsoft-for-music-video-courses-and-beyond/"><u>Unlock Access to Thousands of Videos and Lectures - Streamline Your Data Collection with Allavsoft for Music, Video, Courses & Beyond!</u></a></li>
 </ul></div>
 
