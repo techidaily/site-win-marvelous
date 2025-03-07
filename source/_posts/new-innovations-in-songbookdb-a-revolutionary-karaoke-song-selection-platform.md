@@ -1,7 +1,7 @@
 ---
 title: "New Innovations in SongbookDB: A Revolutionary Karaoke Song Selection Platform"
-date: 2025-02-13T04:26:45.322Z
-updated: 2025-02-18T17:39:36.443Z
+date: 2025-03-05T16:44:45.786Z
+updated: 2025-03-07T19:09:21.819Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ These upgrades mark a significant leap forward in SongbookDB’s ongoing commitm
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s New, Changed, and Updated
 
 1. **Simplified Registration:** Singers can now send song requests without the need for an email address. They only need to provide a first name and an initial through the new Guest Account feature. However, singers can still choose to register a Full Account (for free) if they want to access the Favs folder. DJs can ban nuisance users from both Guest and Full accounts.
@@ -41,10 +37,6 @@ These upgrades mark a significant leap forward in SongbookDB’s ongoing commitm
 3. **Updated Promotional Tools:** A new version of the Letter and A4 size flyer is available. It includes your DJ code, QR code, and instructions on how to get the app. You can access this flyer through the ‘Promotional Tools’ menu option in the Dashboard at[www.songbookdb.com/dashboard](http://www.songbookdb.com/dashboard).
 4. **Improved Favs Folder:** The Favs folder has been upgraded to enhance its usability. Now, DJs will only receive song requests from the Favs folder for songs that they already have in their list.
 5. **Miscellaneous Improvements:** Several minor tweaks and bug fixes have been implemented.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -65,17 +57,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/06/songbookdb.jpg?fit=801%2C5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-transforming-srt-into-subc-top-3-actionable-steps/"><u>[New] Transforming SRT Into SUBC Top 3 Actionable Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-ai-an-innovators-toolkit-for-youtube-titles/"><u>[Updated] Harnessing AI An Innovator's Toolkit for YouTube Titles</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-on-mac-quick-setup-tips/"><u>[Updated] In 2024, Snapchat on Mac - Quick Setup Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-what-lies-beneath-the-core-of-asmr-videos-for-2024/"><u>[Updated] What Lies Beneath The Core of ASMR Videos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289541025-2022-dvd-3/"><u>2022 DVD 到电脑保存策略：理解最适合的3种方法</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-unique-content-in-our-customizable-flipbooks-at-flipbuildercom/"><u>Discover Unique Content in Our Customizable Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/easy-steps-to-create-interactive-pdfs-with-page-turning-features-on-flipbuilder/"><u>Easy Steps to Create Interactive PDFs with Page-Turning Features on FlipBuilder</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effective-solutions-for-windows-users-facing-realtek-alc887-sound-card-glitches/"><u>Effective Solutions for Windows Users Facing Realtek ALC887 Sound Card Glitches</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/get-crystal-clear-flipbook-views-on-flipbuildercom-discover-easy-tips-to-browse-better/"><u>Get Crystal-Clear Flipbook Views on FlipBuilder.com - Discover Easy Tips to Browse Better</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-tailor-your-flipbooks-pre-loader-with-swf-customization-techniques-learn-at-flipbuildercom/"><u>How to Tailor Your FlipBook's Pre-Loader with SWF Customization Techniques [Learn at FlipBuilder.com]</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/optimize-your-digital-flipbook-layout-tips-for-aligning-page-size-proportions/"><u>Optimize Your Digital FlipBook Layout: Tips for Aligning Page Size Proportions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/optimized-intel-xe-gpu-drivers-for-windows-10-and-11-free-download/"><u>Optimized Intel Xe GPU Drivers for Windows 10 and 11 - Free Download</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blending-images-and-audio-for-dynamic-videos/"><u>[New] Blending Images and Audio for Dynamic Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xcellent-choice-for-capturing-professional-quality-on-youtube/"><u>[New] Excellent Choice for Capturing Professional Quality on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/elf-balancing-snap-shots-without-supports/"><u>[New] Self-Balancing Snap Shots Without Supports</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-video-cameras-to-shoot-musical-videos-4khd-2024/"><u>[Updated] 10 Best Video Cameras to Shoot Musical Videos (4K/HD) 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-video-reach-in-youtubes-seo-arena/"><u>[Updated] Maximize Video Reach in YouTube's SEO Arena</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-speedy-methods-for-moving-files-from-your-android-device-to-windows-computer/"><u>1. Speedy Methods for Moving Files From Your Android Device to Windows Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-fix-putting-back-that-lost-key-on-your-laptop-keyscape/"><u>DIY Fix: Putting Back That Lost Key on Your Laptop Keyscape</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effective-methods-how-to-seamlessly-transform-pdf-files-into-epub-books/"><u>Effective Methods: How to Seamlessly Transform PDF Files Into EPUB Books</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-transfer-how-to-convert-mkv-videos-to-play-on-your-android-device/"><u>Effortless Transfer: How to Convert MKV Videos to Play on Your Android Device</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-free-download-and-convert-m4a-audio-tracks-into-mp3-format-the-ultimate-guide/"><u>How to Free Download and Convert M4A Audio Tracks Into MP3 Format - The Ultimate Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-make-every-snap-count-top-15-tips-and-tricks/"><u>In 2024, How to Make Every Snap Count Top 15 Tips & Tricks</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-crafting-stunning-2x2-images-on-iphone-with-expert-photo-editor-tools/"><u>Step-by-Step Guide: Crafting Stunning 2X2 Images on iPhone with Expert Photo Editor Tools</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-showing-your-iphones-display-on-a-windows-or-mac-computer/"><u>Step-by-Step Guide: Showing Your iPhone's Display on a Windows or Mac Computer</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-instructions-effortlessly-navigating-zepeto-on-your-computer-screen/"><u>Step-by-Step Instructions: Effortlessly Navigating Zepeto on Your Computer Screen</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-strategies-for-sharpening-images-a-comprehensive-guide/"><u>Top Strategies for Sharpening Images : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/top-ranked-pdf-cleaner-effortless-deletion-and-removal-of-documents/"><u>Top-Ranked PDF Cleaner: Effortless Deletion & Removal of Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-windows-side-by-side-conflict/"><u>Troubleshooting: Resolving 'Windows Side-by-Side Conflict'</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-common-reasons-behind-your-pcs-error-messages-a-guide-by-yl-computing/"><u>Understanding Common Reasons Behind Your PC's Error Messages - A Guide by YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/windows-11-apps-and-games-to-explore-and-download/"><u>Windows 11 Apps and Games to Explore and Download</u></a></li>
 </ul></div>
 

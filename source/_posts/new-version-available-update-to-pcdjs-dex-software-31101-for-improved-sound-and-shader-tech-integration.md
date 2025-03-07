@@ -1,7 +1,7 @@
 ---
 title: "New Version Available: Update to PCDJ's DEX Software (3.11.0.1) for Improved Sound & Shader Tech Integration"
-date: 2025-02-12T00:03:50.323Z
-updated: 2025-02-18T20:04:32.702Z
+date: 2025-03-04T18:43:35.571Z
+updated: 2025-03-07T16:10:15.112Z
 tags:
   - product
 categories:
@@ -34,10 +34,6 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed and Updated in DEX 3.11.0.1
 
 * Added Visualizations (using [ShaderToy.com](http://www.shadertoy.com) shaders) – you can add new shaders from ShaderToy.com, rename, remove them, etc
@@ -56,17 +52,9 @@ Please view the complete list of updates and changes below. DEX 3.11 furthers ou
 
 _**DEX 3.11.0.1 Install Instructions:** With your existing version of DEX 3 closed, download and install version 3.11.0.1\. The free update will seamlessly patch over-top you’re existing DEX 3 version, leaving all your existing data and activation intact._ 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Demonstrating ‘Shader’ Support in DEX 3.11
 
 _Have questions about our **best DJ software** for mixing all types of media? Post your DEX 3.11 questions below and someone will respond promptly!_ 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -87,24 +75,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/07/DEX3WITHshadersupport.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>[Updated] In 2024, Maximizing Your Tech Efforts A Detailed Look at ShowMore’s Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-premium-selection-the-ultimate-15-video-devices/"><u>[Updated] In 2024, Premium Selection The Ultimate 15 Video Devices</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728481301329-emmcssd/"><u>「ストレスなしで、自由にeMMCからSSDへのデータ移行ガイド」</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-youtube-dominance-a-comprehensive-guide-to-studio-success/"><u>2024 Approved Unleash YouTube Dominance A Comprehensive Guide to Studio Success</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/mac-outlook/"><u>如何在 Mac 上完成 Outlook 电子邮件导出：步骤指南</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/come-recuperare-gli-elementi-cancellati-nelle-cartelle-download-su-windows-1011-metodi-facili-da-seguire/"><u>Come Recuperare Gli Elementi Cancellati Nelle Cartelle Download Su Windows 10/11 – Metodi Facili Da Seguire</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/como-crear-y-utilizar-imagenes-de-respaldo-de-bare-metal-bmr-con-windows-response-to-instruction-1-create-a-guide-for-setting-up-a-nginx-server-on-ubuntu/"><u>Cómo Crear Y Utilizar Imágenes De Respaldo De Bare-Metal (BMR) Con Windows # Response to Instruction 1: Create a Guide for Setting up a Nginx Server on Ubuntu.</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comprehensive-guide-for-converting-your-hard-disk-to-solid-state-drive-on-a-windows-11-pc/"><u>Comprehensive Guide for Converting Your Hard Disk to Solid State Drive on a Windows 11 PC</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/debrouille-toi-avec-le-probleme-de-parametres-incorrects-dans-dism-error-87-sur-windows-nova-solutions-rapides-et-efficaces/"><u>Débrouille-Toi Avec Le Problème De Paramètres Incorrects Dans DISM (Error 87) Sur Windows Nova – Solutions Rapides Et Efficaces</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-windows-11s-net-settings/"><u>Delving Into Windows 11'S Net Settings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-websites-to-streamline-your-apartment-search/"><u>Discover the Best Websites to Streamline Your Apartment Search</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effettuare-la-distribuzione-di-immagini-del-sistema-su-piu-mac-tramite-rete/"><u>Effettuare La Distribuzione Di Immagini Del Sistema Su Più Mac Tramite Rete</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-call-of-duty-vanguard-performance-for-pc-gaming-end-of-the-crash-saga/"><u>Enhanced Call of Duty Vanguard Performance for PC Gaming - End of the Crash Saga</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-civi-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Civi 3 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/reaktion-auf-ausfall-der-temporaren-speichereinstellungen-von-icloud-unter-ios-15-and-16-losungswege/"><u>Reaktion Auf Ausfall Der Temporären Speichereinstellungen Von iCloud Unter iOS 15 & 16: Lösungswege</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-onedrive-integration-a-simple-guide-to-automatically-synchronizing-your-two-pcs/"><u>Seamless OneDrive Integration: A Simple Guide to Automatically Synchronizing Your Two PCs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-asus-router-models-in-2e24/"><u>Top-Ranking Asus Router Models in 2E24</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/form-your-games-into-a-live-stream-spectacle/"><u>Transform Your Games Into a Live Stream Spectacle</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-gamers-playbook-4-essential-steps-for-recording-games/"><u>[New] The Gamer's Playbook 4 Essential Steps for Recording Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>[Updated] In 2024, The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-instant-recording-audio-enriched-screens-for-2024/"><u>[Updated] Instant Recording Audio-Enriched Screens for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728484083537-windows-server/"><u>信頼できるバックアップソフトを探す:Windows Server用ベストリスト</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comment-eliminer-la-sauvegarde-automatique-avec-wbadmin-sur-windows-serveur-guide-detaille/"><u>Comment Éliminer La Sauvegarde Automatique Avec Wbadmin Sur Windows Serveur : Guide Détaillé</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/diskpart-clean-command-successfully-resolved-error-fix-tips/"><u>DiskPart Clean Command Successfully Resolved: Error Fix Tips</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-icloud-photo-sharing-move-memories-between-iphones-without-a-cord/"><u>Effortless iCloud Photo Sharing: Move Memories Between iPhones Without a Cord</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/expertentests-und-rezensionen-fur-die-backup-losung-aomei-backupper/"><u>Expertentests Und Rezensionen Für Die Backup-Lösung AOMEI Backupper</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-solutions-for-a-non-functioning-sound-blaster-microphone/"><u>Quick Solutions for a Non-Functioning Sound Blaster Microphone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-inkjet-non-operational/"><u>Repaired Inkjet Non-Operational</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-6-best-free-online-audio-editor-to-use-100-free/"><u>Updated 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-14-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 14 Pro i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728470585116-windows-1011/"><u>Windows 10/11におけるディスクパーティショニング削除手順</u></a></li>
 </ul></div>
 
